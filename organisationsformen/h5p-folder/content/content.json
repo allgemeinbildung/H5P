@@ -9,13 +9,13 @@
         "expandImage": "Bild vergrößern",
         "minimizeImage": "Bild verkleinern",
         "file": {
-          "mime": "image/png",
+          "mime": "image/jpg",
           "copyright": {
             "license": "U"
           },
           "width": 52,
           "height": 52,
-          "path": "images/img_1.png"
+          "path": "images/img_1.jpg"
         }
       },
       "library": "H5P.Image 1.1",
@@ -2369,13 +2369,13 @@
                   }
                 ],
                 "backgroundImage": {
-                  "mime": "image/png",
+                  "mime": "image/jpg",
                   "copyright": {
                     "license": "U"
                   },
                   "width": 52,
                   "height": 52,
-                  "path": "images/img_2.png"
+                  "path": "images/img_2.jpg"
                 },
                 "endGame": {
                   "showResultPage": true,
