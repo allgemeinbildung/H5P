@@ -2369,13 +2369,13 @@
                   }
                 ],
                 "backgroundImage": {
-                  "mime": "image/jpg",
+                  "mime": "image/png",
                   "copyright": {
                     "license": "U"
                   },
                   "width": 52,
                   "height": 52,
-                  "path": "images/img_2.jpg"
+                  "path": "images/img_2.png"
                 },
                 "endGame": {
                   "showResultPage": true,
