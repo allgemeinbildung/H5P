@@ -75,7 +75,7 @@
                     "title": "Normalsatz",
                     "content": {
                       "params": {
-                        "text": "<p>Der <strong>Normalsatz</strong> ist der reguläre Steuersatz von aktuell <strong>7.7%</strong>, der für die meisten Güter und Dienstleistungen wie Computer oder Alkohol gilt.</p>"
+                        "text": "<p>Der <strong>Normalsatz</strong> ist der reguläre Steuersatz von aktuell <strong>8.1%</strong>, der für die meisten Güter und Dienstleistungen wie Computer oder Alkohol gilt.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
                       "subContentId": "9b386fda-7c04-43fd-86b8-1f99dac1a469",
@@ -92,7 +92,7 @@
                     "title": "Reduzierter Satz",
                     "content": {
                       "params": {
-                        "text": "<p>Der <strong>reduzierte Satz</strong> von <strong>2.5%</strong> gilt für Güter des <strong>täglichen Bedarfs</strong>, wie beispielsweise Nahrungsmittel und Medikamente.</p>"
+                        "text": "<p>Der <strong>reduzierte Satz</strong> von <strong>2.6%</strong> gilt für Güter des <strong>täglichen Bedarfs</strong>, wie beispielsweise Nahrungsmittel und Medikamente.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
                       "subContentId": "fd89add0-319d-43e7-81b1-5a451e167bf4",
@@ -109,7 +109,7 @@
                     "title": "Sondersatz",
                     "content": {
                       "params": {
-                        "text": "<p>Der <strong>Sondersatz</strong> von <strong>3.7%</strong> wird speziell für <strong>Beherbergungsleistungen</strong>, wie Übernachtungen inklusive Frühstück, angewendet.</p>"
+                        "text": "<p>Der <strong>Sondersatz</strong> von <strong>3.8%</strong> wird speziell für <strong>Beherbergungsleistungen</strong>, wie Übernachtungen inklusive Frühstück, angewendet.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
                       "subContentId": "e63f9b36-bc6d-473d-9504-88b225bb4333",
@@ -270,7 +270,7 @@
                               },
                               {
                                 "summary": [
-                                  "Bei einem Preis von 1077 Franken, wobei 7.7% Mehrwertsteuer enthalten sind, gehen 77 Franken an den Staat.",
+                                  "Bei einem Preis von 1077 Franken, wobei 8.1% Mehrwertsteuer enthalten sind, gehen 77 Franken an den Staat.",
                                   "Bei einem Preis von 1077 Franken gehen 100 Franken als Mehrwertsteuer an den Staat.",
                                   "Der gesamte Betrag von 1077 Franken fliesst in die Unternehmung."
                                 ],
@@ -1526,14 +1526,14 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Sie kaufen ein neues Smartphone für CHF 538.50 (inkl. 7.7% MWST). Welcher Betrag fliesst ungefähr an das Unternehmen (Nettopreis)?</p>",
+                      "question": "<p>Sie kaufen ein neues Smartphone für CHF 538.50 (inkl. 8.1% MWST). Welcher Betrag fliesst ungefähr an das Unternehmen (Nettopreis)?</p>",
                       "answers": [
                         {
                           "text": "CHF 500.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Der Preis von CHF 538.50 entspricht 107.7%. Der Nettopreis (100%) beträgt somit CHF 500.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Der Preis von CHF 538.50 entspricht 108.1%. Der Nettopreis (100%) beträgt somit CHF 500.",
                             "notChosenFeedback": ""
                           }
                         },
@@ -1823,14 +1823,14 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Ein Grosshändler kauft Lampen für CHF 200 (netto) vom Produzenten und verkauft sie an einen Detailhändler für CHF 300 (netto). Der Normalsatz beträgt 7.7%. Wie viel Mehrwertsteuer muss der Grosshändler an den Staat abführen, unter Berücksichtigung der Vorsteuer?</p>",
+                      "question": "<p>Ein Grosshändler kauft Lampen für CHF 200 (netto) vom Produzenten und verkauft sie an einen Detailhändler für CHF 300 (netto). Der Normalsatz beträgt 8.1%. Wie viel Mehrwertsteuer muss der Grosshändler an den Staat abführen, unter Berücksichtigung der Vorsteuer?</p>",
                       "answers": [
                         {
-                          "text": "CHF 7.70.",
+                          "text": "CHF 8.10.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Der Grosshändler versteuert nur den Mehrwert, den er geschaffen hat (CHF 100). Die Steuer darauf beträgt CHF 7.70.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Der Grosshändler versteuert nur den Mehrwert, den er geschaffen hat (CHF 100). Die Steuer darauf beträgt CHF 8.10.",
                             "notChosenFeedback": ""
                           }
                         },
@@ -2146,7 +2146,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Wenn Sie im Supermarkt ein Buch für CHF 20 kaufen, ist darin der Normalsatz der Mehrwertsteuer von 7.7% enthalten.</p>",
+                      "question": "<p>Wenn Sie im Supermarkt ein Buch für CHF 20 kaufen, ist darin der Normalsatz der Mehrwertsteuer von 8.1% enthalten.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -2155,8 +2155,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Bücher fallen gemäss Video unter den <strong>reduzierten Satz</strong> von 2.5%.",
-                        "feedbackOnWrong": "❌ Falsch. Das Video nennt Bücher als Beispiel für Güter, die dem <strong>reduzierten Satz</strong> (aktuell 2.5%) unterliegen, nicht dem Normalsatz."
+                        "feedbackOnCorrect": "✅ Richtig! Bücher fallen gemäss Video unter den <strong>reduzierten Satz</strong> von 2.6%.",
+                        "feedbackOnWrong": "❌ Falsch. Das Video nennt Bücher als Beispiel für Güter, die dem <strong>reduzierten Satz</strong> (aktuell 2.6%) unterliegen, nicht dem Normalsatz."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2202,7 +2202,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Ein Hotel, das nur Zimmer ohne Frühstück anbietet, kann trotzdem den Sondersatz für Beherbergung von 3.7% anwenden.</p>",
+                      "question": "<p>Ein Hotel, das nur Zimmer ohne Frühstück anbietet, kann trotzdem den Sondersatz für Beherbergung von 3.8% anwenden.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
