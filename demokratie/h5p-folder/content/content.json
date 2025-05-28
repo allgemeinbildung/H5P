@@ -1,0 +1,2122 @@
+{
+  "showCoverPage": true,
+  "bookCover": {
+    "coverDescription": "<h1 style=\"text-align:center\">Demokratie unter Druck</h1><h3 style=\"text-align:center\">Eine Analyse des globalen Zustands basierend auf dem Beitrag der SRF Tagesschau Reihe \"Brennpunkt Demokratie\"</h3>",
+    "coverMedium": {
+      "params": {
+        "decorative": false,
+        "contentName": "Bild",
+        "expandImage": "Bild vergrößern",
+        "minimizeImage": "Bild verkleinern",
+        "file": {
+          "mime": "image/png",
+          "copyright": {
+            "license": "U"
+          },
+          "width": 52,
+          "height": 52,
+          "path": "images/img_1.png"
+        }
+      },
+      "library": "H5P.Image 1.1",
+      "metadata": {
+        "contentType": "Image",
+        "license": "U",
+        "title": "Cover Bild",
+        "authors": [],
+        "changes": []
+      },
+      "subContentId": "d25b39eb-bd9e-4ee0-b2db-40ec62c53442"
+    }
+  },
+  "chapters": [
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Einleitung: Die Demokratie in der heutigen Welt</h2><ul><li>Sie erfahren, wie sich das Konzept der liberalen Demokratie seit Francis Fukuyamas These vom „Ende der Geschichte“ entwickelt hat.</li><li>Sie verstehen die aktuellen globalen Trends, die einen Rückgang von Demokratien und einen Vormarsch von Autokratien aufzeigen.</li><li>Sie lernen anhand von Beispielen, wie populistische Bewegungen demokratische Institutionen erodieren können und welche Rolle die Zivilgesellschaft im Kampf für demokratische Rechte spielt.</li></ul><p>Dieser Beitrag beleuchtet den aktuellen Zustand der Demokratie weltweit. Ausgehend von der einstigen Annahme, die liberale Demokratie würde sich global durchsetzen, untersuchen wir die gegenwärtigen Herausforderungen, den Vormarsch autokratischer Systeme und die Bedeutung bürgerlichen Engagements für den Erhalt demokratischer Werte.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Einleitungstext",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "bdf416d8-00e2-443f-89d3-80ba5b0de7ca"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "panels": [
+                  {
+                    "title": "Liberale Demokratie",
+                    "content": {
+                      "params": {
+                        "text": "<p>Eine Staatsform, die auf <strong>freien Wahlen</strong>, <strong>Rechtsstaatlichkeit</strong> und <strong>Menschenrechten</strong> basiert und deren globale Verbreitung aktuell stagniert bzw. rückläufig ist.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "277b1fea-269d-49e6-b7c9-136bafb1f3be",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Liberale Demokratie",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Autokratie",
+                    "content": {
+                      "params": {
+                        "text": "<p>Ein Regierungssystem, in dem eine einzelne Person oder eine kleine Gruppe <strong>uneingeschränkte Macht</strong> ausübt, oft gekennzeichnet durch <strong>Repression</strong> und die Kontrolle der Justiz.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "de232fb9-93ae-4ca9-b7cf-10a49badb284",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Autokratie",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Populismus",
+                    "content": {
+                      "params": {
+                        "text": "<p>Politische Bewegungen oder Parteien, die oft eine direkte Ansprache an das „Volk“ suchen und nach Machtübernahme dazu neigen können, demokratische <strong>Spielregeln zu ihren Gunsten</strong> zu verändern.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "1fcc4011-678b-41bc-899e-57f6b0ef8aca",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Populismus",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Rechtsstaatlichkeit",
+                    "content": {
+                      "params": {
+                        "text": "<p>Ein Prinzip, bei dem die Ausübung staatlicher Macht an <strong>Gesetze gebunden</strong> ist und unabhängige Gerichte die Einhaltung überwachen; ein Merkmal, das in einigen Demokratien erodiert.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "2726ebac-91bc-4c78-af57-2daac3a8df1a",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Rechtsstaatlichkeit",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Das Ende der Geschichte",
+                    "content": {
+                      "params": {
+                        "text": "<p>Ein von Francis Fukuyama geprägter Begriff, der nach dem Ausbruch der Sowjetunion die These aufstellte, dass sich die <strong>liberale Demokratie</strong> weltweit als vorherrschende Staatsform durchsetzen würde.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "b9444639-89fc-4558-bec0-bd72a3a1b6c8",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Das Ende der Geschichte",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  }
+                ],
+                "hTag": "h2"
+              },
+              "library": "H5P.Accordion 1.0",
+              "metadata": {
+                "contentType": "Accordion",
+                "license": "U",
+                "title": "Wichtige Begriffe",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Wichtige Begriffe"
+              },
+              "subContentId": "3b900fc8-a86b-4930-b1a2-67c6cf7107d3"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "48b06e49-87e8-4d05-a33a-c37b5439c5d8",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Einleitung",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Einleitung"
+      }
+    },
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Brennpunkt Demokratie: Der Zustand der Demokratien weltweit</h2><p>Schauen oder hören Sie den folgenden Beitrag aufmerksam. Im Anschluss werden Sie den Inhalt zusammenfassen und Fragen dazu beantworten.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Iframe Einleitung",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "671e5a03-34ad-4a4d-9fce-e6242ef69301"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "source": "https://www.nanoo.tv/link/w/xKPkWDLN",
+                "width": "700",
+                "minWidth": "500",
+                "height": "500",
+                "resizeSupported": true
+              },
+              "library": "H5P.IFrameEmbed 1.0",
+              "metadata": {
+                "contentType": "Iframe Embedder",
+                "license": "U",
+                "title": "SRF Tagesschau: Brennpunkt Demokratie",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "SRF Tagesschau: Brennpunkt Demokratie"
+              },
+              "subContentId": "68a1b6f1-7d13-4250-97bf-b00700c198df"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "bb432068-01b9-40d8-a115-2916db8a0eea",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Der Beitrag",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Der Beitrag"
+      }
+    },
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Was haben Sie behalten?</h2><p>Überprüfen Sie Ihr Verständnis der Hauptpunkte, indem Sie die richtigen Aussagen auswählen.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Zusammenfassung Einleitung",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "516e67f0-721b-4385-9e18-f8c76798e15f"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "intro": "<p>Wählen Sie jeweils die korrekte Aussage, die den Inhalt des Beitrags am besten wiedergibt.</p>",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Fortschritt:",
+                "scoreLabel": "Falsche Antworten:",
+                "resultLabel": "Dein Ergebnis",
+                "labelCorrect": "Richtig.",
+                "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                "alternativeIncorrectLabel": "Falsch",
+                "labelCorrectAnswers": "Richtige Antwort(en).",
+                "tipButtonLabel": "Tipp anzeigen",
+                "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                "progressText": "Fortschritt :num von :total",
+                "summaries": [
+                  {
+                    "summary": [
+                      "Fukuyamas These vom \"Ende der Geschichte\" ist widerlegt; Demokratien sind global auf dem Rückzug.",
+                      "Francis Fukuyama prognostizierte präzise den weltweiten, unaufhaltsamen Vormarsch von Autokratien nach 1990.",
+                      "Die liberale Demokratie, wie von Fukuyama beschrieben, hat sich als die global absolut dominante Staatsform durchgesetzt."
+                    ],
+                    "subContentId": "45ddff0b-b908-4ea2-8074-72082865801c",
+                    "tip": "Denken Sie an die Erwartungen nach dem Kalten Krieg und die aktuelle Entwicklung."
+                  },
+                  {
+                    "summary": [
+                      "Aktuell leben deutlich weniger Menschen in Demokratien als vor 20 Jahren, und Autokratien sind zahlenmässig auf dem Vormarsch.",
+                      "Die Anzahl der Demokratien weltweit ist in den letzten zwei Jahrzehnten stabil geblieben, während Autokratien nur geringfügig zugenommen haben.",
+                      "Trotz globaler Herausforderungen lebt heute eine klare Mehrheit der Weltbevölkerung in sehr stabilen demokratischen Systemen."
+                    ],
+                    "subContentId": "24bb43e4-6588-499b-a60e-bf7cc3e79867",
+                    "tip": "Wie hat sich das Verhältnis von Demokratien zu Autokratien laut dem Beitrag und dem VAUDEM-Institut verändert?"
+                  },
+                  {
+                    "summary": [
+                      "Populistische Bewegungen können demokratische Institutionen erodieren, indem sie Spielregeln zu ihren Gunsten ändern.",
+                      "Populistische Parteien stärken typischerweise die demokratischen Institutionen durch eine direktere Volksbeteiligung.",
+                      "Populismus führt fast immer zu einer signifikanten Verbesserung der Demokratiequalität, da er alte Machtstrukturen aufbricht."
+                    ],
+                    "subContentId": "e1fbba39-deaf-4b10-a546-d14e3fa900ae",
+                    "tip": "Welchen Einfluss haben solche Bewegungen laut Daniel Kübler auf bestehende demokratische Regeln?"
+                  },
+                  {
+                    "summary": [
+                      "Autokratische Systeme dominieren im Mittleren Osten, Afrika, Asien und Osteuropa; Länder wie Tunesien zeigen demokratische Rückschritte.",
+                      "Liberale Demokratien sind besonders im Mittleren Osten auf dem Vormarsch, während Westeuropa zunehmend autokratische Tendenzen aufweist.",
+                      "Länder wie Tunesien und Indien gelten als unumstössliche Vorbilder für die dauerhaft erfolgreiche Etablierung liberaler Demokratien weltweit."
+                    ],
+                    "subContentId": "e156a4a9-4bfb-4839-a538-fcc6fa2ae69f",
+                    "tip": "Erinnern Sie sich an die genannten Regionen und die Beispiele für Länder mit demokratischen Rückschritten oder Herausforderungen."
+                  },
+                  {
+                    "summary": [
+                      "Bürger und Zivilgesellschaft spielen eine wesentliche Rolle bei der Verteidigung demokratischer Institutionen.",
+                      "Der Widerstand der Zivilgesellschaft gegen antidemokratische Trends ist global gesehen eher unbedeutend und wirkungslos.",
+                      "Demokratische Institutionen können sich meist auch ohne das aktive Engagement der Bürger selbstständig erhalten und regenerieren."
+                    ],
+                    "subContentId": "fbedd8d4-1f63-4cc7-b36c-1cb05a3a938d",
+                    "tip": "Welche Akteure werden im Beitrag als Kämpfer für demokratische Rechte und als wichtiger Punkt gegen den Zusammenbruch der Demokratie genannt?"
+                  }
+                ]
+              },
+              "library": "H5P.Summary 1.10",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Kernaussagen auswählen",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Kernaussagen auswählen"
+              },
+              "subContentId": "db7c02d3-4276-485f-830d-fa28ee4c6134"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "2bf5b934-68f3-4e78-af5f-c0137caa198b",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Zusammenfassung der Kernaussagen",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Zusammenfassung der Kernaussagen"
+      }
+    },
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Überprüfen Sie Ihr Wissen</h2><p>Testen Sie Ihr Verständnis des Beitrags, indem Sie die folgenden Fragen beantworten. Wählen Sie bei Multiple-Choice-Fragen die korrekte Antwort und bei Wahr/Falsch-Fragen die zutreffende Option.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Fragen Einleitung",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "33ff5224-9107-4f01-8127-a79c7f76bd14"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "introPage": {
+                  "showIntroPage": true,
+                  "startButtonText": "Quiz starten",
+                  "title": "Quiz: Demokratie im Wandel – Globale Perspektiven",
+                  "introduction": ""
+                },
+                "progressType": "dots",
+                "passPercentage": 50,
+                "disableBackwardsNavigation": false,
+                "randomQuestions": true,
+                "poolSize": 10,
+                "questions": [
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welchen Begriff prägte Francis Fukuyama im Zusammenhang mit der Annahme, dass sich die liberale Demokratie weltweit durchsetzen würde?</p>",
+                      "answers": [
+                        {
+                          "text": "Das Ende der Geschichte",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Fukuyama sprach vom „Ende der Geschichte“.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Der Kampf der Kulturen",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Dieser Begriff stammt von Samuel P. Huntington.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Der Vormarsch der Autokratie",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Fukuyamas These war optimistischer bezüglich der Demokratie.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "712f1197-a252-4737-b1ef-b250dfb49360",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welcher Anteil der Weltbevölkerung lebt heute laut dem Beitrag noch in Demokratien?</p>",
+                      "answers": [
+                        {
+                          "text": "Knapp ein Drittel",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Vor gut 20 Jahren war es noch die Hälfte.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Etwa die Hälfte",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Dieser Wert galt vor etwa 20 Jahren.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Mehr als zwei Drittel",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Leider ist der Anteil gesunken.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "f13163ac-0e76-426f-818c-265c1731d5df",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Wie viele Autokratien und Demokratien gibt es derzeit weltweit gemäss dem Demokratieforschungsinstitut VAUDEM?</p>",
+                      "answers": [
+                        {
+                          "text": "91 Autokratien und 88 Demokratien",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Autokratien sind laut dieser Zählung leicht in der Überzahl.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "88 Autokratien und 91 Demokratien",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Die Zahlen sind vertauscht.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weniger als 50 Autokratien weltweit",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Die Zahl der Autokratien ist deutlich höher.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "280e8fc2-d756-42a3-976d-19987019b7fe",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welcher Experte vom Zentrum für Demokratie in Aarau wird im Beitrag zitiert?</p>",
+                      "answers": [
+                        {
+                          "text": "Daniel Kübler",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Er äussert sich zum Rückgang der Demokratiequalität.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Francis Fukuyama",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Fukuyama ist für die These vom „Ende der Geschichte“ bekannt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Stefanie Schunke",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Stefanie Schunke ist die Reporterin des Beitrags.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "6171fea7-2e5f-45ad-be13-976566e0a591",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Was implizierte Fukuyamas These vom „Ende der Geschichte“ bezüglich der Staatsformen?</p>",
+                      "answers": [
+                        {
+                          "text": "Die liberale Demokratie setzt sich global durch.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Er sah sie als Endpunkt der ideologischen Evolution.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Alle Kriege und Konflikte würden weltweit enden.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Es bezog sich auf das dominante politische System, nicht das Ende aller Konflikte.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Autokratien würden als effizientere Systeme die Demokratien ablösen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Fukuyamas These war das Gegenteil dieser Aussage.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "d09b5ade-a1d7-40b4-b7a2-53b38c4ba7a0",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Wie führt der Aufstieg von populistischen Parteien laut Daniel Kübler oft zur Erosion der Demokratie?</p>",
+                      "answers": [
+                        {
+                          "text": "Durch die Veränderung von Spielregeln zu ihren Gunsten an der Macht.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies führt zur Schwächung demokratischer Institutionen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Indem sie stets die direkte Demokratie und Volksabstimmungen stärken.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Auch wenn sie sich oft auf das „Volk“ berufen, ist die Veränderung von Regeln das genannte Problem.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Durch konsequente Stärkung der Unabhängigkeit von Justiz und Medien.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Oft ist das Gegenteil der Fall, um die eigene Macht zu sichern.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "8a67c473-f7d7-4977-97c1-f6ec82035b4c",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Was zeigte das Ergebnis der letzten Wahlen in Indien laut dem Beitrag?</p>",
+                      "answers": [
+                        {
+                          "text": "Dem hindu-nationalistischen Kurs von Modi wurden Grenzen aufgezeigt.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Modi verlor seine absolute Mehrheit im Parlament.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die absolute Macht von Narendra Modi wurde weiter gefestigt.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Er verlor die absolute Mehrheit.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Oppositionsparteien wurden vollständig marginalisiert und bedeutungslos.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Ergebnis deutet eher auf eine Stärkung der Opposition hin.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "60652dc5-78f4-40b2-afe4-cd30d527c44d",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Was ist laut dem Beitrag ein wesentlicher Punkt, damit eine Demokratie nicht zusammenbricht, wie Beispiele wie Indien, Brasilien oder Polen zeigen?</p>",
+                      "answers": [
+                        {
+                          "text": "Die Bürgerinnen und Bürger wehren sich für demokratische Institutionen.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Der aktive Einsatz der Bevölkerung ist entscheidend.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die internationale Gemeinschaft greift frühzeitig und entschieden ein.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Der Beitrag betont die Rolle der internen Akteure, der Bürger.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die wirtschaftliche Lage des Landes ist stabil und prosperierend.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Obwohl relevant, wird der Bürgerwiderstand als wesentlich hervorgehoben.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "5b87fada-286c-4c1c-bac1-cb3c3ab3fafb",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>In welchen der folgenden Regionen dominieren laut Beitrag autokratische Länder besonders?</p>",
+                      "answers": [
+                        {
+                          "text": "Mittlerer Osten, Afrika, Asien",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Diese Regionen sowie Osteuropa wurden genannt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Nordamerika und Westeuropa",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> In diesen Regionen ist die Zivilgesellschaft aktiv im Kampf für Demokratie.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Australien und Neuseeland",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Diese Länder gelten als stabile Demokratien.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "baf60e47-fa20-44cc-9b2f-8f600e379f70",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welches Land wurde im Beitrag als Beispiel für die Aushöhlung von Rechtsstaatlichkeit und Menschenrechten unter Präsident Kais Saeed genannt?</p>",
+                      "answers": [
+                        {
+                          "text": "Tunesien",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Einst Hoffnungsträger des Arabischen Frühlings.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Polen",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Polen wurde als Beispiel genannt, wo Bürger sich wehren.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Serbien",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Serbien wurde als ein Land genannt, das von demokratischen Tendenzen abgerückt ist, aber Tunesien war das spezifische Beispiel für Kais Saeed.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "b6948fd3-f5aa-4a10-a525-4f3ca8944a68",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welche der folgenden Ländergruppen in Europa zeigte laut Beitrag vor 25 Jahren noch deutlich demokratische Tendenzen, ist davon aber zunehmend abgerückt?</p>",
+                      "answers": [
+                        {
+                          "text": "Russland, Ungarn, Serbien, Belarus",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Diese Länder wurden explizit genannt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Deutschland, Frankreich, Italien, Spanien",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Diese Länder gelten als etablierte Demokratien, auch wenn sie Herausforderungen haben.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Schweden, Norwegen, Dänemark, Finnland",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Diese Länder sind bekannt für ihre starken demokratischen Traditionen.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "d7a04429-36d7-4872-9eb5-2caec39a40b7",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Wie wird die Situation in den USA im Beitrag im Kontext des Rückgangs der Demokratiequalität beschrieben?</p>",
+                      "answers": [
+                        {
+                          "text": "Als Beispiel für die Erosion demokratischer Institutionen.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies wird im Zusammenhang mit dem Aufstieg populistischer Bewegungen genannt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Als Vorbild für eine sich stark entwickelnde Demokratie.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Der Beitrag thematisiert hier eher negative Entwicklungen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Als Land, das immun gegen populistische Tendenzen ist.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Gegenteil wird im Beitrag angedeutet.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "09121639-54a6-47c7-b309-78971d38782b",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Der Beitrag kommt zu dem Schluss, dass die Anzahl der Demokratien weltweit in den letzten 20 Jahren stark zugenommen hat.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Der Beitrag stellt einen Rückgang der Demokratien fest.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist nicht korrekt. Laut Beitrag ist die Zahl der Demokratien gesunken und die der Autokratien gestiegen."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "77433d8c-355e-4f06-9913-55860c15eb6d",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Populistische Parteien sind laut dem Beitrag ausschliesslich in aussereuropäischen Ländern eine Gefahr für die Demokratie.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Der Beitrag erwähnt die USA und europäische Länder wie Ungarn als Beispiele, wo Populismus eine Rolle spielt oder demokratische Tendenzen rückläufig sind.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist nicht korrekt. Populismus und demokratische Erosion sind globale Phänomene, die auch Europa und die USA betreffen."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "03be73b8-b669-44db-a74a-28ca519c315b",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Europa ist laut dem Beitrag völlig immun gegen den Rückgang demokratischer Tendenzen.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Länder wie Russland, Ungarn, Serbien und Belarus werden als Beispiele für einen Rückgang demokratischer Tendenzen in Europa genannt.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist nicht korrekt. Der Beitrag nennt explizit europäische Länder, die sich von demokratischen Werten entfernt haben."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "9cb10092-1e5a-475e-98ff-f34d4d19b6bc",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Das Demokratieforschungsinstitut VAUDEM aus Schweden stellt fest, dass Demokratien weltweit deutlich in der Überzahl gegenüber Autokratien sind.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Laut VAUDEM gibt es derzeit 91 Autokratien und 88 Demokratien, also eine leichte Überzahl an Autokratien.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist nicht korrekt. Das VAUDEM-Institut zählt aktuell mehr Autokratien als Demokratien."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "91fb3abf-e402-4ec9-b114-96e0de41e444",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Tunesien wird im Beitrag als ein anhaltend positives Beispiel für eine erfolgreiche demokratische Transformation nach dem Arabischen Frühling dargestellt.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Tunesien wird als Beispiel für eine negative Entwicklung genannt, bei der Präsident Kais Saeed seine Macht ausgebaut und Rechtsstaatlichkeit ausgehöhlt hat.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist nicht korrekt. Tunesien wird als Land dargestellt, das einst Hoffnungsträger war, sich aber unter Präsident Kais Saeed in Richtung Autokratie entwickelt hat."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "4448a57e-f544-4c89-85da-93dc1cb91590",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>In Indien hat der Hindu-Nationalist Narendra Modi seine Macht uneingeschränkt ausbauen können, ohne auf Widerstand oder Grenzen zu stossen.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Obwohl Modi seinen Stempel aufgedrückt hat, haben ihm die letzten Wahlen Grenzen aufgezeigt, da er seine absolute Mehrheit verlor.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist nicht korrekt. Der Beitrag erwähnt, dass die letzten Wahlen Modi Grenzen aufgezeigt haben."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "5b983d52-2828-4978-bb6f-b7669fab6448",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Der Beitrag suggeriert, dass die Zivilgesellschaft in Europa und Nordamerika passiv bleibt und sich nicht für demokratische Rechte einsetzt.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Im Gegenteil, es wird hervorgehoben, dass sich v.a. in Europa und Nordamerika eine Zivilgesellschaft organisiert, die für ihre demokratischen Rechte kämpft.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist nicht korrekt. Der Beitrag betont, dass sich gerade in diesen Regionen Widerstand formiert und eine Zivilgesellschaft für ihre Rechte kämpft."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "c1b402ae-4af0-4671-80ce-29c60511c6e8",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Die USA werden im Beitrag als ein Land dargestellt, das von der Erosion demokratischer Institutionen durch populistische Bewegungen gänzlich unberührt geblieben ist.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Die USA werden explizit als Beispiel genannt, wo man eine Erosion demokratischer Institutionen im Zusammenhang mit populistischen Bewegungen beobachten kann.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist nicht korrekt. Der Beitrag erwähnt die USA als aktuelles Beispiel für die Erosion demokratischer Institutionen durch populistische Einflüsse."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "8895c7fd-1ace-49f2-8533-cf76d232cafa",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  }
+                ],
+                "endGame": {
+                  "showResultPage": true,
+                  "showSolutionButton": true,
+                  "showRetryButton": true,
+                  "noResultMessage": "Quiz beendet",
+                  "message": "Dein Ergebnis:",
+                  "scoreBarLabel": "Du hast @score von @total Punkten erreicht.",
+                  "overallFeedback": [
+                    {
+                      "from": 0,
+                      "to": 100
+                    }
+                  ],
+                  "solutionButtonText": "Lösung anzeigen",
+                  "retryButtonText": "Wiederholen",
+                  "finishButtonText": "Beenden",
+                  "submitButtonText": "Absenden",
+                  "showAnimations": false,
+                  "skippable": false,
+                  "skipButtonText": "Video überspringen"
+                },
+                "texts": {
+                  "prevButton": "Zurück",
+                  "nextButton": "Weiter",
+                  "finishButton": "Beenden",
+                  "submitButton": "Absenden",
+                  "textualProgress": "Aktuelle Frage: @current von @total Fragen",
+                  "jumpToQuestion": "Frage %d von %total",
+                  "questionLabel": "Frage",
+                  "readSpeakerProgress": "Frage @current von @total",
+                  "unansweredText": "Unbeantwortet",
+                  "answeredText": "Beantwortet",
+                  "currentQuestionText": "Aktuelle Frage",
+                  "navigationLabel": "Fragen"
+                },
+                "override": {
+                  "checkButton": true,
+                  "showSolutionButton": "off",
+                  "retryButton": "off"
+                }
+              },
+              "library": "H5P.QuestionSet 1.20",
+              "metadata": {
+                "contentType": "Question Set",
+                "license": "U",
+                "title": "Abschliessendes Quiz",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Abschliessendes Quiz"
+              },
+              "subContentId": "087a5905-102b-45e9-8de5-bec2c1fcbf7c"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "fb49f330-cf99-4233-9fed-a48671f9faec",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Verständnisfragen zum Beitrag",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Verständnisfragen zum Beitrag"
+      }
+    }
+  ],
+  "behaviour": {
+    "baseColor": "#1768c4",
+    "defaultTableOfContents": true,
+    "progressIndicators": true,
+    "progressAuto": true,
+    "displaySummary": true,
+    "enableRetry": true
+  },
+  "read": "Öffnen",
+  "displayTOC": "Inhaltsverzeichnis anzeigen",
+  "hideTOC": "Inhaltsverzeichnis ausblenden",
+  "nextPage": "Nächste Seite",
+  "previousPage": "Vorherige Seite",
+  "chapterCompleted": "Seite abgeschlossen!",
+  "partCompleted": "@pages von @total Seiten abgeschlossen",
+  "incompleteChapter": "Unvollständige Seite",
+  "navigateToTop": "Nach oben springen",
+  "markAsFinished": "Ich habe diese Seite abgeschlossen",
+  "fullscreen": "Vollbild",
+  "exitFullscreen": "Vollbild beenden",
+  "bookProgressSubtext": "@count von @total Seiten",
+  "interactionsProgressSubtext": "@count von @total Interaktionen",
+  "submitReport": "Report absenden",
+  "restartLabel": "Neustart",
+  "summaryHeader": "Zusammenfassung",
+  "allInteractions": "Alle Interaktionen",
+  "unansweredInteractions": "Unbeantwortete Interaktionen",
+  "scoreText": "@score / @maxscore",
+  "leftOutOfTotalCompleted": "@left von @max Interaktionen abgeschlossen",
+  "noInteractions": "Keine Interaktionen",
+  "score": "Punkte",
+  "summaryAndSubmit": "Zusammenfassung und Einsenden",
+  "noChapterInteractionBoldText": "Du hast noch keine Seiten bearbeitet.",
+  "noChapterInteractionText": "Du musst wenigstens eine Seite bearbeiten, um die Zusammenfassung zu sehen.",
+  "yourAnswersAreSubmittedForReview": "Deine Antworten wurden zur Begutachtung versendet!",
+  "bookProgress": "Buchfortschritt",
+  "interactionsProgress": "Interaktionsfortschritt",
+  "totalScoreLabel": "Gesamtpunktzahl",
+  "a11y": {
+    "progress": "Seite @page von @total.",
+    "menu": "Inhaltsverzeichnis ein- bzw. ausschalten"
+  }
+}
