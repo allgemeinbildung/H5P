@@ -1,0 +1,2490 @@
+{
+  "showCoverPage": true,
+  "bookCover": {
+    "coverDescription": "<h1 style=\"text-align:center\">Inflation und Deflation</h1><h3 style=\"text-align:center\">Was Sie über den Wert des Geldes wissen müssen</h3>",
+    "coverMedium": {
+      "params": {
+        "decorative": false,
+        "contentName": "Bild",
+        "expandImage": "Bild vergrößern",
+        "minimizeImage": "Bild verkleinern",
+        "file": {
+          "mime": "image/png",
+          "copyright": {
+            "license": "U"
+          },
+          "width": 52,
+          "height": 52,
+          "path": "images/img_1.png"
+        }
+      },
+      "library": "H5P.Image 1.1",
+      "metadata": {
+        "contentType": "Image",
+        "license": "U",
+        "title": "Cover Bild",
+        "authors": [],
+        "changes": []
+      },
+      "subContentId": "d8f00681-567c-4469-8335-7fb045970ce7"
+    }
+  },
+  "chapters": [
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Grundlagen von Inflation und Deflation</h2><p>Dieses Video erklärt Ihnen die grundlegenden Konzepte von Inflation und Deflation. Sie erfahren, warum Preise für Produkte wie Brot stark ansteigen können, was die Ursachen für Geldentwertung sind und welche Folgen dies für Ihre Ersparnisse und Schulden hat. Ausserdem wird gezeigt, warum auch das Gegenteil, die Deflation, problematisch sein kann und welche Rolle die Europäische Zentralbank (EZB) zur Wahrung der Preisstabilität spielt.</p><ul><li>Sie können den Begriff <strong>Inflation</strong> definieren und dessen Auswirkungen auf die <strong>Kaufkraft</strong> erklären.</li><li>Sie verstehen, was <strong>Deflation</strong> bedeutet und welche negativen Folgen sie für die Wirtschaft haben kann.</li><li>Sie können die Hauptursachen für Inflation, wie eine veränderte <strong>Geldmenge</strong> oder steigende <strong>Produktionskosten</strong>, benennen.</li><li>Sie kennen die Aufgabe der <strong>Europäischen Zentralbank (EZB)</strong> bei der Kontrolle der Preisstabilität.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Einleitungstext",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "53f68d39-a511-4d2c-a939-94a7a1b29d23"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "panels": [
+                  {
+                    "title": "Inflation",
+                    "content": {
+                      "params": {
+                        "text": "<p>Inflation bezeichnet den dauerhaften <strong>Anstieg des allgemeinen Preisniveaus</strong>, was dazu führt, dass das Geld an Wert verliert.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "e0e08f75-bb8d-4d0f-a970-6dd991bd1aa6",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Inflation",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Kaufkraftverlust",
+                    "content": {
+                      "params": {
+                        "text": "<p>Dieser Begriff beschreibt die Situation, in der Sie für die <strong>gleiche Menge Geld</strong> aufgrund von Preissteigerungen weniger Waren oder Dienstleistungen kaufen können.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "a7857d7b-5f0a-4528-a801-211827f22193",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Kaufkraftverlust",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Deflation",
+                    "content": {
+                      "params": {
+                        "text": "<p>Deflation ist der <strong>Rückgang des allgemeinen Preisniveaus</strong>, wodurch das Geld an Wert gewinnt und die Kaufkraft steigt.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "ee6641c1-fab1-4b93-9c72-6d9399032ae2",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Deflation",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Preisstabilität",
+                    "content": {
+                      "params": {
+                        "text": "<p>Preisstabilität ist das Ziel der EZB und gilt als erreicht, wenn der jährliche <strong>Preisanstieg</strong> für das Euro-Währungsgebiet unter zwei Prozent liegt.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "5d3f0ee0-a954-481b-bda8-db14e0c69062",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Preisstabilität",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Europäische Zentralbank (EZB)",
+                    "content": {
+                      "params": {
+                        "text": "<p>Die EZB ist die zentrale Institution im Euro-Raum, die für die Wahrung der <strong>Preisstabilität</strong> verantwortlich ist und dies hauptsächlich über die Zinshöhe steuert.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "181c3447-288c-48ab-9a8a-569f82007ce7",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Europäische Zentralbank (EZB)",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  }
+                ],
+                "hTag": "h2"
+              },
+              "library": "H5P.Accordion 1.0",
+              "metadata": {
+                "contentType": "Accordion",
+                "license": "U",
+                "title": "Wichtige Begriffe",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Wichtige Begriffe"
+              },
+              "subContentId": "5ca0a034-769d-4faf-b0a7-04e2ae611e4a"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "163c3aab-c3f1-457b-8068-f7a1be697779",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Einleitung",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Einleitung"
+      }
+    },
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Video: Inflation und Deflation erklärt</h2><p>Schauen Sie sich das Video an und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu prüfen.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Videoeinleitung",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "ca66ba7b-0bd4-4afb-a26b-a972858fb317"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "interactiveVideo": {
+                  "video": {
+                    "startScreenOptions": {
+                      "title": "Interaktives Video",
+                      "hideStartTitle": false
+                    },
+                    "textTracks": {
+                      "videoTrack": [
+                        {
+                          "label": "Untertitel",
+                          "kind": "subtitles",
+                          "srcLang": "en"
+                        }
+                      ]
+                    },
+                    "files": [
+                      {
+                        "path": "https://www.youtube.com/watch?v=iYx75vVnzmo",
+                        "mime": "video/YouTube",
+                        "copyright": {
+                          "license": "U"
+                        },
+                        "aspectRatio": "16:9"
+                      }
+                    ]
+                  },
+                  "assets": {
+                    "interactions": [
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 90,
+                          "to": 91
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Inflation ist der dauerhafte Anstieg des allgemeinen Preisniveaus.",
+                                  "Bei einer Inflation wird das Geld wertvoller und man kann sich mehr dafür leisten.",
+                                  "Inflation beschreibt eine kurzfristige Preisschwankung bei nur einem Produkt."
+                                ],
+                                "subContentId": "1404b70a-76f7-45ab-aa03-c970832c0506",
+                                "tip": "Achten Sie auf die Definition, die im Video bei 0:36 gegeben wird."
+                              },
+                              {
+                                "summary": [
+                                  "Wenn die Geldmenge schneller wächst als die Gütermenge, werden Produkte teurer.",
+                                  "Wenn die Nachfrage stark sinkt, das Angebot aber gleich bleibt, kommt es zu einer Inflation.",
+                                  "Die Inflation entsteht nur, wenn der Staat die Preise für alle Waren direkt erhöht."
+                                ],
+                                "subContentId": "ed3f6971-6790-4851-b808-c7b78b1ab47a",
+                                "tip": "Was passiert laut Video, wenn die Nachfrage das Angebot übersteigt (1:19-1:21)?"
+                              },
+                              {
+                                "summary": [
+                                  "Steigende Produktionskosten können als höhere Preise an Verbraucher weitergereicht werden.",
+                                  "Wenn die Löhne der Arbeiter steigen, werden die Produkte für uns Verbraucher immer günstiger.",
+                                  "Unternehmen tragen die gestiegenen Rohstoffkosten immer selbst und erhöhen nie die Preise."
+                                ],
+                                "subContentId": "5eb14f4f-7100-40ee-bece-4040ff014579",
+                                "tip": "Überlegen Sie, was passiert, wenn Rohstoffe und Löhne teurer werden (1:30-1:34)."
+                              }
+                            ]
+                          },
+                          "subContentId": "a188c5bf-aeb4-4dd9-ad31-e61545699fd5",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Definition und Ursachen der Inflation",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Definition und Ursachen der Inflation"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 139,
+                          "to": 140
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Die Ersparnisse der Menschen verlieren bei einer Inflation an Wert.",
+                                  "Durch Inflation vermehrt sich das Geld auf dem Sparkonto automatisch schneller.",
+                                  "Das Vertrauen in die Preisstabilität und den Wert des Geldes steigt bei hoher Inflation."
+                                ],
+                                "subContentId": "62fd4979-fed9-49f1-9fd5-18a14f1add2f",
+                                "tip": "Welche Auswirkung hat die Geldentwertung auf Ihr Erspartes (1:49-1:51)?"
+                              },
+                              {
+                                "summary": [
+                                  "Für Personen, die Schulden haben, kann eine Inflation vorteilhaft sein.",
+                                  "Schulden werden durch eine Inflation real gesehen immer grösser und belastender.",
+                                  "Inflation hat grundsätzlich keinerlei Auswirkungen auf bestehende Kredite und Schulden."
+                                ],
+                                "subContentId": "eb387ca9-e095-49cd-945a-61d9101db25a",
+                                "tip": "Was passiert mit dem Schuldenberg für den Golf GTI im Video (2:08-2:12)?"
+                              },
+                              {
+                                "summary": [
+                                  "Ein Kaufkraftverlust ist eine direkte und spürbare Folge der Inflation.",
+                                  "Eine hohe Inflation führt dazu, dass alle Bürger eines Landes automatisch reicher werden.",
+                                  "Die Preise für alle Waren und Dienstleistungen sinken während einer Inflation."
+                                ],
+                                "subContentId": "0e32f3cf-9ec3-44f7-8509-f1c3fbe69da3",
+                                "tip": "Welcher Begriff wird im Video neben der Geldentwertung genannt (1:42-1:44)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "0b3c6d18-07d8-46b7-ab47-a140bc59b9cd",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Folgen der Inflation",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Folgen der Inflation"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 251,
+                          "to": 252
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Deflation ist der genaue Gegensatz zur Inflation, das Geld wird mehr wert.",
+                                  "Deflation ist ein anderes Wort für eine sehr stabile und unveränderliche Wirtschaftslage.",
+                                  "Während einer Deflation steigen die Preise für Waren und Dienstleistungen stark an."
+                                ],
+                                "subContentId": "5004998d-4a11-48a4-8748-e6e6dd3b9f6b",
+                                "tip": "Hören Sie genau hin, wie die Deflation bei 2:33 beschrieben wird."
+                              },
+                              {
+                                "summary": [
+                                  "Verbraucher verschieben Anschaffungen, weil sie auf weiter fallende Preise hoffen.",
+                                  "In einer Deflation geben die Menschen ihr Geld besonders schnell und gerne aus.",
+                                  "Die Nachfrage nach Konsumgütern aller Art erreicht in einer Deflation Rekordhöhen."
+                                ],
+                                "subContentId": "48d4b934-41f7-4b53-a00c-0f7337c37e68",
+                                "tip": "Wie verhalten sich die Verbraucher, wenn sie erwarten, dass die Preise weiter sinken (3:40-3:44)?"
+                              },
+                              {
+                                "summary": [
+                                  "Als Folge der Deflation müssen Firmen die Produktion drosseln und Arbeiter entlassen.",
+                                  "Unternehmen stellen während einer Deflation mehr Arbeiter ein, um die Produktion zu steigern.",
+                                  "Eine Deflation führt zu einem starken Wirtschaftswachstum und sinkender Arbeitslosigkeit."
+                                ],
+                                "subContentId": "60542705-a1b7-45ee-b763-4a30eec557f2",
+                                "tip": "Welche Kettenreaktion wird durch die Kaufzurückhaltung der Verbraucher ausgelöst (3:46-4:00)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "fa15f4d9-7a9b-496c-ad8f-4275b25e182a",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Die Deflation und ihre Gefahren",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Die Deflation und ihre Gefahren"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 311,
+                          "to": 312
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Die EZB hat das Ziel, die Preisstabilität bei unter 2 % Inflation zu halten.",
+                                  "Die EZB strebt eine möglichst hohe Inflationsrate von über 5 % pro Jahr an.",
+                                  "Das Hauptziel der EZB ist es, eine starke Deflation in ganz Europa zu erreichen."
+                                ],
+                                "subContentId": "8fd73f48-122e-4776-a25b-c70273e59e5a",
+                                "tip": "Welchen Wert für den Preisanstieg strebt die Europäische Zentralbank an (4:23-4:25)?"
+                              },
+                              {
+                                "summary": [
+                                  "Die EZB steuert den Geldfluss hauptsächlich über die Höhe der Zinsen.",
+                                  "Die EZB legt die Verkaufspreise für alle wichtigen Produkte direkt fest.",
+                                  "Niedrige Zinsen sollen die Menschen dazu anregen, mehr zu sparen und weniger auszugeben."
+                                ],
+                                "subContentId": "e8ce94e6-c176-47b3-90de-4642f6d12722",
+                                "tip": "Wodurch kann die EZB den Fluss des Geldes steuern (5:01-5:05)?"
+                              },
+                              {
+                                "summary": [
+                                  "Bei hohen Zinsen werden Kredite teurer und die Leute sparen lieber.",
+                                  "Hohe Zinsen machen Kredite günstiger und kurbeln so den Konsum stark an.",
+                                  "Die Höhe der Zinsen hat keinen Einfluss auf das Sparverhalten der Bevölkerung."
+                                ],
+                                "subContentId": "347a8666-32c0-4513-9416-5f1ec79c2d57",
+                                "tip": "Was passiert mit der Nachfrage nach Geld, wenn die Zinsen für Kredite hoch sind (5:13-5:17)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "89d67b15-ec56-44e7-a6b3-fdd58ba28f91",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Kontrolle durch die Europäische Zentralbank (EZB)",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Kontrolle durch die Europäische Zentralbank (EZB)"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      }
+                    ],
+                    "bookmarks": [],
+                    "endscreens": [
+                      {
+                        "time": 0,
+                        "label": "0:00 Antwortübermittlung"
+                      },
+                      {
+                        "time": 432,
+                        "label": "7:12 Antwortübermittlung"
+                      }
+                    ]
+                  },
+                  "summary": {
+                    "task": {
+                      "library": "H5P.Summary 1.10",
+                      "params": {
+                        "intro": "Wähle die korrekte Aussage.",
+                        "overallFeedback": [
+                          {
+                            "from": 0,
+                            "to": 100
+                          }
+                        ],
+                        "solvedLabel": "Fortschritt:",
+                        "scoreLabel": "Falsche Antworten:",
+                        "resultLabel": "Dein Ergebnis",
+                        "labelCorrect": "Richtig.",
+                        "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                        "alternativeIncorrectLabel": "Falsch",
+                        "labelCorrectAnswers": "Richtige Antwort(en).",
+                        "tipButtonLabel": "Tipp anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "progressText": "Fortschritt :num von :total",
+                        "summaries": [
+                          {
+                            "subContentId": "5db2f4f7-a86d-45a7-b518-6b8122135bef",
+                            "tip": ""
+                          }
+                        ]
+                      },
+                      "subContentId": "7df282ad-2756-4dd5-8636-719c57b5c3f7",
+                      "metadata": {
+                        "contentType": "Summary",
+                        "license": "U",
+                        "title": "Video End-Summary"
+                      }
+                    },
+                    "displayAt": 3
+                  }
+                },
+                "override": {
+                  "autoplay": false,
+                  "loop": false,
+                  "showBookmarksmenuOnLoad": false,
+                  "showRewind10": true,
+                  "preventSkippingMode": "none",
+                  "deactivateSound": false,
+                  "showSolutionButton": "off",
+                  "retryButton": "off"
+                },
+                "l10n": {
+                  "interaction": "Interaktion",
+                  "play": "Abspielen",
+                  "pause": "Pause",
+                  "mute": "Stummschalten, derzeit nicht laut geschaltet",
+                  "unmute": "Laut schalten, derzeit stumm geschaltet",
+                  "quality": "Videoqualität",
+                  "captions": "Untertitel",
+                  "close": "Schließen",
+                  "fullscreen": "Vollbild",
+                  "exitFullscreen": "Vollbild beenden",
+                  "summary": "Zusammenfassung öffnen",
+                  "bookmarks": "Lesezeichen",
+                  "endscreen": "Einsendebildschirm",
+                  "defaultAdaptivitySeekLabel": "Fortfahren",
+                  "continueWithVideo": "Video fortsetzen",
+                  "more": "Mehr Abspieloptionen",
+                  "playbackRate": "Abspielgeschwindigkeit",
+                  "rewind10": "10 Sekunden zurückspulen",
+                  "navDisabled": "Vor- und Zurückspulen ist deaktiviert",
+                  "navForwardDisabled": "Navigation vorwärts ist deaktiviert",
+                  "sndDisabled": "Ton ist deaktiviert",
+                  "requiresCompletionWarning": "Es müssen alle Fragen richtig beantwortet werden, um weitermachen zu können.",
+                  "back": "Zurück",
+                  "hours": "Stunden",
+                  "minutes": "Minuten",
+                  "seconds": "Sekunden",
+                  "currentTime": "Aktuelle Zeit:",
+                  "totalTime": "Gesamtzeit:",
+                  "singleInteractionAnnouncement": "Interaktion ist erschienen:",
+                  "multipleInteractionsAnnouncement": "Mehrere Interaktionen sind erschienen.",
+                  "videoPausedAnnouncement": "Video ist angehalten",
+                  "content": "Inhalt",
+                  "answered": "@answered beantwortet",
+                  "endcardTitle": "@answered Frage(n) beantwortet",
+                  "endcardInformation": "Du hast @answered Fragen beantwortet.",
+                  "endcardInformationOnSubmitButtonDisabled": "Du hast @answered Fragen beantwortet. Klicke unten, um deine Ergebnisse abzusenden.",
+                  "endcardInformationNoAnswers": "Du hast noch keine Fragen beantwortet.",
+                  "endcardInformationMustHaveAnswer": "Du musst mindestens eine Frage beantworten, um deine Antworten absenden zu können.",
+                  "endcardSubmitButton": "Antworten absenden",
+                  "endcardSubmitMessage": "Deine Antworten wurden abgeschickt!",
+                  "endcardTableRowAnswered": "Beantwortete Fragen",
+                  "endcardTableRowScore": "Punkte",
+                  "endcardAnsweredScore": "beantwortet",
+                  "endCardTableRowSummaryWithScore": "Du hast @score von @total Punkten für die @question erhalten, die bei @minutes Minuten und @seconds Sekunden erschienen ist.",
+                  "endCardTableRowSummaryWithoutScore": "Du hast die @question beantwortet, die bei @minutes Minuten und @seconds Sekunden erschienen ist.",
+                  "videoProgressBar": "Video-Fortschritt",
+                  "howToCreateInteractions": "Spiele das Video ab, um mit dem Erstellen von Interaktionen zu beginnen"
+                }
+              },
+              "library": "H5P.InteractiveVideo 1.27",
+              "metadata": {
+                "contentType": "Interactive Video",
+                "license": "U",
+                "title": "Interaktives Video: Inflation und Deflation",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Interaktives Video: Inflation und Deflation"
+              },
+              "subContentId": "de3b69c7-ddfa-4a98-a1a9-fc27f228ee99"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "ffe0f401-efa4-4280-95fd-40f7a1da0d06",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Video",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Video"
+      }
+    },
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Verständnisfragen</h2><p>Beantworten Sie zum Schluss die folgenden Fragen zum Inhalt des Videos, um Ihr Wissen zu festigen.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Fragen Einleitung",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "d22ea43b-f602-4bac-82f1-22b2efb37ab0"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "introPage": {
+                  "showIntroPage": true,
+                  "startButtonText": "Quiz starten",
+                  "title": "Quiz: Inflation und Deflation",
+                  "introduction": ""
+                },
+                "progressType": "dots",
+                "passPercentage": 50,
+                "disableBackwardsNavigation": false,
+                "randomQuestions": true,
+                "poolSize": 10,
+                "questions": [
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Was versteht man laut Video unter dem Begriff Inflation?</p>",
+                      "answers": [
+                        {
+                          "text": "Einen dauerhaften Anstieg des allgemeinen Preisniveaus.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das ist die exakte Definition aus dem Video (0:36).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Eine kurzfristige Senkung der Preise für Luxusartikel.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Inflation ist ein dauerhafter und allgemeiner Anstieg, keine kurzfristige Senkung.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Einen Zustand, in dem das Geld jeden Tag an Wert gewinnt.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das wäre das Gegenteil, eine Deflation. Bei Inflation verliert Geld an Wert.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "38e48f75-0006-4474-a6d1-385a65e521ee",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welche Ursache für Inflation wird im Video explizit genannt?</p>",
+                      "answers": [
+                        {
+                          "text": "Die Geldmenge wächst schneller als die Gütermenge.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies wird bei 1:12 als eine Hauptursache erklärt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Regierung beschliesst, alle Löhne im Land stark zu senken.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Steigende Löhne werden als mögliche Ursache genannt, nicht sinkende.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Produktivität der Unternehmen steigt unerwartet stark an.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Eine höhere Produktivität wird als Ursache für eine Deflation genannt (3:26).",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "55714c0d-34ba-4a91-93dc-631086bc4cd5",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Was ist gemäss dem Video die einfachste Definition von Deflation?</p>",
+                      "answers": [
+                        {
+                          "text": "Der genaue Gegensatz zur Inflation.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> So wird es bei 2:33 direkt im Video formuliert.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Ein anderer Begriff für eine stabile Wirtschaftslage.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Deflation ist wie Inflation eine problematische Entwicklung, keine stabile Lage.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Eine Phase, in der nur die Preise für Bier und Limonade sinken.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Deflation bezieht sich auf den Rückgang des allgemeinen Preisniveaus.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "bc129036-5ac5-422c-b948-224bad427e72",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welche Institution kümmert sich in Europa um die Preisstabilität?</p>",
+                      "answers": [
+                        {
+                          "text": "Die Europäische Zentralbank (EZB).",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die EZB wird bei 4:14 als zuständige Institution vorgestellt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die nationalen Regierungen der einzelnen Mitgliedsländer.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Im Video wird die übergeordnete Rolle der EZB für den Euroraum betont.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Ein Komitee aus den grössten europäischen Unternehmen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Unternehmen sind von der Geldpolitik betroffen, aber nicht dafür verantwortlich.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "1698269b-f152-40fc-bba4-fe6b137c53e9",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Warum ist Inflation gemäss dem Video ein Problem für Personen, die Geld gespart haben?</p>",
+                      "answers": [
+                        {
+                          "text": "Weil die Ersparnisse an realem Wert verlieren.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt bei 1:51, dass die Ersparnisse an Wert verlieren (Kaufkraftverlust).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil Banken bei Inflation die Gebühren für Sparkonten sofort verdoppeln.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Davon ist im Video nicht die Rede. Das Kernproblem ist der Wertverlust des Geldes selbst.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil der Staat bei Inflation automatisch höhere Steuern auf alle Ersparnisse erhebt.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das ist keine automatische Folge, die im Video beschrieben wird. Der Wertverlust geschieht von allein.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "b7eb20a3-c005-4435-a7e5-5fbcaf2b1910",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Weshalb ist eine Deflation trotz sinkender Preise ein grosses Problem für die Wirtschaft?</p>",
+                      "answers": [
+                        {
+                          "text": "Weil Verbraucher Käufe aufschieben und Firmen die Produktion drosseln.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video beschreibt genau diese Negativspirale (3:40-3:52).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil die Regierung bei Deflation gezwungen ist, die Mehrwertsteuer stark zu erhöhen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Staatliche Massnahmen werden in diesem Zusammenhang nicht als Ursache des Problems genannt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil die Qualität der Produkte bei sinkenden Preisen überproportional stark abnimmt.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Hauptproblem ist der wirtschaftliche Stillstand, nicht die Produktqualität.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "0c741ea5-5964-42da-82ac-d5a67b00bc39",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Wie steuert die EZB laut Video hauptsächlich den Geldfluss, um die Preise stabil zu halten?</p>",
+                      "answers": [
+                        {
+                          "text": "Durch die Anpassung der Zinshöhe für Kredite.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das wird bei 5:03 als zentrales Steuerungsinstrument genannt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Indem sie die Menge der gedruckten Banknoten direkt und täglich verändert.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Obwohl die Geldmenge eine Rolle spielt, ist das Werkzeug zur Steuerung der Zins.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Indem sie Unternehmen direkt vorschreibt, wie hoch ihre Preise sein dürfen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Die EZB betreibt keine Planwirtschaft, sondern steuert indirekt über den Zins.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "077d9bb7-99bc-4e49-8d72-4d762dafd2fe",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welcher Zusammenhang zwischen Angebot und Nachfrage führt laut Video zu Inflation?</p>",
+                      "answers": [
+                        {
+                          "text": "Die Nachfrage übersteigt das vorhandene Angebot an Gütern.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wenn mehr nachgefragt wird als da ist, können Anbieter die Preise erhöhen (1:19).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Das Angebot an Gütern ist viel grösser als die Nachfrage der Konsumenten.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Ein Überangebot würde eher zu sinkenden Preisen (Deflation) führen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Es gibt zu wenig Geld im Umlauf, um die grosse Menge an Gütern zu kaufen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist ebenfalls ein Merkmal, das eher eine Deflation begünstigt.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "2ea6efb4-e7e9-4f9b-ac87-002aea4305c7",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Sie haben vor einigen Jahren einen Kredit aufgenommen. Nun herrscht eine hohe Inflation. Was bedeutet das für Ihre Schulden?</p>",
+                      "answers": [
+                        {
+                          "text": "Der reale Wert der Schulden sinkt.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wie im Beispiel mit dem Golf GTI (2:08) erklärt, wird der Schuldenberg real gesehen geringer.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Der Wert der Schulden verdoppelt sich automatisch.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Gegenteil ist der Fall, der reale Wert der Schuld nimmt ab.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Bank kann den Kredit wegen der Inflation sofort kündigen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist keine automatische Folge. Der Vorteil liegt beim Schuldner.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "1d3289db-aade-4738-aca8-1efda30e20be",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Die Inflationsrate im Euroraum steigt auf 4 %. Was wird die EZB wahrscheinlich tun, um gegenzusteuern?</p>",
+                      "answers": [
+                        {
+                          "text": "Sie wird die Zinsen anheben.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Hohe Zinsen machen Geld teurer und bremsen die Nachfrage, was die Inflation dämpft (5:10).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Sie wird die Zinsen weiter senken.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Niedrige Zinsen würden die Inflation noch weiter anheizen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Sie wird den Bürgern Geld auszahlen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Mehr Geld im Umlauf würde die Inflation ebenfalls verstärken.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "6571482c-4cb0-43fc-b9e8-236f7b8751cb",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Sie möchten einen neuen Computer kaufen und hören, dass eine Deflation eingesetzt hat. Wie verhalten Sie sich laut Video-Logik?</p>",
+                      "answers": [
+                        {
+                          "text": "Sie warten mit dem Kauf noch etwas.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> In der Hoffnung auf weiter fallende Preise werden Anschaffungen hinausgezögert (3:42).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Sie kaufen den Computer sofort, bevor er teurer wird.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das wäre das typische Verhalten bei einer hohen Inflation.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Sie nehmen einen Kredit auf, um den Computer zu kaufen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> In einer Deflation werden Investitionen und Anschaffungen eher verschoben.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "0f8c7ad9-ba25-4c41-ad01-52a9028eea42",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Ein Café-Betreiber stellt fest, dass die Preise für Kaffeebohnen und die Löhne seiner Angestellten steigen. Was ist die wahrscheinliche Folge?</p>",
+                      "answers": [
+                        {
+                          "text": "Der Preis für eine Tasse Kaffee wird steigen.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Steigende Produktionskosten (Rohstoffe, Löhne) werden an die Verbraucher weitergereicht (1:30).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Der Preis für eine Tasse Kaffee wird sinken.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Wenn die Kosten steigen, müssen die Preise angepasst werden, um rentabel zu bleiben.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Der Preis bleibt gleich, da Personalkosten keinen Einfluss haben.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Löhne sind ein wesentlicher Teil der Produktionskosten und beeinflussen den Endpreis.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "875c1c51-0689-496a-bba6-70838994dea2",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Eine Inflation von knapp unter 2 % pro Jahr wird von der EZB bereits als gefährlich hoch eingestuft.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Laut Video (4:23) ist ein Wert von <strong>unter 2 %</strong> das Ziel der Preisstabilität.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Ziel der EZB ist eine Inflationsrate von unter, aber nahe 2 %."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "91bfa3d1-ec8c-4263-9f22-98b1e3b1413a",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Laut Video ist eine Deflation langfristig gefährlicher für die Wirtschaft als eine leichte Inflation.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Die beschriebene <strong>Negativspirale</strong> der Deflation (3:46) mit Produktionsstopp und Arbeitslosigkeit wird als sehr problematisch dargestellt.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Das Video zeichnet ein sehr negatives Bild der Deflation und ihrer Folgen."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "e760fac0-7103-4950-893c-59e4bc6c0089",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Die Begriffe „Geldentwertung“ und „Kaufkraftverlust“ beschreiben im Grunde dieselbe Folge der Inflation.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Beide Begriffe werden bei 1:42 synonym verwendet, um zu beschreiben, dass man für sein Geld weniger bekommt.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Das Video verwendet beide Begriffe, um das Kernproblem der Inflation zu beschreiben."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "c0876687-fde3-4e61-9002-a33f07b33380",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Wenn Unternehmen durch neue Technologien viel produktiver werden, kann das laut Video zu Inflation führen.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Eine höhere Produktivität, bei der die <strong>Gütermenge schneller steigt</strong> als die Geldmenge, wird als Ursache für Deflation genannt (3:26).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Im Video wird dies als Ursache für Deflation erklärt."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "426edefc-66d3-4357-a393-039971f532a3",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Wenn die EZB die Zinsen stark senkt, ist die Nachfrage nach Krediten gemäss der Logik im Video gering.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Bei <strong>niedrigen Zinsen</strong> wird viel Geld nachgefragt, weil Kredite billig sind (5:07).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video erklärt, dass bei niedrigen Zinsen viel Geld nachgefragt wird."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "b9460563-0957-435a-af4a-734f71389b1a",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Ein Unternehmen entscheidet sich in einer Deflationsphase, den Bau einer neuen Fabrik vorzuziehen und schnell zu beginnen.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erklärt, dass Unternehmen in einer Deflation <strong>Investitionen verzögern</strong> (3:55).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Laut Video werden Investitionen in einer Deflation aufgeschoben."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "90ce339e-d7b5-4dec-affb-051994af41ce",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Wenn die Inflationsrate bei 10 % liegt, bedeutet das, dass Ihr auf dem Sparkonto gelagertes Geld real an Wert verliert.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Eine hohe Inflation führt zu <strong>Geldentwertung</strong> und Kaufkraftverlust, wodurch Ersparnisse an Wert verlieren (1:49).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Das ist die zentrale Folge der Inflation für Sparer."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "fbc0b546-125c-455a-9fef-6e9448f2a298",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Ein Land, in dem Menschen aus Angst vor Jobverlust weniger konsumieren, befindet sich in der im Video beschriebenen Negativspirale der Deflation.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Genau diese Kette aus <strong>Konsumzurückhaltung, Produktionsdrosselung und Einkommenssorgen</strong> wird ab 3:40 beschrieben.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Das beschreibt exakt den Teufelskreis der Deflation aus dem Video."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "f007a484-0e8f-4843-a06b-2c327ee0442f",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  }
+                ],
+                "backgroundImage": {
+                  "mime": "image/png",
+                  "copyright": {
+                    "license": "U"
+                  },
+                  "width": 52,
+                  "height": 52,
+                  "path": "images/img_2.png"
+                },
+                "endGame": {
+                  "showResultPage": true,
+                  "showSolutionButton": true,
+                  "showRetryButton": true,
+                  "noResultMessage": "Quiz beendet",
+                  "message": "Dein Ergebnis:",
+                  "scoreBarLabel": "Du hast @score von @total Punkten erreicht.",
+                  "overallFeedback": [
+                    {
+                      "from": 0,
+                      "to": 100
+                    }
+                  ],
+                  "solutionButtonText": "Lösung anzeigen",
+                  "retryButtonText": "Wiederholen",
+                  "finishButtonText": "Beenden",
+                  "submitButtonText": "Absenden",
+                  "showAnimations": false,
+                  "skippable": false,
+                  "skipButtonText": "Video überspringen"
+                },
+                "texts": {
+                  "prevButton": "Zurück",
+                  "nextButton": "Weiter",
+                  "finishButton": "Beenden",
+                  "submitButton": "Absenden",
+                  "textualProgress": "Aktuelle Frage: @current von @total Fragen",
+                  "jumpToQuestion": "Frage %d von %total",
+                  "questionLabel": "Frage",
+                  "readSpeakerProgress": "Frage @current von @total",
+                  "unansweredText": "Unbeantwortet",
+                  "answeredText": "Beantwortet",
+                  "currentQuestionText": "Aktuelle Frage",
+                  "navigationLabel": "Fragen"
+                },
+                "override": {
+                  "checkButton": true,
+                  "showSolutionButton": "off",
+                  "retryButton": "off"
+                }
+              },
+              "library": "H5P.QuestionSet 1.20",
+              "metadata": {
+                "contentType": "Question Set",
+                "license": "U",
+                "title": "Quiz: Inflation und Deflation",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Quiz: Inflation und Deflation"
+              },
+              "subContentId": "eeb64607-1204-4752-a978-58ee7c275507"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "8b7d8832-c611-4933-875e-dff343eba25d",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Verständnisfragen",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Verständnisfragen"
+      }
+    }
+  ],
+  "behaviour": {
+    "baseColor": "#1768c4",
+    "defaultTableOfContents": true,
+    "progressIndicators": true,
+    "progressAuto": true,
+    "displaySummary": true,
+    "enableRetry": true
+  },
+  "read": "Öffnen",
+  "displayTOC": "Inhaltsverzeichnis anzeigen",
+  "hideTOC": "Inhaltsverzeichnis ausblenden",
+  "nextPage": "Nächste Seite",
+  "previousPage": "Vorherige Seite",
+  "chapterCompleted": "Seite abgeschlossen!",
+  "partCompleted": "@pages von @total Seiten abgeschlossen",
+  "incompleteChapter": "Unvollständige Seite",
+  "navigateToTop": "Nach oben springen",
+  "markAsFinished": "Ich habe diese Seite abgeschlossen",
+  "fullscreen": "Vollbild",
+  "exitFullscreen": "Vollbild beenden",
+  "bookProgressSubtext": "@count von @total Seiten",
+  "interactionsProgressSubtext": "@count von @total Interaktionen",
+  "submitReport": "Report absenden",
+  "restartLabel": "Neustart",
+  "summaryHeader": "Zusammenfassung",
+  "allInteractions": "Alle Interaktionen",
+  "unansweredInteractions": "Unbeantwortete Interaktionen",
+  "scoreText": "@score / @maxscore",
+  "leftOutOfTotalCompleted": "@left von @max Interaktionen abgeschlossen",
+  "noInteractions": "Keine Interaktionen",
+  "score": "Punkte",
+  "summaryAndSubmit": "Zusammenfassung und Einsenden",
+  "noChapterInteractionBoldText": "Du hast noch keine Seiten bearbeitet.",
+  "noChapterInteractionText": "Du musst wenigstens eine Seite bearbeiten, um die Zusammenfassung zu sehen.",
+  "yourAnswersAreSubmittedForReview": "Deine Antworten wurden zur Begutachtung versendet!",
+  "bookProgress": "Buchfortschritt",
+  "interactionsProgress": "Interaktionsfortschritt",
+  "totalScoreLabel": "Gesamtpunktzahl",
+  "a11y": {
+    "progress": "Seite @page von @total.",
+    "menu": "Inhaltsverzeichnis ein- bzw. ausschalten"
+  }
+}
