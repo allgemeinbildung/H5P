@@ -1,0 +1,2575 @@
+{
+  "showCoverPage": true,
+  "bookCover": {
+    "coverDescription": "<h1 style=\"text-align:center\">Die Konjunktur</h1><h3 style=\"text-align:center\">Die wirtschaftliche Lage eines Landes verstehen</h3>",
+    "coverMedium": {
+      "params": {
+        "decorative": false,
+        "contentName": "Bild",
+        "expandImage": "Bild vergrößern",
+        "minimizeImage": "Bild verkleinern",
+        "file": {
+          "mime": "image/png",
+          "copyright": {
+            "license": "U"
+          },
+          "width": 52,
+          "height": 52,
+          "path": "images/img_1.png"
+        }
+      },
+      "library": "H5P.Image 1.1",
+      "metadata": {
+        "contentType": "Image",
+        "license": "U",
+        "title": "Cover Bild",
+        "authors": [],
+        "changes": []
+      },
+      "subContentId": "f5c90161-bfc3-4627-a5b3-035692327205"
+    }
+  },
+  "chapters": [
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Grundlagen der Konjunktur</h2><p>Dieses Video erklärt Ihnen die Grundlagen der Konjunktur. Sie lernen, was der Begriff bedeutet, wie das Bruttoinlandsprodukt (BIP) als zentraler Indikator dient und welche vier Phasen einen Konjunkturzyklus ausmachen: Aufschwung, Boom, Rezession und Depression.</p><ul><li>Sie können erklären, was unter dem Begriff <strong>Konjunktur</strong> verstanden wird.</li><li>Sie wissen, warum das <strong>Bruttoinlandsprodukt (BIP)</strong> ein wichtiger Indikator für die wirtschaftliche Lage ist.</li><li>Sie können die vier Phasen des <strong>Konjunkturzyklus</strong> (Aufschwung, Boom, Rezession, Depression) benennen und deren Merkmale beschreiben.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Einleitungstext",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "3b144cb6-ced7-40f0-a6eb-efdeb8b4e041"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "panels": [
+                  {
+                    "title": "Konjunktur",
+                    "content": {
+                      "params": {
+                        "text": "<p>Beschreibt die <strong>gesamte wirtschaftliche Lage</strong> eines Landes und deren wellenförmige Schwankungen.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "c6f9c920-9faa-4146-b488-61792a984b4e",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Konjunktur",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Bruttoinlandsprodukt (BIP)",
+                    "content": {
+                      "params": {
+                        "text": "<p>Gibt die <strong>gesamte wirtschaftliche Leistung</strong> eines Landes an und misst die Produktion von Waren und Dienstleistungen im Inland.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "73b3d18e-fd3e-48bd-99fe-048918f34784",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Bruttoinlandsprodukt (BIP)",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Konjunkturzyklus",
+                    "content": {
+                      "params": {
+                        "text": "<p>Stellt die sich wiederholende Abfolge der vier Phasen <strong>Aufschwung, Boom, Abschwung und Depression</strong> dar.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "4bc72141-4984-4269-935b-3b344477ab3f",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Konjunkturzyklus",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Rezession",
+                    "content": {
+                      "params": {
+                        "text": "<p>Phase des <strong>wirtschaftlichen Abschwungs</strong>, in der das Bruttoinlandsprodukt und die Nachfrage sinken, was zu Entlassungen führt.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "dc985540-77bb-46bb-b281-1d592123298d",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Rezession",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Depression",
+                    "content": {
+                      "params": {
+                        "text": "<p>Das <strong>Konjunkturtief</strong>, in dem Nachfrage, Produktion und Investitionen auf einem sehr niedrigen Niveau sind und eine hohe Arbeitslosigkeit herrscht.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "1bd5d1cc-5320-4ade-939d-3e2d40109f83",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Depression",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  }
+                ],
+                "hTag": "h2"
+              },
+              "library": "H5P.Accordion 1.0",
+              "metadata": {
+                "contentType": "Accordion",
+                "license": "U",
+                "title": "Wichtige Begriffe",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Wichtige Begriffe"
+              },
+              "subContentId": "2d7190cd-b1b1-4b61-b252-1de38b1fba07"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "049196ca-8727-4a24-b6ee-c16d187d0c5c",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Einleitung",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Einleitung"
+      }
+    },
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Video: Die Konjunktur erklärt</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Videoeinleitung",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "ed9b65cc-8d52-4936-ae12-60249ef14749"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "interactiveVideo": {
+                  "video": {
+                    "startScreenOptions": {
+                      "title": "Interaktives Video",
+                      "hideStartTitle": false
+                    },
+                    "textTracks": {
+                      "videoTrack": [
+                        {
+                          "label": "Untertitel",
+                          "kind": "subtitles",
+                          "srcLang": "en"
+                        }
+                      ]
+                    },
+                    "files": [
+                      {
+                        "path": "https://www.youtube.com/watch?v=xue1LqyywRI",
+                        "mime": "video/YouTube",
+                        "copyright": {
+                          "license": "U"
+                        },
+                        "aspectRatio": "16:9"
+                      }
+                    ]
+                  },
+                  "assets": {
+                    "interactions": [
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 57,
+                          "to": 58
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Die Konjunktur stellt die Schwankungen im Verlauf der Wirtschaft dar.",
+                                  "Die Konjunktur misst ausschliesslich das Wachstum einzelner Unternehmen.",
+                                  "Die Konjunktur beschreibt einen dauerhaften Aufschwung ohne Schwankungen."
+                                ],
+                                "subContentId": "a47096ac-b453-4d7a-93f5-1a25c29d80f5",
+                                "tip": "Was beschreibt die Konjunktur laut Video (0:19-0:24)?"
+                              },
+                              {
+                                "summary": [
+                                  "Zur Darstellung der Wirtschaftslage werden Indikatoren wie das BIP benötigt.",
+                                  "Die Wirtschaftslage wird ausschliesslich durch die Börsenkurse bestimmt.",
+                                  "Indikatoren sind für das Messen der Konjunktur nicht notwendig, da man sie direkt sehen kann."
+                                ],
+                                "subContentId": "1ce45ecc-46d8-4405-8a1d-e303b9f4cc8b",
+                                "tip": "Welcher zentrale Indikator wird im Video (0:34-0:38) vorgestellt?"
+                              },
+                              {
+                                "summary": [
+                                  "Das BIP misst die Produktion von Waren und Dienstleistungen im Inland.",
+                                  "Das BIP erfasst nur die Exporte eines Landes und ignoriert die inländische Produktion.",
+                                  "Das BIP gibt die gesamte Sparleistung der privaten Haushalte in einem Land an."
+                                ],
+                                "subContentId": "a7e3ef06-2bae-4e0d-96e3-6455a071dd26",
+                                "tip": "Wofür steht das BIP und was misst es genau? (0:42-0:46)"
+                              }
+                            ]
+                          },
+                          "subContentId": "f6c7ecdb-541d-4734-b608-7486fbb0f8ce",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Grundlagen der Konjunktur",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Grundlagen der Konjunktur"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 98,
+                          "to": 99
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Grosse Nachfrage führt dazu, dass Unternehmen mehr produzieren und einstellen.",
+                                  "Bei grosser Nachfrage senken Unternehmen die Produktion, um die Preise künstlich zu erhöhen.",
+                                  "Eine grosse Nachfrage der Haushalte führt direkt zu Entlassungen, um die Effizienz zu steigern."
+                                ],
+                                "subContentId": "37af9adb-4d6b-48c2-a283-08fceaebbee7",
+                                "tip": "Was passiert, wenn die Nachfrage der Haushalte gross ist? (0:59-1:05)"
+                              },
+                              {
+                                "summary": [
+                                  "Steigende Preise für Konsumenten können dazu führen, dass die Nachfrage wieder sinkt.",
+                                  "Steigende Preise führen immer zu noch mehr Nachfrage, weil die Leute Panikkäufe tätigen.",
+                                  "Die Preise für Konsumenten bleiben während des gesamten wirtschaftlichen Aufschwungs stabil."
+                                ],
+                                "subContentId": "2a1e8e02-88bf-4dbd-8cdd-7e94e628306f",
+                                "tip": "Welche Entwicklung kann einen anhaltenden Kaufrausch beenden? (1:20-1:22)"
+                              },
+                              {
+                                "summary": [
+                                  "Sind Anlagen nicht mehr ausgelastet, kann es zu Entlassungen und einem sinkenden BIP kommen.",
+                                  "Nicht ausgelastete Anlagen führen zu mehr Investitionen, um die Nachfrage anzukurbeln.",
+                                  "Bei Entlassungen steigt das BIP, da die Unternehmen durch die Lohnkosten viel Geld sparen."
+                                ],
+                                "subContentId": "1005d073-eb43-4e3a-ad8b-da2a7e912015",
+                                "tip": "Was ist die Konsequenz von nicht mehr ausgelasteten Anlagen? (1:25-1:32)"
+                              }
+                            ]
+                          },
+                          "subContentId": "c064bcc9-a311-4bee-9ddc-001d9613ec6e",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Dynamik des Wirtschaftszyklus",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Dynamik des Wirtschaftszyklus"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 165,
+                          "to": 166
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Ein Konjunkturzyklus besteht aus Aufschwung, Boom, Abschwung und Depression.",
+                                  "Ein Konjunkturzyklus besteht nur aus den Phasen Wachstum und Stagnation.",
+                                  "Die Reihenfolge der Phasen ist beliebig und ändert sich jedes Mal."
+                                ],
+                                "subContentId": "b7bf7fe7-85e6-43ba-b43c-58ffb92914d5",
+                                "tip": "Welche vier Phasen werden im Video (1:40-1:47) genannt?"
+                              },
+                              {
+                                "summary": [
+                                  "Im Aufschwung sind steigende Nachfrage und sinkende Arbeitslosigkeit typisch.",
+                                  "Im Aufschwung sinkt die Nachfrage, aber die Produktion steigt trotzdem stark an.",
+                                  "Der Aufschwung ist durch hohe Arbeitslosigkeit und stetig fallende Zinsen geprägt."
+                                ],
+                                "subContentId": "3de1ab72-5e33-4c44-9d05-7081e7d56314",
+                                "tip": "Was sind die wesentlichen Merkmale der Aufschwungphase? (2:03-2:08)"
+                              },
+                              {
+                                "summary": [
+                                  "In der Boom-Phase herrscht Hochkonjunktur mit nahezu Vollbeschäftigung.",
+                                  "Während des Booms sinken die Löhne und Preise stark, da der Markt gesättigt ist.",
+                                  "In der Boom-Phase werden die Prognosen optimistischer und Investitionen steigen stark an."
+                                ],
+                                "subContentId": "6bd508e9-1913-49b7-85ca-fa4623163695",
+                                "tip": "Was kennzeichnet die Phase der Hochkonjunktur? (2:20-2:28)"
+                              }
+                            ]
+                          },
+                          "subContentId": "b85902ae-8b00-4402-8050-73b2895d2f64",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Phasen: Aufschwung und Boom",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Phasen: Aufschwung und Boom"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 212,
+                          "to": 213
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "In der Rezession sinkt die Nachfrage und das Bruttoinlandsprodukt fällt ab.",
+                                  "Eine Rezession ist durch steigende Investitionen und optimistische Prognosen gekennzeichnet.",
+                                  "Während der Rezession stellen Unternehmen neue Mitarbeiter ein, um die Produktion zu stützen."
+                                ],
+                                "subContentId": "836f5026-ee3e-4756-8121-5b33b775b967",
+                                "tip": "Was passiert mit Nachfrage und BIP während des Abschwungs? (2:45-2:49)"
+                              },
+                              {
+                                "summary": [
+                                  "Volle Produktionslager führen dazu, dass die Produktion heruntergefahren wird.",
+                                  "Die Produktionslager sind in der Rezession immer leer, weil die Nachfrage so hoch ist.",
+                                  "Volle Produktionslager sind ein Zeichen für eine gesunde Wirtschaft."
+                                ],
+                                "subContentId": "20985016-d0f6-410e-b570-110d32ba427b",
+                                "tip": "Warum wird in der Rezession die Produktion gedrosselt? (2:55)"
+                              },
+                              {
+                                "summary": [
+                                  "In der Depression ist die Arbeitslosigkeit hoch, die Nachfrage ist auf einem Tiefpunkt.",
+                                  "Die Depression ist eine Phase mit Vollbeschäftigung und besonders hohen Zinsen.",
+                                  "Während einer Depression erholt sich die Wirtschaft von alleine immer sehr schnell."
+                                ],
+                                "subContentId": "339383c3-f3df-4e21-8dab-461695b406a4",
+                                "tip": "Wie ist die wirtschaftliche Lage am Konjunkturtiefpunkt? (3:12-3:18)"
+                              }
+                            ]
+                          },
+                          "subContentId": "1b66b180-af4d-4690-9b46-34f357d309d2",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Phasen: Rezession und Depression",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Phasen: Rezession und Depression"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 232,
+                          "to": 233
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Der Staat kann durch Steuersenkungen der Wirtschaft bei einer Rezession helfen.",
+                                  "Der Staat greift in die Wirtschaft ein, indem er die Zinsen für Kredite direkt festlegt.",
+                                  "Staatliche Eingriffe sind nur in der Boom-Phase sinnvoll, um die Wirtschaft zu kühlen."
+                                ],
+                                "subContentId": "4c75eaa4-d144-4a5c-a6ae-20eba51235b3",
+                                "tip": "Welches Instrument kann der Staat laut Video (3:37) einsetzen?"
+                              },
+                              {
+                                "summary": [
+                                  "Die Notenbank kann durch die Steuerung der Zinshöhe den Geldfluss beeinflussen.",
+                                  "Die Notenbank ist für die Vergabe von Subventionen an einzelne Unternehmen zuständig.",
+                                  "Die Notenbank besitzt keine wirksamen Instrumente, um Konjunkturschwankungen auszugleichen."
+                                ],
+                                "subContentId": "596cd672-bb4b-4582-a1bc-b8d42bdaf662",
+                                "tip": "Wie kann die zentrale Notenbank die Wirtschaft steuern? (3:43-3:48)"
+                              },
+                              {
+                                "summary": [
+                                  "Das Ziel der Eingriffe ist es, zu starke Konjunkturschwankungen zu verhindern.",
+                                  "Das Ziel der Eingriffe ist es, den Konjunkturzyklus vollständig zu eliminieren.",
+                                  "Staat und Notenbank greifen nur ein, um die Gewinne der Unternehmen zu maximieren."
+                                ],
+                                "subContentId": "c5f869af-0095-465e-a1c1-e48750bfc1f5",
+                                "tip": "Was ist der übergeordnete Zweck der staatlichen und notenbankpolitischen Massnahmen? (3:49)"
+                              }
+                            ]
+                          },
+                          "subContentId": "6e47a9fe-0b1a-4976-a75e-f75ef0c5c247",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Staatliche Eingriffe",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Staatliche Eingriffe"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      }
+                    ],
+                    "bookmarks": [],
+                    "endscreens": [
+                      {
+                        "time": 0,
+                        "label": "0:00 Antwortübermittlung"
+                      },
+                      {
+                        "time": 432,
+                        "label": "7:12 Antwortübermittlung"
+                      }
+                    ]
+                  },
+                  "summary": {
+                    "task": {
+                      "library": "H5P.Summary 1.10",
+                      "params": {
+                        "intro": "Wähle die korrekte Aussage.",
+                        "overallFeedback": [
+                          {
+                            "from": 0,
+                            "to": 100
+                          }
+                        ],
+                        "solvedLabel": "Fortschritt:",
+                        "scoreLabel": "Falsche Antworten:",
+                        "resultLabel": "Dein Ergebnis",
+                        "labelCorrect": "Richtig.",
+                        "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                        "alternativeIncorrectLabel": "Falsch",
+                        "labelCorrectAnswers": "Richtige Antwort(en).",
+                        "tipButtonLabel": "Tipp anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "progressText": "Fortschritt :num von :total",
+                        "summaries": [
+                          {
+                            "subContentId": "0cc8d021-9dac-49b2-b818-004940ad0675",
+                            "tip": ""
+                          }
+                        ]
+                      },
+                      "subContentId": "784067cd-d433-4b62-9bda-0c22e01a30d8",
+                      "metadata": {
+                        "contentType": "Summary",
+                        "license": "U",
+                        "title": "Video End-Summary"
+                      }
+                    },
+                    "displayAt": 3
+                  }
+                },
+                "override": {
+                  "autoplay": false,
+                  "loop": false,
+                  "showBookmarksmenuOnLoad": false,
+                  "showRewind10": true,
+                  "preventSkippingMode": "none",
+                  "deactivateSound": false,
+                  "showSolutionButton": "off",
+                  "retryButton": "off"
+                },
+                "l10n": {
+                  "interaction": "Interaktion",
+                  "play": "Abspielen",
+                  "pause": "Pause",
+                  "mute": "Stummschalten, derzeit nicht laut geschaltet",
+                  "unmute": "Laut schalten, derzeit stumm geschaltet",
+                  "quality": "Videoqualität",
+                  "captions": "Untertitel",
+                  "close": "Schließen",
+                  "fullscreen": "Vollbild",
+                  "exitFullscreen": "Vollbild beenden",
+                  "summary": "Zusammenfassung öffnen",
+                  "bookmarks": "Lesezeichen",
+                  "endscreen": "Einsendebildschirm",
+                  "defaultAdaptivitySeekLabel": "Fortfahren",
+                  "continueWithVideo": "Video fortsetzen",
+                  "more": "Mehr Abspieloptionen",
+                  "playbackRate": "Abspielgeschwindigkeit",
+                  "rewind10": "10 Sekunden zurückspulen",
+                  "navDisabled": "Vor- und Zurückspulen ist deaktiviert",
+                  "navForwardDisabled": "Navigation vorwärts ist deaktiviert",
+                  "sndDisabled": "Ton ist deaktiviert",
+                  "requiresCompletionWarning": "Es müssen alle Fragen richtig beantwortet werden, um weitermachen zu können.",
+                  "back": "Zurück",
+                  "hours": "Stunden",
+                  "minutes": "Minuten",
+                  "seconds": "Sekunden",
+                  "currentTime": "Aktuelle Zeit:",
+                  "totalTime": "Gesamtzeit:",
+                  "singleInteractionAnnouncement": "Interaktion ist erschienen:",
+                  "multipleInteractionsAnnouncement": "Mehrere Interaktionen sind erschienen.",
+                  "videoPausedAnnouncement": "Video ist angehalten",
+                  "content": "Inhalt",
+                  "answered": "@answered beantwortet",
+                  "endcardTitle": "@answered Frage(n) beantwortet",
+                  "endcardInformation": "Du hast @answered Fragen beantwortet.",
+                  "endcardInformationOnSubmitButtonDisabled": "Du hast @answered Fragen beantwortet. Klicke unten, um deine Ergebnisse abzusenden.",
+                  "endcardInformationNoAnswers": "Du hast noch keine Fragen beantwortet.",
+                  "endcardInformationMustHaveAnswer": "Du musst mindestens eine Frage beantworten, um deine Antworten absenden zu können.",
+                  "endcardSubmitButton": "Antworten absenden",
+                  "endcardSubmitMessage": "Deine Antworten wurden abgeschickt!",
+                  "endcardTableRowAnswered": "Beantwortete Fragen",
+                  "endcardTableRowScore": "Punkte",
+                  "endcardAnsweredScore": "beantwortet",
+                  "endCardTableRowSummaryWithScore": "Du hast @score von @total Punkten für die @question erhalten, die bei @minutes Minuten und @seconds Sekunden erschienen ist.",
+                  "endCardTableRowSummaryWithoutScore": "Du hast die @question beantwortet, die bei @minutes Minuten und @seconds Sekunden erschienen ist.",
+                  "videoProgressBar": "Video-Fortschritt",
+                  "howToCreateInteractions": "Spiele das Video ab, um mit dem Erstellen von Interaktionen zu beginnen"
+                }
+              },
+              "library": "H5P.InteractiveVideo 1.27",
+              "metadata": {
+                "contentType": "Interactive Video",
+                "license": "U",
+                "title": "Interaktives Video: Grundlagen der Konjunktur",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Interaktives Video: Grundlagen der Konjunktur"
+              },
+              "subContentId": "d6c9f648-4c8c-457c-aa39-c63e4a7fb97a"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "73857783-aa9c-4a85-9208-c7452ed65e98",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Video",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Video"
+      }
+    },
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Verständnisfragen</h2><p>Beantworten Sie zum Schluss die folgenden Fragen zum Inhalt des Videos.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Fragen Einleitung",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "af45ffca-21f2-46d6-a0af-04963a031c9f"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "introPage": {
+                  "showIntroPage": true,
+                  "startButtonText": "Quiz starten",
+                  "title": "Verständnisfragen Quiz",
+                  "introduction": ""
+                },
+                "progressType": "dots",
+                "passPercentage": 50,
+                "disableBackwardsNavigation": false,
+                "randomQuestions": true,
+                "poolSize": 10,
+                "questions": [
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Was stellt die Konjunktur laut Video dar?</p>",
+                      "answers": [
+                        {
+                          "text": "Die wirtschaftliche Lage eines Landes und ihre Schwankungen.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Konjunktur beschreibt die Auf- und Abs der gesamten Wirtschaft.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Den Wechselkurs einer Währung im Vergleich zum Dollar.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist nicht die Definition aus dem Video. Die Konjunktur bezieht sich auf die gesamte wirtschaftliche Lage.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Gewinne der 100 grössten Unternehmen eines Landes.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Konjunktur ist breiter gefasst und betrifft die gesamte Volkswirtschaft.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "e8dedbef-b26f-400b-91f8-c742ff31fba8",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welcher Indikator wird im Video als Mass für die wirtschaftliche Leistung eines Landes genannt?</p>",
+                      "answers": [
+                        {
+                          "text": "Das Bruttoinlandsprodukt (BIP).",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das BIP ist der zentrale Indikator zur Messung der Wirtschaftsleistung.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Der Konsumentenpreisindex (KPI).",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Obwohl auch wichtig, wird im Video das BIP als zentrales Mass für die Leistung genannt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Arbeitslosenquote.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Arbeitslosenquote ist eine Folge der Konjunktur, aber das BIP misst die wirtschaftliche Leistung.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "a898ea4d-1339-4307-b910-ec9bc5453ea4",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Wie wird die Phase des wirtschaftlichen Abschwungs auch genannt?</p>",
+                      "answers": [
+                        {
+                          "text": "Rezession.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Der Abschwung ist besser bekannt als Rezession.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Expansion.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Expansion ist die Bezeichnung für den Aufschwung.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Depression.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Depression ist das Konjunkturtief, das nach dem Abschwung kommt.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "7b49967b-7d71-4691-a781-b65308be32b5",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welche Phase folgt im Konjunkturzyklus direkt auf den Aufschwung (Expansion)?</p>",
+                      "answers": [
+                        {
+                          "text": "Boom (Hochkonjunktur).",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Nach dem Aufschwung erreicht die Wirtschaft die Boom-Phase.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Rezession.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Rezession folgt erst auf den Boom.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Depression.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Depression ist die letzte Phase vor einem neuen Aufschwung.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "3e2fcb96-ef31-40ee-8d16-7e0ff4ec6f10",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Warum führt eine hohe Nachfrage der Haushalte zu einem wirtschaftlichen Aufschwung?</p>",
+                      "answers": [
+                        {
+                          "text": "Weil Unternehmen die Produktion ausweiten und neue Mitarbeiter einstellen.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Eine hohe Nachfrage kurbelt die Produktion und den Arbeitsmarkt an, was das BIP steigen lässt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil der Staat bei hoher Nachfrage automatisch die Steuern für alle senkt.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine hohe Nachfrage führt laut Video zu mehr Produktion, nicht direkt zu staatlichen Steuersenkungen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil die Preise für Produkte sofort sinken, um noch mehr Konsum zu fördern.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Im Aufschwung tendieren die Preise dazu, zu steigen, nicht zu sinken.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "af49b4b6-d55c-4167-aa1b-05937d72bd55",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Was ist mit der \"Überhitzung des Marktes\" in der Boom-Phase gemeint?</p>",
+                      "answers": [
+                        {
+                          "text": "Die Nachfrage ist so hoch, dass Kapazitäten ausgelastet sind und Preise stark steigen.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Wirtschaft läuft auf Hochtouren, was zu Engpässen und stark steigenden Preisen führt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Unternehmen produzieren zu viel, sodass die Lagerbestände überquellen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Überfüllte Lager sind typisch für die Rezession. Bei einer Überhitzung ist die Nachfrage sehr hoch.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Zinsen sind so niedrig, dass niemand mehr Geld investieren möchte.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> In der Boom-Phase steigen die Zinsen in der Regel an.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "8ef9debf-8c13-4786-8218-68eedbf5f7a9",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Weshalb ist eine Depression für eine Volkswirtschaft besonders gefährlich?</p>",
+                      "answers": [
+                        {
+                          "text": "Weil Arbeitslosigkeit hoch ist und die Wirtschaft auf einem Tiefpunkt stagniert.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Kombination aus hoher Arbeitslosigkeit und niedriger Produktion kann zu einer langanhaltenden Krise führen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil die Löhne und Gehälter in dieser Phase unkontrolliert ansteigen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> In einer Depression sind Löhne, Preise und Zinsen auf einem niedrigen Stand.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil der Staat in dieser Phase keine Möglichkeit mehr hat, einzugreifen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video erwähnt explizit, dass der Staat und die Notenbank eingreifen können (und es oft tun).",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "399610af-d6f9-4ff0-84e6-ea94104f1cc9",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welchen allgemeinen Zweck hat die Steuerung des Geldflusses durch die Notenbank?</p>",
+                      "answers": [
+                        {
+                          "text": "Die Schwankungen der Konjunktur sollen ausgeglichen und abgemildert werden.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Notenbank versucht, extreme Auf- und Abschwünge zu verhindern und die Wirtschaft zu stabilisieren.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Gewinne der Geschäftsbanken sollen jedes Jahr maximiert werden.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Ziel ist die Stabilisierung der Gesamtwirtschaft, nicht die Gewinnmaximierung privater Banken.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Es soll sichergestellt werden, dass die Preise für Konsumgüter jedes Jahr sinken.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Stetig sinkende Preise (Deflation) sind ebenfalls schädlich. Ziel ist eine stabile Wirtschaft.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "10e92d7d-b29d-45e6-87f2-b32fe736e9c6",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Ein Land erlebt seit mehreren Quartalen ein sinkendes BIP und die Entlassungen nehmen zu. In welcher Phase befindet sich das Land am ehesten?</p>",
+                      "answers": [
+                        {
+                          "text": "In einer Rezession (Abschwung).",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Sinkendes BIP und zunehmende Entlassungen sind klare Kennzeichen einer Rezession.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "In einer Boom-Phase.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Im Boom würde das BIP wachsen und es gäbe eher einen Mangel an Arbeitskräften.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "In einem Aufschwung.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Im Aufschwung würde das BIP wachsen und die Arbeitslosigkeit sinken.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "9ecb029d-7efd-4682-9414-80ebac2ef63f",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Die Regierung beschliesst, die Steuern zu senken, um den Konsum anzukurbeln. In welcher Situation ist diese Massnahme laut Video am sinnvollsten?</p>",
+                      "answers": [
+                        {
+                          "text": "Bei einer beginnenden Rezession.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Solche staatlichen Eingriffe sollen helfen, einen Abschwung abzufedern oder zu beenden.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Während einer Hochkonjunktur (Boom).",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Im Boom würde eine solche Massnahme die Wirtschaft wahrscheinlich noch weiter überhitzen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Wenn die Arbeitslosigkeit sehr niedrig ist.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine sehr niedrige Arbeitslosigkeit ist ein Zeichen für einen Boom, wo eine solche Massnahme kontraproduktiv wäre.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "503cb03f-948c-4f9b-9252-c81a7187a60e",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Ein Unternehmen investiert in neue Maschinen und stellt Personal ein, da die Auftragsbücher voll sind. Welcher Phase entspricht dieses Verhalten?</p>",
+                      "answers": [
+                        {
+                          "text": "Dem Aufschwung (Expansion).",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Steigende Nachfrage, Investitionen und Einstellungen sind typisch für die Aufschwungphase.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Der Depression.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> In der Depression sinkt die Nachfrage und Unternehmen entlassen eher Personal oder investieren nicht.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Der Rezession.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> In der Rezession sinkt die Nachfrage und Unternehmen fahren die Produktion eher zurück.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "fe27d05c-3cb6-4b3a-9973-76de4314dff8",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Die Notenbank erhöht die Leitzinsen deutlich. Was ist die wahrscheinliche Absicht hinter dieser Massnahme im Kontext des Konjunkturzyklus?</p>",
+                      "answers": [
+                        {
+                          "text": "Eine Überhitzung des Marktes (Boom) zu dämpfen.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Höhere Zinsen machen Kredite teurer, dämpfen die Nachfrage und können so eine Überhitzung abkühlen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Eine Depression schnell zu beenden.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> In einer Depression würde die Notenbank die Zinsen senken, um die Wirtschaft zu stimulieren.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Exporte von Waren ins Ausland zu fördern.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Zinserhöhung kann die eigene Währung stärken, was Exporte verteuert und somit eher hemmt.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "5f73ba1a-013b-4a0f-ab6b-446fc46ee751",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Laut Video wiederholen sich die Phasen des Konjunkturzyklus immer in der gleichen Reihenfolge.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Video beschreibt den Zyklus als eine wiederkehrende Abfolge von Aufschwung, Boom, Abschwung und Depression.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Das Video betont den zyklischen und wiederkehrenden Charakter der Phasen."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "c0beff24-3fc2-4432-bce8-7259555a2e36",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>In der Boom-Phase steigen die Investitionen der Unternehmen immer weiter und immer schneller an.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erwähnt, dass die Investitionen in der Boom-Phase „nicht mehr zunehmend ansteigen“, weil die Prognosen vorsichtiger werden.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Gegen Ende des Booms flacht die Investitionskurve ab, da die Erwartungen sinken."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "771f71e2-cfd9-44fd-93f8-c2de24efb3e7",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Ein Konjunkturzyklus dauert laut Video immer genau vier Jahre.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video gibt eine grobe Spanne von 4 bis 10 Jahren an.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Die Dauer eines Zyklus kann stark variieren und ist nicht auf vier Jahre festgelegt."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "a0853dad-4b37-480c-9b07-0de7aa4f5221",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Pessimistische Zukunftsprognosen können dazu führen, dass Unternehmen weniger investieren und so einen Abschwung verstärken.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Video erklärt, dass sinkende Investitionen aufgrund pessimistischer Prognosen ein Merkmal der Rezession sind.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Die Erwartungen der Wirtschaftsakteure haben einen grossen Einfluss auf ihre Handlungen und damit auf die Konjunktur."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "e17dbc00-a8f2-4d6a-95d9-b83c5aebbac5",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Wenn in den Nachrichten von einer \"drohenden Rezession\" die Rede ist, bedeutet das, dass die Wirtschaft aktuell eine Hochkonjunktur (Boom) erlebt.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Eine drohende Rezession bedeutet, dass die Wirtschaft sich vom Boom-Höhepunkt aus abschwächt.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Eine drohende Rezession folgt auf den Höhepunkt des Booms, wenn die Wirtschaft zu kippen beginnt."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "a4a66a14-aa80-4cbe-8827-e73b5ec2b72d",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Wenn der Staat Subventionen an Unternehmen zahlt, ist dies ein Beispiel für einen Eingriff, um die Wirtschaft in einer Krise zu stützen.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Video nennt Subventionen explizit als eine Massnahme, mit der der Staat der Wirtschaft helfen kann.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Subventionen sind ein genanntes Instrument der staatlichen Wirtschaftspolitik, um einen Abschwung zu bekämpfen."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "ec18717d-8d37-443f-ad62-093fed262a53",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Ein Student findet nach seinem Abschluss sofort eine gut bezahlte Stelle, da viele Firmen Personal suchen. Diese Situation ist typisch für eine Depression.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Eine solche Situation mit hoher Nachfrage nach Arbeitskräften ist typisch für den Aufschwung oder Boom.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. In einer Depression herrscht hohe Arbeitslosigkeit und es ist schwer, eine Stelle zu finden."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "f64fa8f2-e2b0-4d83-ab2d-9ae1c0cc262e",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Ein Unternehmen verschiebt eine grosse Investition, weil die Prognosen sehr pessimistisch sind. Dieses Verhalten hilft, den Abschwung zu bremsen.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Wenn Unternehmen aus Angst nicht mehr investieren, schwächt das die Wirtschaft weiter ab und verstärkt den Abschwung.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Zurückgehaltene Investitionen sind ein Symptom und eine Ursache für die Vertiefung einer Rezession."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "125f39c6-2051-4791-abfc-3a7234078d00",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  }
+                ],
+                "backgroundImage": {
+                  "mime": "image/png",
+                  "copyright": {
+                    "license": "U"
+                  },
+                  "width": 52,
+                  "height": 52,
+                  "path": "images/img_2.png"
+                },
+                "endGame": {
+                  "showResultPage": true,
+                  "showSolutionButton": true,
+                  "showRetryButton": true,
+                  "noResultMessage": "Quiz beendet",
+                  "message": "Dein Ergebnis:",
+                  "scoreBarLabel": "Du hast @score von @total Punkten erreicht.",
+                  "overallFeedback": [
+                    {
+                      "from": 0,
+                      "to": 100
+                    }
+                  ],
+                  "solutionButtonText": "Lösung anzeigen",
+                  "retryButtonText": "Wiederholen",
+                  "finishButtonText": "Beenden",
+                  "submitButtonText": "Absenden",
+                  "showAnimations": false,
+                  "skippable": false,
+                  "skipButtonText": "Video überspringen"
+                },
+                "texts": {
+                  "prevButton": "Zurück",
+                  "nextButton": "Weiter",
+                  "finishButton": "Beenden",
+                  "submitButton": "Absenden",
+                  "textualProgress": "Aktuelle Frage: @current von @total Fragen",
+                  "jumpToQuestion": "Frage %d von %total",
+                  "questionLabel": "Frage",
+                  "readSpeakerProgress": "Frage @current von @total",
+                  "unansweredText": "Unbeantwortet",
+                  "answeredText": "Beantwortet",
+                  "currentQuestionText": "Aktuelle Frage",
+                  "navigationLabel": "Fragen"
+                },
+                "override": {
+                  "checkButton": true,
+                  "showSolutionButton": "off",
+                  "retryButton": "off"
+                }
+              },
+              "library": "H5P.QuestionSet 1.20",
+              "metadata": {
+                "contentType": "Question Set",
+                "license": "U",
+                "title": "Verständnisfragen Quiz",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Verständnisfragen Quiz"
+              },
+              "subContentId": "b1df3b88-2d47-4aa9-a222-3f8575aa1b03"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "8955f4db-7214-4ce1-be6d-3bb7acdd13b8",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Verständnisfragen",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Verständnisfragen"
+      }
+    }
+  ],
+  "behaviour": {
+    "baseColor": "#1768c4",
+    "defaultTableOfContents": true,
+    "progressIndicators": true,
+    "progressAuto": true,
+    "displaySummary": true,
+    "enableRetry": true
+  },
+  "read": "Öffnen",
+  "displayTOC": "Inhaltsverzeichnis anzeigen",
+  "hideTOC": "Inhaltsverzeichnis ausblenden",
+  "nextPage": "Nächste Seite",
+  "previousPage": "Vorherige Seite",
+  "chapterCompleted": "Seite abgeschlossen!",
+  "partCompleted": "@pages von @total Seiten abgeschlossen",
+  "incompleteChapter": "Unvollständige Seite",
+  "navigateToTop": "Nach oben springen",
+  "markAsFinished": "Ich habe diese Seite abgeschlossen",
+  "fullscreen": "Vollbild",
+  "exitFullscreen": "Vollbild beenden",
+  "bookProgressSubtext": "@count von @total Seiten",
+  "interactionsProgressSubtext": "@count von @total Interaktionen",
+  "submitReport": "Report absenden",
+  "restartLabel": "Neustart",
+  "summaryHeader": "Zusammenfassung",
+  "allInteractions": "Alle Interaktionen",
+  "unansweredInteractions": "Unbeantwortete Interaktionen",
+  "scoreText": "@score / @maxscore",
+  "leftOutOfTotalCompleted": "@left von @max Interaktionen abgeschlossen",
+  "noInteractions": "Keine Interaktionen",
+  "score": "Punkte",
+  "summaryAndSubmit": "Zusammenfassung und Einsenden",
+  "noChapterInteractionBoldText": "Du hast noch keine Seiten bearbeitet.",
+  "noChapterInteractionText": "Du musst wenigstens eine Seite bearbeiten, um die Zusammenfassung zu sehen.",
+  "yourAnswersAreSubmittedForReview": "Deine Antworten wurden zur Begutachtung versendet!",
+  "bookProgress": "Buchfortschritt",
+  "interactionsProgress": "Interaktionsfortschritt",
+  "totalScoreLabel": "Gesamtpunktzahl",
+  "a11y": {
+    "progress": "Seite @page von @total.",
+    "menu": "Inhaltsverzeichnis ein- bzw. ausschalten"
+  }
+}
