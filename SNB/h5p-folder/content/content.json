@@ -1,0 +1,2915 @@
+{
+  "showCoverPage": true,
+  "bookCover": {
+    "coverDescription": "<h1 style=\"text-align:center\">Die Schweizerische Nationalbank</h1><h3 style=\"text-align:center\">Was sie tut und wie sie handelt</h3>",
+    "coverMedium": {
+      "params": {
+        "decorative": false,
+        "contentName": "Bild",
+        "expandImage": "Bild vergrößern",
+        "minimizeImage": "Bild verkleinern",
+        "file": {
+          "mime": "image/png",
+          "copyright": {
+            "license": "U"
+          },
+          "width": 52,
+          "height": 52,
+          "path": "images/img_1.png"
+        }
+      },
+      "library": "H5P.Image 1.1",
+      "metadata": {
+        "contentType": "Image",
+        "license": "U",
+        "title": "Cover Bild",
+        "authors": [],
+        "changes": []
+      },
+      "subContentId": "367a108a-a4f2-49a0-a205-196b7c4e42de"
+    }
+  },
+  "chapters": [
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Grundlagen der Schweizerischen Nationalbank</h2><p>Dieses Video erklärt Ihnen die zentralen Aufgaben und Handlungsweisen der Schweizerischen Nationalbank (SNB). Sie erfahren, wie die SNB die Preisstabilität gewährleistet, warum ihre Unabhängigkeit entscheidend ist und mit welchen Instrumenten sie die Geld- und Währungspolitik des Landes steuert, um die Schweizer Wirtschaft zu stützen.</p><ul><li>Sie können die Hauptaufgabe der Nationalbank, die <strong>Gewährleistung der Preisstabilität</strong>, erklären.</li><li>Sie verstehen, warum die <strong>Unabhängigkeit</strong> der Nationalbank von der Politik gesetzlich verankert ist.</li><li>Sie kennen den Zweck der <strong>geldpolitischen Lagebeurteilung</strong> und wie daraus Entscheide abgeleitet werden.</li><li>Sie erhalten einen Überblick darüber, wie die Nationalbank die <strong>Zinsen und die Liquidität</strong> im Bankensystem steuert.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Einleitungstext",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "9312a88a-5069-402e-8348-97a5c5cd2aac"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "panels": [
+                  {
+                    "title": "Schweizerische Nationalbank (SNB)",
+                    "content": {
+                      "params": {
+                        "text": "<p>Die <strong>Zentralbank</strong> der Schweiz, die seit über 100 Jahren die <strong>Geld- und Währungspolitik</strong> des Landes führt.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "26f45a2f-6232-4da9-a27b-acdabcd3abdc",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Schweizerische Nationalbank (SNB)",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Preisstabilität",
+                    "content": {
+                      "params": {
+                        "text": "<p>Das gesetzliche Hauptziel der Nationalbank, welches sicherstellt, dass die Preise weder andauernd steigen <strong>(Inflation)</strong> noch sinken <strong>(Deflation)</strong>.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "acca58e9-039d-4131-8798-8f2e52c5fb34",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Preisstabilität",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Unabhängigkeit",
+                    "content": {
+                      "params": {
+                        "text": "<p>Die gesetzliche Verankerung, die die Nationalbank vor <strong>politischer Einflussnahme</strong> schützen soll, damit sie in der Geldpolitik keine Weisungen von aussen entgegennehmen muss.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "596ed5a4-0c6f-4a73-bc67-f68d8c04d207",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Unabhängigkeit",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Geldpolitik",
+                    "content": {
+                      "params": {
+                        "text": "<p>Die Steuerung der Versorgung der Wirtschaft mit <strong>Geld und Krediten</strong> durch die Nationalbank, um die Preisstabilität zu gewährleisten.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "00021a96-69ce-4562-b37c-69bf34d50ffd",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Geldpolitik",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Liquidität",
+                    "content": {
+                      "params": {
+                        "text": "<p>Das Geld, das Geschäftsbanken auf ihren Konten bei der Nationalbank halten, um ihren <strong>Zahlungsverkehr</strong> abzuwickeln und Vorschriften zu erfüllen.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "95edb944-5275-459d-9c2a-bff9238b52da",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Liquidität",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  }
+                ],
+                "hTag": "h2"
+              },
+              "library": "H5P.Accordion 1.0",
+              "metadata": {
+                "contentType": "Accordion",
+                "license": "U",
+                "title": "Wichtige Begriffe",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Wichtige Begriffe"
+              },
+              "subContentId": "8673d5f6-c478-4616-9dfa-cf12ea592755"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "0ce49675-24c2-4f30-9882-d55f2405f42f",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Einleitung",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Einleitung"
+      }
+    },
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Video: Die Schweizerische Nationalbank erklärt</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu prüfen.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Videoeinleitung",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "588e2726-d86f-43b4-94a9-a20d325a814f"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "interactiveVideo": {
+                  "video": {
+                    "startScreenOptions": {
+                      "title": "Interaktives Video",
+                      "hideStartTitle": false
+                    },
+                    "textTracks": {
+                      "videoTrack": [
+                        {
+                          "label": "Untertitel",
+                          "kind": "subtitles",
+                          "srcLang": "en"
+                        }
+                      ]
+                    },
+                    "files": [
+                      {
+                        "path": "https://www.youtube.com/watch?v=LkenNgjV8wA",
+                        "mime": "video/YouTube",
+                        "copyright": {
+                          "license": "U"
+                        },
+                        "aspectRatio": "16:9"
+                      }
+                    ]
+                  },
+                  "assets": {
+                    "interactions": [
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 75,
+                          "to": 76
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Die Unabhängigkeit der SNB ist gesetzlich verankert.",
+                                  "Die Nationalbank muss die geldpolitischen Weisungen des Bundesrats direkt befolgen.",
+                                  "Die Nationalbank hat ihren einzigen und alleinigen Hauptsitz im Bundeshaus in Bern."
+                                ],
+                                "subContentId": "c41294bb-0dfa-467d-a272-84e4c96667ed",
+                                "tip": "Achten Sie auf die Erklärungen zur gesetzlichen Verankerung der Unabhängigkeit (0:53-1:02)."
+                              },
+                              {
+                                "summary": [
+                                  "Die SNB muss der Bundesversammlung Rechenschaft ablegen.",
+                                  "Die Nationalbank agiert als unabhängige Institution völlig ohne jegliche Kontrollinstanz.",
+                                  "Das Direktorium der Nationalbank wird vom Schweizer Stimmvolk direkt gewählt."
+                                ],
+                                "subContentId": "b35632b2-d29e-4ac0-b239-063b36dbe5d7",
+                                "tip": "Wem gegenüber ist die Nationalbank zur Rechenschaft verpflichtet (1:10-1:12)?"
+                              },
+                              {
+                                "summary": [
+                                  "Das Direktorium trifft die geldpolitischen Entscheidungen.",
+                                  "Das Direktorium der Nationalbank besteht aus den sieben Mitgliedern des Bundesrats.",
+                                  "Die Mitglieder des Direktoriums werden von den grössten Schweizer Geschäftsbanken ernannt."
+                                ],
+                                "subContentId": "9660a53c-429a-4733-91d5-6199b17b9463",
+                                "tip": "Wer ist für die geldpolitischen Entscheidungen zuständig und wer wählt dessen Mitglieder (1:17-1:25)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "eb76cdd6-9ea4-4c6f-af3b-47c055bf3b61",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Rolle und Unabhängigkeit der SNB",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Rolle und Unabhängigkeit der SNB"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 184,
+                          "to": 185
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Preisstabilität bedeutet, Inflation und Deflation zu vermeiden.",
+                                  "Preisstabilität bedeutet, dass die Preise für alle Güter und Dienstleistungen staatlich fixiert sind.",
+                                  "Preisstabilität heisst, dass die Kaufkraft des Frankens jedes Jahr leicht zunehmen soll."
+                                ],
+                                "subContentId": "ac02be92-6ee5-4866-b639-f328cddb2047",
+                                "tip": "Hören Sie sich die genaue Definition der Preisstabilität und ihrer Bestandteile an (1:56-2:06)."
+                              },
+                              {
+                                "summary": [
+                                  "Starke Inflation kann die Ersparnisse der Menschen entwerten.",
+                                  "Eine hohe Inflation ist wirtschaftlich wünschenswert, da sie immer zu Vollbeschäftigung führt.",
+                                  "In der Geschichte der meisten Länder gab es noch nie Phasen mit stark steigenden Preisen."
+                                ],
+                                "subContentId": "37c05232-fc5d-4c7c-adc1-f54ad3608b15",
+                                "tip": "Was waren die verheerenden Folgen von unkontrollierter Inflation in der Vergangenheit (2:31-2:40)?"
+                              },
+                              {
+                                "summary": [
+                                  "Eine schwere Deflation kann zu Produktionsrückgängen führen.",
+                                  "Stark sinkende Preise, also eine Deflation, sind für die Wirtschaft immer von Vorteil.",
+                                  "Deflation ist in der Wirtschaftsgeschichte ein wesentlich häufigeres Phänomen als Inflation."
+                                ],
+                                "subContentId": "81162747-a194-468d-b517-653043eae500",
+                                "tip": "Welches historische Ereignis wird als eindringliches Beispiel für die Folgen einer Deflation genannt (2:51-3:01)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "98813bfe-8256-478f-a7b2-dfea8906ce12",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Das Ziel der Preisstabilität",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Das Ziel der Preisstabilität"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 308,
+                          "to": 309
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Grundlage für Entscheide ist die vierteljährliche Lagebeurteilung.",
+                                  "Die geldpolitischen Entscheide basieren hauptsächlich auf monatlichen Umfragen in der Bevölkerung.",
+                                  "Die Nationalbank fasst ihre geldpolitischen Beschlüsse nur ein einziges Mal pro Jahr."
+                                ],
+                                "subContentId": "c2ab51b7-a31d-41b4-bded-550158c20b13",
+                                "tip": "Wie oft und auf welcher Grundlage werden die wichtigen geldpolitischen Beschlüsse gefasst (3:25-3:34)?"
+                              },
+                              {
+                                "summary": [
+                                  "Die Analyse umfasst die nationale und internationale Wirtschaft.",
+                                  "Bei der Lagebeurteilung wird ausschliesslich die Entwicklung der Schweizer Wirtschaft berücksichtigt.",
+                                  "Der Verlauf der Wechselkurse spielt für die geldpolitische Analyse der SNB keine Rolle."
+                                ],
+                                "subContentId": "0e434073-9d7e-4fc1-997c-215a370bc915",
+                                "tip": "Welche Wirtschaftsräume und Finanzindikatoren werden bei der Lagebeurteilung unter die Lupe genommen (4:00-4:29)?"
+                              },
+                              {
+                                "summary": [
+                                  "Prognosen sind wichtig, weil geldpolitische Massnahmen verzögert wirken.",
+                                  "Geldpolitische Massnahmen wirken sich unmittelbar und sofort auf die Preise und die Wirtschaft aus.",
+                                  "Prognosen werden vom Direktorium erstellt, um die Aktienmärkte präzise vorherzusagen."
+                                ],
+                                "subContentId": "4bddfce3-f2d4-4f25-8fd0-bd9277ff8dae",
+                                "tip": "Warum ist der Blick nach vorne mittels Prognosen für die Geldpolitik von grosser Bedeutung (4:34-4:43)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "d7d355ca-94a1-43ac-9803-e454cac11925",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Der geldpolitische Entscheidungsprozess",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Der geldpolitische Entscheidungsprozess"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 364,
+                          "to": 365
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Eine Straffung der Geldpolitik führt zu teureren Krediten.",
+                                  "Eine Straffung der Geldpolitik wird eingesetzt, um eine wirtschaftliche Rezession zu bekämpfen.",
+                                  "Die Nationalbank strafft ihre Geldpolitik, wenn eine Deflation droht und die Preise sinken."
+                                ],
+                                "subContentId": "21cb5729-daaa-4245-b785-9f2f41834b01",
+                                "tip": "Was passiert mit den Krediten und der wirtschaftlichen Dynamik, wenn die Geldpolitik gestrafft wird (5:28-5:35)?"
+                              },
+                              {
+                                "summary": [
+                                  "Eine Lockerung der Geldpolitik macht Kredite günstiger.",
+                                  "Bei einer zu stürmischen Wirtschaftsentwicklung und hoher Inflation wird die Geldpolitik gelockert.",
+                                  "Eine Lockerung der Geldpolitik führt in der Regel zu einem Rückgang der Nachfrage nach Gütern."
+                                ],
+                                "subContentId": "77b6dfe8-9730-4cee-899e-ea69fd9bd27d",
+                                "tip": "Welchen Effekt hat eine Lockerung der Geldpolitik auf die Kreditkosten und die Nachfrage (5:53-6:01)?"
+                              },
+                              {
+                                "summary": [
+                                  "Das übergeordnete Ziel der Anpassungen ist die Preisstabilität.",
+                                  "Das Hauptziel geldpolitischer Anpassungen ist die Maximierung der Gewinne der Nationalbank.",
+                                  "Die Geldpolitik wird primär angepasst, um die Verschuldung des Staates zu senken."
+                                ],
+                                "subContentId": "0137f378-7c04-4537-b611-2c1f82020684",
+                                "tip": "Welches übergeordnete Ziel wird mit Massnahmen wie einer Straffung oder Lockerung verfolgt (5:13, 5:37)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "36abac40-02f1-4e39-8221-5be0723c68a8",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Wirkung der Geldpolitik",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Wirkung der Geldpolitik"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 446,
+                          "to": 447
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Die SNB setzt bei der Liquidität der Geschäftsbanken an.",
+                                  "Die SNB steuert direkt die Kreditvergabe der Geschäftsbanken an die einzelnen Unternehmen.",
+                                  "Die Nationalbank vergibt Hypotheken und Kredite direkt an private Haushalte."
+                                ],
+                                "subContentId": "6b12c0c0-f695-40f9-a171-2a40b4f7ba7e",
+                                "tip": "Wo genau setzt die Nationalbank an, um ihre Geldpolitik im Bankensystem umzusetzen (6:19-6:25)?"
+                              },
+                              {
+                                "summary": [
+                                  "Die SNB reduziert die Liquidität der Banken, damit die Zinsen steigen.",
+                                  "Um die Zinsen zu erhöhen, stellt die SNB den Banken unbegrenzt und günstig Liquidität zur Verfügung.",
+                                  "Wenn die Nationalbank die Liquidität der Banken reduziert, sinken normalerweise die Zinsen."
+                                ],
+                                "subContentId": "809fcb43-53d5-40f2-95c7-46bba25902f3",
+                                "tip": "Was tut die Nationalbank, um eine Straffung der Geldpolitik und somit höhere Zinsen zu bewirken (6:56-7:00)?"
+                              },
+                              {
+                                "summary": [
+                                  "Die SNB stellt mehr Liquidität bereit, damit die Zinssätze sinken.",
+                                  "Wenn die SNB die Liquidität im Bankensystem erhöht, werden Kredite für Unternehmen teurer.",
+                                  "Die SNB kann die Zinsen nur senken, indem sie dem Markt aktiv Liquidität entzieht."
+                                ],
+                                "subContentId": "af3f5ee3-3d02-4787-bf69-c38915bf710e",
+                                "tip": "Wie kann die Nationalbank eine Lockerung der Geldpolitik und damit eine Senkung der Zinssätze bewirken (6:46-6:53)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "67f2baf6-9a85-4fcc-83eb-d691432a6645",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Steuerung der Liquidität",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Steuerung der Liquidität"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 575,
+                          "to": 576
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Die SNB versorgte das Bankensystem mit viel Liquidität.",
+                                  "Als erste Massnahme in der Finanzkrise zog die SNB sofort die gesamte Liquidität aus dem Markt ab.",
+                                  "Die Zentralbanken liessen den Interbankenmarkt während der Krise bewusst ohne Eingriff zusammenbrechen."
+                                ],
+                                "subContentId": "2365ec2e-3336-46f6-a95f-feec3b50a5f8",
+                                "tip": "Was war die erste Reaktion der Zentralbanken auf das Austrocknen des Interbankenmarktes (7:48-8:00)?"
+                              },
+                              {
+                                "summary": [
+                                  "Die SNB stützte eine systemrelevante Grossbank mit einem Milliardenkredit.",
+                                  "In der Finanzkrise mussten alle Schweizer Banken von der Nationalbank mit Notkrediten gestützt werden.",
+                                  "Die grösste Bank des Landes kam ohne ausserordentliche Liquiditätshilfe durch die Krise."
+                                ],
+                                "subContentId": "e170e92d-82c0-45bb-8e2e-3351bb7ae762",
+                                "tip": "Welche spezifische Massnahme ergriff die SNB, um das Schweizer Finanzsystem zu stützen (8:32-8:55)?"
+                              },
+                              {
+                                "summary": [
+                                  "Die SNB setzt sich seither für mehr Eigenkapital bei Grossbanken ein.",
+                                  "Als Lehre aus der Krise wurde die Regulierung für grosse Banken international stark gelockert.",
+                                  "Nach der Krise wurde beschlossen, dass Banken für den Krisenfall keine Vorkehrungen treffen müssen."
+                                ],
+                                "subContentId": "c9335988-f11b-4973-9eb3-cecffb8ef0f5",
+                                "tip": "Welche wichtige Konsequenz wurde aus der Krise für die Regulierung grosser Banken gezogen (9:22-9:32)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "7d4135e3-9f59-4965-9314-4809c8a972bf",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Massnahmen in der Finanzkrise 2007",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Massnahmen in der Finanzkrise 2007"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 690,
+                          "to": 691
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Der starke Franken drohte der Schweizer Wirtschaft zu schaden.",
+                                  "Der Schweizer Franken wurde in Zeiten grosser Verunsicherung zu einer sehr schwachen Währung.",
+                                  "Die drastische Aufwertung des Frankens war für die gesamte Schweizer Volkswirtschaft vorteilhaft."
+                                ],
+                                "subContentId": "9ac47f2f-790b-4fb6-bae8-5dc14c3a2392",
+                                "tip": "Was war der Auslöser für die ausserordentlichen Massnahmen der SNB im Jahr 2011 (10:00-10:20)?"
+                              },
+                              {
+                                "summary": [
+                                  "Die SNB führte einen Mindestkurs gegenüber dem Euro ein.",
+                                  "Die Nationalbank legte eine Obergrenze für den Frankenkurs gegenüber dem US-Dollar fest.",
+                                  "Um den Franken zu schwächen, verkaufte die SNB grosse Mengen an Schweizer Franken."
+                                ],
+                                "subContentId": "ae8f8264-2292-4299-a4ae-3227acaa9fa0",
+                                "tip": "Welche konkrete und aussergewöhnliche Massnahme wurde im September 2011 ergriffen (10:34-10:37)?"
+                              },
+                              {
+                                "summary": [
+                                  "Der Mindestkurs wurde wegen der Euro-Abschwächung aufgehoben.",
+                                  "Der Mindestkurs wurde aufgehoben, weil die Schweizer Wirtschaft stark zu schrumpfen begann.",
+                                  "Der Mindestkurs zum Euro wurde nie aufgehoben und gilt auch heute noch unverändert weiter."
+                                ],
+                                "subContentId": "46a9283e-4ab3-402a-9376-f462caec6428",
+                                "tip": "Aus welchem Grund hob die Nationalbank den Mindestkurs im Januar 2015 wieder auf (11:05-11:27)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "5973370f-a393-4fa2-86a1-120466ce2b83",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Der Euro-Mindestkurs",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Der Euro-Mindestkurs"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 799,
+                          "to": 800
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Die Geldpolitik muss verständlich kommuniziert werden.",
+                                  "Die Entscheide der Nationalbank werden bewusst geheim gehalten, um die Märkte nicht zu beeinflussen.",
+                                  "Die Kommunikation der Geldpolitik richtet sich ausschliesslich an andere Zentralbanken und Experten."
+                                ],
+                                "subContentId": "fb15efb8-1424-4391-9a6e-2d767b731f23",
+                                "tip": "Warum ist die Kommunikation der Geldpolitik wichtig, damit sie ihre gewünschte Wirkung entfaltet (11:34-11:39)?"
+                              },
+                              {
+                                "summary": [
+                                  "Entscheide werden regelmässig an Medienkonferenzen erläutert.",
+                                  "Die Nationalbank kommuniziert ihre wichtigen geldpolitischen Beschlüsse ausschliesslich via Twitter.",
+                                  "Die Beschlüsse des Direktoriums werden nur in vertraulichen Einzelgesprächen bekannt gegeben."
+                                ],
+                                "subContentId": "0ee0d09a-efcc-43ad-a30b-0c77d430f8fb",
+                                "tip": "Welches bekannte Format wird zweimal pro Jahr genutzt, um die Entscheide nach aussen zu tragen (12:41-12:55)?"
+                              },
+                              {
+                                "summary": [
+                                  "Das Direktorium präsentiert auch die aktuelle Inflationsprognose.",
+                                  "Bei der Medienkonferenz werden nur die neuen Zinssätze ohne jegliche Begründung verkündet.",
+                                  "Während der Medienkonferenz sind Fragen von Journalistinnen und Journalisten nicht zugelassen."
+                                ],
+                                "subContentId": "6e77d43a-2afe-4e0c-ba28-793b21c41f1f",
+                                "tip": "Was wird bei der Medienkonferenz neben dem eigentlichen Zinsentscheid noch präsentiert und diskutiert (13:09-14:05)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "51c8b5b2-186d-416f-b4a5-e2376772e88d",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Kommunikation der Geldpolitik",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Kommunikation der Geldpolitik"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 883,
+                          "to": 884
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Die Kernaufgabe der SNB ist über die Zeit gleich geblieben.",
+                                  "Die Kernaufgabe der Nationalbank ändert sich jedes Jahr, abhängig von der politischen Agenda.",
+                                  "Die Nationalbank hat ihre ursprüngliche Kernaufgabe heute an die Geschäftsbanken abgegeben."
+                                ],
+                                "subContentId": "cfacc96b-f0e5-44d1-b29c-b3b4f4214c35",
+                                "tip": "Wie hat sich die Kernaufgabe der Nationalbank seit ihrer Gründung verändert (14:36-14:39)?"
+                              },
+                              {
+                                "summary": [
+                                  "Die SNB sorgt für stabiles Geld, dem die Menschen vertrauen.",
+                                  "Das oberste Ziel der Nationalbank ist es, einen möglichst starken Schweizer Franken zu erreichen.",
+                                  "Die Nationalbank sorgt in erster Linie dafür, dass die Geschäftsbanken möglichst hohe Gewinne erzielen."
+                                ],
+                                "subContentId": "f58c77c6-273a-4f4a-98f2-d39648f8856e",
+                                "tip": "Was ist das bleibende, fundamentale Ziel der Geldpolitik der Nationalbank (14:41-14:46)?"
+                              },
+                              {
+                                "summary": [
+                                  "Die SNB führt eine Geldpolitik im Gesamtinteresse des Landes.",
+                                  "Die Geldpolitik der Nationalbank orientiert sich primär an den kurzfristigen Interessen der Finanzmärkte.",
+                                  "Die Geldpolitik der SNB dient laut dem Video vor allem den Interessen der Schweizer Exportindustrie."
+                                ],
+                                "subContentId": "4eb71e14-5773-4425-a08a-3bce458eeaaa",
+                                "tip": "In wessen Interesse handelt die Nationalbank gemäss dem Schlusssatz des Videos (14:47-14:50)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "278fd19f-6cf0-4e91-aabe-4c2e47854ea0",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Kernaufgabe der Nationalbank",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Kernaufgabe der Nationalbank"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      }
+                    ],
+                    "bookmarks": [],
+                    "endscreens": [
+                      {
+                        "time": 0,
+                        "label": "0:00 Antwortübermittlung"
+                      },
+                      {
+                        "time": 432,
+                        "label": "7:12 Antwortübermittlung"
+                      }
+                    ]
+                  },
+                  "summary": {
+                    "task": {
+                      "library": "H5P.Summary 1.10",
+                      "params": {
+                        "intro": "Wähle die korrekte Aussage.",
+                        "overallFeedback": [
+                          {
+                            "from": 0,
+                            "to": 100
+                          }
+                        ],
+                        "solvedLabel": "Fortschritt:",
+                        "scoreLabel": "Falsche Antworten:",
+                        "resultLabel": "Dein Ergebnis",
+                        "labelCorrect": "Richtig.",
+                        "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                        "alternativeIncorrectLabel": "Falsch",
+                        "labelCorrectAnswers": "Richtige Antwort(en).",
+                        "tipButtonLabel": "Tipp anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "progressText": "Fortschritt :num von :total",
+                        "summaries": [
+                          {
+                            "subContentId": "2158a81a-f1bd-4672-ba00-c0c19cc37f37",
+                            "tip": ""
+                          }
+                        ]
+                      },
+                      "subContentId": "5d8070e8-4cf8-42e0-a2ac-317be0e5f22f",
+                      "metadata": {
+                        "contentType": "Summary",
+                        "license": "U",
+                        "title": "Video End-Summary"
+                      }
+                    },
+                    "displayAt": 3
+                  }
+                },
+                "override": {
+                  "autoplay": false,
+                  "loop": false,
+                  "showBookmarksmenuOnLoad": false,
+                  "showRewind10": true,
+                  "preventSkippingMode": "none",
+                  "deactivateSound": false,
+                  "showSolutionButton": "off",
+                  "retryButton": "off"
+                },
+                "l10n": {
+                  "interaction": "Interaktion",
+                  "play": "Abspielen",
+                  "pause": "Pause",
+                  "mute": "Stummschalten, derzeit nicht laut geschaltet",
+                  "unmute": "Laut schalten, derzeit stumm geschaltet",
+                  "quality": "Videoqualität",
+                  "captions": "Untertitel",
+                  "close": "Schließen",
+                  "fullscreen": "Vollbild",
+                  "exitFullscreen": "Vollbild beenden",
+                  "summary": "Zusammenfassung öffnen",
+                  "bookmarks": "Lesezeichen",
+                  "endscreen": "Einsendebildschirm",
+                  "defaultAdaptivitySeekLabel": "Fortfahren",
+                  "continueWithVideo": "Video fortsetzen",
+                  "more": "Mehr Abspieloptionen",
+                  "playbackRate": "Abspielgeschwindigkeit",
+                  "rewind10": "10 Sekunden zurückspulen",
+                  "navDisabled": "Vor- und Zurückspulen ist deaktiviert",
+                  "navForwardDisabled": "Navigation vorwärts ist deaktiviert",
+                  "sndDisabled": "Ton ist deaktiviert",
+                  "requiresCompletionWarning": "Es müssen alle Fragen richtig beantwortet werden, um weitermachen zu können.",
+                  "back": "Zurück",
+                  "hours": "Stunden",
+                  "minutes": "Minuten",
+                  "seconds": "Sekunden",
+                  "currentTime": "Aktuelle Zeit:",
+                  "totalTime": "Gesamtzeit:",
+                  "singleInteractionAnnouncement": "Interaktion ist erschienen:",
+                  "multipleInteractionsAnnouncement": "Mehrere Interaktionen sind erschienen.",
+                  "videoPausedAnnouncement": "Video ist angehalten",
+                  "content": "Inhalt",
+                  "answered": "@answered beantwortet",
+                  "endcardTitle": "@answered Frage(n) beantwortet",
+                  "endcardInformation": "Du hast @answered Fragen beantwortet.",
+                  "endcardInformationOnSubmitButtonDisabled": "Du hast @answered Fragen beantwortet. Klicke unten, um deine Ergebnisse abzusenden.",
+                  "endcardInformationNoAnswers": "Du hast noch keine Fragen beantwortet.",
+                  "endcardInformationMustHaveAnswer": "Du musst mindestens eine Frage beantworten, um deine Antworten absenden zu können.",
+                  "endcardSubmitButton": "Antworten absenden",
+                  "endcardSubmitMessage": "Deine Antworten wurden abgeschickt!",
+                  "endcardTableRowAnswered": "Beantwortete Fragen",
+                  "endcardTableRowScore": "Punkte",
+                  "endcardAnsweredScore": "beantwortet",
+                  "endCardTableRowSummaryWithScore": "Du hast @score von @total Punkten für die @question erhalten, die bei @minutes Minuten und @seconds Sekunden erschienen ist.",
+                  "endCardTableRowSummaryWithoutScore": "Du hast die @question beantwortet, die bei @minutes Minuten und @seconds Sekunden erschienen ist.",
+                  "videoProgressBar": "Video-Fortschritt",
+                  "howToCreateInteractions": "Spiele das Video ab, um mit dem Erstellen von Interaktionen zu beginnen"
+                }
+              },
+              "library": "H5P.InteractiveVideo 1.27",
+              "metadata": {
+                "contentType": "Interactive Video",
+                "license": "U",
+                "title": "Interaktives Video: Aufgaben und Handeln der SNB",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Interaktives Video: Aufgaben und Handeln der SNB"
+              },
+              "subContentId": "ed1f5837-7066-48ac-b42c-6d042ecee14d"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "93c9f1fb-388c-42d7-9960-23f1fb3219f7",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Video",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Video"
+      }
+    },
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Verständnisfragen</h2><p>Beantworten Sie zum Schluss die folgenden Fragen zum Inhalt des Videos, um Ihr Wissen zu festigen.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Fragen Einleitung",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "9b517044-3d07-4b1a-888e-4be01c4245a1"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "introPage": {
+                  "showIntroPage": true,
+                  "startButtonText": "Quiz starten",
+                  "title": "Verständnisfragen Quiz",
+                  "introduction": ""
+                },
+                "progressType": "dots",
+                "passPercentage": 50,
+                "disableBackwardsNavigation": false,
+                "randomQuestions": true,
+                "poolSize": 10,
+                "questions": [
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Was ist die gesetzlich verankerte Hauptaufgabe der Schweizerischen Nationalbank?</p>",
+                      "answers": [
+                        {
+                          "text": "Die Preisstabilität zu gewährleisten.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Gemäss Video (1:56) ist die Gewährleistung der Preisstabilität die gesetzlich verpflichtende Hauptaufgabe.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Abwicklung des Zahlungsverkehrs für den Bund.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist zwar eine Dienstleistung, aber nicht die zentrale Hauptaufgabe gemäss Video.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Festlegung der Steuersätze in der Schweiz.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Festlegung von Steuern ist Aufgabe von Bund, Kantonen und Gemeinden, nicht der Nationalbank.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "68141936-7148-4ffc-9525-7fadb799ca9c",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Wie oft findet die ordentliche geldpolitische Lagebeurteilung des Direktoriums statt?</p>",
+                      "answers": [
+                        {
+                          "text": "Vierteljährlich",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Lagebeurteilungen finden jeweils im März, Juni, September und Dezember statt (3:32).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Monatlich",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das wäre zu häufig. Das Video spricht von vierteljährlichen Terminen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Halbjährlich",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Beurteilungen finden häufiger statt, nämlich viermal pro Jahr.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "15c9b3d2-7656-4ee5-95a0-6a9fd711d177",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welches Gremium trifft die geldpolitischen Entscheidungen der Nationalbank?</p>",
+                      "answers": [
+                        {
+                          "text": "Das dreiköpfige Direktorium.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Direktorium trifft die Entscheidungen und vertritt die Bank nach aussen (1:17-1:22).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Der Bundesrat in Bern.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Der Bundesrat wählt die Mitglieder des Direktoriums, trifft aber nicht die geldpolitischen Entscheide selbst.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Ein Gremium aus Vertretern der grössten Geschäftsbanken.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dies würde der Unabhängigkeit der Nationalbank widersprechen.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "7123db02-f93c-4be6-ac73-3faa8652dc01",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welche ausserordentliche Massnahme führte die SNB im September 2011 ein, um die Frankenaufwertung abzubremsen?</p>",
+                      "answers": [
+                        {
+                          "text": "Einen Mindestkurs gegenüber dem Euro.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Im September 2011 wurde vorübergehend ein Mindestkurs zum Euro eingeführt (10:34-10:37).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Den Verkauf aller nationalen Goldreserven.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Im Video ist von Fremdwährungskäufen die Rede, nicht vom Verkauf von Gold.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die komplette Schliessung der Schweizer Börse.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese drastische Massnahme wurde im Video nicht erwähnt und war nicht Teil der Strategie.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "34a9bc3b-c7a0-4175-9303-0463b1284bc9",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Warum ist die Unabhängigkeit der Nationalbank von der Politik so wichtig für ihre Arbeit?</p>",
+                      "answers": [
+                        {
+                          "text": "Sie schützt die Geldpolitik vor kurzfristigen politischen Interessen.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Unabhängigkeit soll vor politischer Einflussnahme schützen (0:57-1:00), damit langfristige Stabilität Vorrang hat.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Damit die Nationalbank gegenüber niemandem Rechenschaft ablegen muss.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Trotz ihrer Unabhängigkeit ist die SNB der Bundesversammlung gegenüber rechenschaftspflichtig (1:10-1:12).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil so sichergestellt ist, dass nur Banker im Direktorium sitzen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Unabhängigkeit bezieht sich auf die Entscheidungsfindung, nicht auf die Herkunft der Direktoren.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "311bf414-edf5-470b-8a6b-be3639174bba",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Was ist das primäre Ziel einer \"Lockerung\" der Geldpolitik durch die Nationalbank?</p>",
+                      "answers": [
+                        {
+                          "text": "Die Nachfrage anzukurbeln, indem Kredite günstiger werden.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Bei einer Konjunkturabschwächung lockert die SNB die Geldpolitik, um Kredite zu verbilligen und die Nachfrage zu stützen (5:47-6:01).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Eine hohe Inflation zu bekämpfen, indem Kredite teurer gemacht werden.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das wäre das Ziel einer \"Straffung\" der Geldpolitik, nicht einer Lockerung.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Den Wert des Schweizer Frankens gegenüber anderen Währungen zu stärken.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Lockerung der Geldpolitik führt tendenziell eher zu einer Abschwächung der Währung.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "e25f77d9-2823-4bf0-9594-17f428d2b5e5",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Wie wirkt sich die Steuerung der Liquidität bei den Banken auf die gesamte Wirtschaft aus?</p>",
+                      "answers": [
+                        {
+                          "text": "Die SNB-Liquidität wird von den Banken als Kredite weitergegeben.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Banken nutzen die Mittel der SNB, um Kredite an Haushalte und Unternehmen zu vergeben, wodurch sich die Liquidität verteilt (7:06-7:23).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Liquidität verbleibt vollständig bei den Banken und hat keine weiteren Auswirkungen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video erklärt explizit, dass sich die Liquidität im Bankensystem verteilt und auf die Wirtschaft wirkt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Nationalbank kann damit direkt bestimmen, welche spezifischen Unternehmen Kredite erhalten.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die SNB beeinflusst die allgemeinen Kreditkonditionen, nicht die Vergabe an einzelne Adressen.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "4b4e2ee7-f600-472c-9f3d-4ce5fc1ad781",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Weshalb stellte die starke Aufwertung des Frankens während der Finanz- und Schuldenkrise ein Problem dar?</p>",
+                      "answers": [
+                        {
+                          "text": "Sie drohte, der Schweizer Volkswirtschaft schweren Schaden zuzufügen.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Eine drastische Aufwertung schadet z.B. der Exportwirtschaft und dem Tourismus und kann eine Deflation auslösen (10:15-10:20).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil dadurch der Wert der Ersparnisse aller Schweizerinnen und Schweizer sank.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Im Gegenteil, die Kaufkraft des Frankens im Ausland stieg. Das Problem lag bei der Wettbewerbsfähigkeit der Wirtschaft.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil die Nationalbank dadurch ihre gesetzlich verankerte Unabhängigkeit verlor.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Unabhängigkeit der SNB war dadurch nicht in Gefahr; sie musste aber ausserordentliche Massnahmen ergreifen.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "ba465699-0c8a-4e8f-8e59-03658b27b6a3",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Stellen Sie sich eine Situation mit stark steigender Inflation und einer überhitzten Konjunktur vor. Welche Massnahme würde die SNB am ehesten ergreifen?</p>",
+                      "answers": [
+                        {
+                          "text": "Sie würde ihre Geldpolitik straffen, um Kredite zu verteuern.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Gemäss Video (5:22-5:37) ist dies die korrekte Reaktion, um die wirtschaftliche Dynamik zu dämpfen und die Inflation zu kontrollieren.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Sie würde ihre Geldpolitik lockern, um die Wirtschaft weiter anzukurbeln.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das würde die Inflation und die Überhitzung noch weiter anheizen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Sie würde einen Mindestkurs für den Franken gegenüber dem Euro einführen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Ein Mindestkurs ist ein Instrument gegen eine übermässige Währungsaufwertung, nicht gegen generelle Inflation.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "149a3f60-a4e0-46e8-b9b5-4735423a9e23",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Ein Unternehmen will für eine grosse Investition einen Bankkredit aufnehmen. Die SNB hat gerade eine Straffung ihrer Geldpolitik kommuniziert. Was bedeutet das für das Unternehmen?</p>",
+                      "answers": [
+                        {
+                          "text": "Der Kredit wird voraussichtlich teurer als vor der Massnahme.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Eine Straffung verteuert Kredite, da die Zinsen steigen (5:32-5:35).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Das Unternehmen kann nun sicher sein, den Kredit nicht zu bekommen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Kreditvergabe wird nicht zwingend gestoppt, aber sie wird teurer und möglicherweise restriktiver.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Zinskosten für den benötigten Kredit werden voraussichtlich sinken.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Straffung führt zum Gegenteil, nämlich zu steigenden Zinskosten.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "55220bb7-6b83-49b4-be90-3092081f7d0c",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>In einer globalen Krise flüchten viele Anleger in den Schweizer Franken. Was ist eine wahrscheinliche Folge, die eine Reaktion der SNB auslösen könnte?</p>",
+                      "answers": [
+                        {
+                          "text": "Eine starke Aufwertung des Frankens, die die Wirtschaft bedroht.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wie im Video gezeigt (10:00-10:08), wird der Franken in Krisen zur \"gesuchten Währung\", was zu einer problematischen Aufwertung führen kann.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Ein starker Wertverlust des Frankens, da die SNB die Kontrolle verliert.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> In Krisen passiert typischerweise das Gegenteil; der Franken wertet sich auf.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Ein sofortiger Anstieg der allgemeinen Teuerung (Inflation) in der Schweiz.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine starke Aufwertung wirkt tendenziell deflationär (preissenkend), da Importe günstiger werden.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "0799dfc2-4808-4607-a434-f5db261eb387",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Die Inflationsprognose der SNB zeigt für die nächsten Jahre eine Teuerung von über 3%. Was ist die wahrscheinlichste geldpolitische Reaktion?</p>",
+                      "answers": [
+                        {
+                          "text": "Eine Straffung der Geldpolitik, um die Preisstabilität zu sichern.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Eine Inflationsrate über dem Zielbereich der Preisstabilität (typischerweise 0-2%) veranlasst die SNB zu einer Straffung (5:24-5:28).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Eine Lockerung der Geldpolitik, um die gestiegenen Preise auszugleichen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Lockerung würde die Inflation weiter anheizen und wäre die falsche Massnahme.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die Nationalbank bleibt passiv, da dies die Wirtschaft ankurbelt.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Sicherung der Preisstabilität ist die Kernaufgabe, daher würde die SNB bei einer solchen Prognose handeln.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "da934fc5-3610-432f-9fed-a549c1cdd55a",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Aussage: Die Nationalbank gibt Banknoten heraus und sorgt gleichzeitig dafür, dass deren Kaufkraft erhalten bleibt.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Das Video erklärt, dass die SNB die Franken-Noten herausgibt (1:44) und zur Gewährleistung der Preisstabilität verpflichtet ist, damit der Franken seine Kaufkraft behält (1:56-2:09).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Die SNB hat das Monopol zur Notenausgabe und gleichzeitig den Auftrag, den Wert des Geldes stabil zu halten."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "6a2d24c5-323e-47fd-be4d-c8b7e7bd35d5",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Aussage: Eine Deflation, also stark und dauerhaft sinkende Preise, ist für die Wirtschaft unproblematisch.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video nennt die Weltwirtschaftskrise als eindringliches Beispiel für die gravierenden Auswirkungen einer Deflation, wie Produktionsrückgang und Massenarbeitslosigkeit (2:44-3:01).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video warnt explizit vor den gravierenden Auswirkungen einer Deflation."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "9466802a-41e0-4fbd-ba64-2c195f367e88",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Aussage: Die geldpolitischen Beschlüsse werden erst mehrere Wochen nach der Lagebeurteilung kommuniziert, um die Märkte nicht zu überraschen.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Laut Video (11:48) werden die Beschlüsse direkt \"nach der vierteljährlichen Lagebeurteilung\" nach aussen getragen, zum Beispiel im Rahmen einer Medienkonferenz.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Die Kommunikation erfolgt direkt im Anschluss an die Lagebeurteilung."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "b660b4a8-59d8-428b-8d32-df62ec1634da",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Aussage: Die SNB steuert die Zinsen im Land, indem sie die Menge an Liquidität (Geld) beeinflusst, die sie den Geschäftsbanken zur Verfügung stellt.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Das Video erklärt genau diesen Mechanismus: Die SNB setzt bei der Liquidität der Banken an (6:22), um die Zinssätze zu beeinflussen (6:50-7:00).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Dies ist der zentrale Mechanismus, mit dem die SNB ihre Geldpolitik umsetzt."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "edbe1e21-7d00-4004-9164-7a0f5929f555",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Aussage: Wenn die SNB die Liquidität im Bankensystem reduziert, werden Kredite für Haushalte und Unternehmen in der Regel günstiger.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Wenn die Liquidität reduziert wird, steigen die Zinsen (6:58-7:00), und Kredite werden somit teurer. Dies ist das Prinzip einer geldpolitischen Straffung.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Eine Reduktion der Liquidität führt zu steigenden Zinsen und verteuert somit Kredite."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "757f1af7-a02c-4684-bdb8-4870313f902d",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Aussage: Gerät eine grosse Schweizer Bank in eine gefährliche Schieflage, würde die SNB untätig bleiben, um ihre Unabhängigkeit zu wahren.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Beispiel der Finanzkrise (8:32-8:55) zeigt, dass die Nationalbank Teil eines Massnahmenpakets war und einer Grossbank mit ausserordentlicher Liquiditätshilfe half, um das Finanzsystem zu stützen.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Die Stabilisierung des Finanzsystems ist ebenfalls eine Aufgabe der SNB, wie das Fallbeispiel im Video zeigt."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "8ad4cfc3-d6f9-47bb-9a7e-f366a152f98f",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Aussage: Bei der Medienkonferenz beantwortet das Direktorium hauptsächlich Fragen zur Gewinnprognose der Nationalbank.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Im Zentrum der Kommunikation stehen der geldpolitische Entscheid und die Inflationsprognose vor dem Hintergrund der Wirtschaftsaussichten (13:09-13:16), nicht die Gewinne der SNB.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Im Video wird betont, dass die Kommunikation sich auf die geldpolitischen Aspekte konzentriert."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "2ed40a03-b72c-4186-a64c-598465441c0f",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Aussage: Eine deutliche Abschwächung der Wirtschaft in der Eurozone könnte zu einer Aufwertung des Frankens führen und die SNB zum Handeln zwingen.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Dies spiegelt die Logik der Ereignisse wider, die zur Einführung des Mindestkurses führten (11:05-11:12). Eine Krise in einem wichtigen Währungsraum kann eine Flucht in den Franken und damit eine problematische Aufwertung auslösen.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Grosse Probleme in der Eurozone können den Franken als 'sicheren Hafen' attraktiv machen, was zu einer Aufwertung und Handlungsbedarf für die SNB führen kann."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "d3ae1e7f-05d2-40c6-a4e3-b7d8bcf83b13",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  }
+                ],
+                "backgroundImage": {
+                  "mime": "image/png",
+                  "copyright": {
+                    "license": "U"
+                  },
+                  "width": 52,
+                  "height": 52,
+                  "path": "images/img_2.png"
+                },
+                "endGame": {
+                  "showResultPage": true,
+                  "showSolutionButton": true,
+                  "showRetryButton": true,
+                  "noResultMessage": "Quiz beendet",
+                  "message": "Dein Ergebnis:",
+                  "scoreBarLabel": "Du hast @score von @total Punkten erreicht.",
+                  "overallFeedback": [
+                    {
+                      "from": 0,
+                      "to": 100
+                    }
+                  ],
+                  "solutionButtonText": "Lösung anzeigen",
+                  "retryButtonText": "Wiederholen",
+                  "finishButtonText": "Beenden",
+                  "submitButtonText": "Absenden",
+                  "showAnimations": false,
+                  "skippable": false,
+                  "skipButtonText": "Video überspringen"
+                },
+                "texts": {
+                  "prevButton": "Zurück",
+                  "nextButton": "Weiter",
+                  "finishButton": "Beenden",
+                  "submitButton": "Absenden",
+                  "textualProgress": "Aktuelle Frage: @current von @total Fragen",
+                  "jumpToQuestion": "Frage %d von %total",
+                  "questionLabel": "Frage",
+                  "readSpeakerProgress": "Frage @current von @total",
+                  "unansweredText": "Unbeantwortet",
+                  "answeredText": "Beantwortet",
+                  "currentQuestionText": "Aktuelle Frage",
+                  "navigationLabel": "Fragen"
+                },
+                "override": {
+                  "checkButton": true,
+                  "showSolutionButton": "off",
+                  "retryButton": "off"
+                }
+              },
+              "library": "H5P.QuestionSet 1.20",
+              "metadata": {
+                "contentType": "Question Set",
+                "license": "U",
+                "title": "Verständnisfragen Quiz",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Verständnisfragen Quiz"
+              },
+              "subContentId": "d385c2bc-2165-419f-ad96-fa9339754e5c"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "d501aebf-28b6-4eed-acc2-efe80e231c14",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Verständnisfragen",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Verständnisfragen"
+      }
+    }
+  ],
+  "behaviour": {
+    "baseColor": "#1768c4",
+    "defaultTableOfContents": true,
+    "progressIndicators": true,
+    "progressAuto": true,
+    "displaySummary": true,
+    "enableRetry": true
+  },
+  "read": "Öffnen",
+  "displayTOC": "Inhaltsverzeichnis anzeigen",
+  "hideTOC": "Inhaltsverzeichnis ausblenden",
+  "nextPage": "Nächste Seite",
+  "previousPage": "Vorherige Seite",
+  "chapterCompleted": "Seite abgeschlossen!",
+  "partCompleted": "@pages von @total Seiten abgeschlossen",
+  "incompleteChapter": "Unvollständige Seite",
+  "navigateToTop": "Nach oben springen",
+  "markAsFinished": "Ich habe diese Seite abgeschlossen",
+  "fullscreen": "Vollbild",
+  "exitFullscreen": "Vollbild beenden",
+  "bookProgressSubtext": "@count von @total Seiten",
+  "interactionsProgressSubtext": "@count von @total Interaktionen",
+  "submitReport": "Report absenden",
+  "restartLabel": "Neustart",
+  "summaryHeader": "Zusammenfassung",
+  "allInteractions": "Alle Interaktionen",
+  "unansweredInteractions": "Unbeantwortete Interaktionen",
+  "scoreText": "@score / @maxscore",
+  "leftOutOfTotalCompleted": "@left von @max Interaktionen abgeschlossen",
+  "noInteractions": "Keine Interaktionen",
+  "score": "Punkte",
+  "summaryAndSubmit": "Zusammenfassung und Einsenden",
+  "noChapterInteractionBoldText": "Du hast noch keine Seiten bearbeitet.",
+  "noChapterInteractionText": "Du musst wenigstens eine Seite bearbeiten, um die Zusammenfassung zu sehen.",
+  "yourAnswersAreSubmittedForReview": "Deine Antworten wurden zur Begutachtung versendet!",
+  "bookProgress": "Buchfortschritt",
+  "interactionsProgress": "Interaktionsfortschritt",
+  "totalScoreLabel": "Gesamtpunktzahl",
+  "a11y": {
+    "progress": "Seite @page von @total.",
+    "menu": "Inhaltsverzeichnis ein- bzw. ausschalten"
+  }
+}
