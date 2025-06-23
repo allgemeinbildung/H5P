@@ -5,8 +5,8 @@
   "language": "en",
   "defaultLanguage": "de",
   "license": "U",
-  "extraTitle": "Inflation und Teuerung einfach erklärt",
-  "title": "Inflation und Teuerung einfach erklärt",
+  "extraTitle": "Was bedeutet Inflation?",
+  "title": "Was bedeutet Inflation?",
   "mainLibrary": "H5P.InteractiveBook",
   "preloadedDependencies": [
     {

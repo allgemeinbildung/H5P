@@ -1,7 +1,7 @@
 {
   "showCoverPage": true,
   "bookCover": {
-    "coverDescription": "<h1 style=\"text-align:center\">Was ist Inflation?</h1><h3 style=\"text-align:center\">Die wichtigsten Grundlagen zur Teuerung verstehen</h3>",
+    "coverDescription": "<h1 style=\"text-align:center\">Was bedeutet Inflation?</h1><h3 style=\"text-align:center\">Die Grundlagen der Teuerung einfach erklärt</h3>",
     "coverMedium": {
       "params": {
         "decorative": false,
@@ -26,7 +26,7 @@
         "authors": [],
         "changes": []
       },
-      "subContentId": "8e011461-21f5-4513-be6a-a8003517f9a8"
+      "subContentId": "85e3d273-3bfd-4a8e-abbd-a0623f0006f9"
     }
   },
   "chapters": [
@@ -36,7 +36,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Grundlagen der Inflation</h2><p>Dieses Video erklärt Ihnen, was Inflation bedeutet und warum Sie für Ihr Geld manchmal weniger bekommen als noch vor ein paar Monaten. Sie erfahren, wie die Teuerung gemessen wird, welche Gründe es für Preissteigerungen gibt und welche Auswirkungen die Corona-Pandemie und der Krieg in der Ukraine darauf haben.</p><ul><li>Sie können die Begriffe <strong>Inflation</strong> und <strong>Teuerung</strong> definieren.</li><li>Sie verstehen, wie die Preisentwicklung anhand von Alltagsausgaben wie Lebensmitteln, Miete oder Benzin beobachtet wird.</li><li>Sie können erklären, warum eine hohe Nachfrage oder die <strong>Knappheit von Rohstoffen</strong> zu höheren Preisen führt.</li><li>Sie erkennen, welche Folgen die Inflation insbesondere für <strong>Menschen mit tiefem Lohn</strong> hat.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
+                "text": "<h2>Grundlagen der Inflation</h2><p>Dieses Video erklärt Ihnen einfach und verständlich, was <strong>Inflation</strong> bedeutet. Sie erfahren, wieso Sie für Ihr Geld manchmal weniger bekommen, was das Wort <strong>Teuerung</strong> damit zu tun hat und welche Gründe es für <strong>steigende Preise</strong> gibt – von <strong>Rohstoffknappheit</strong> bis hin zu globalen Ereignissen wie der <strong>Corona-Pandemie</strong> oder dem <strong>Krieg in der Ukraine</strong>.</p><ul><li>Sie können <strong>erklären</strong>, was <strong>Inflation</strong> ist und wie sie den Wert von Geld beeinflusst.</li><li>Sie <strong>verstehen</strong>, wie die <strong>Teuerung</strong> gemessen wird und welche Produkte dafür beobachtet werden.</li><li>Sie können verschiedene <strong>Gründe</strong> für steigende Preise <strong>nennen</strong>, wie zum Beispiel eine hohe Nachfrage oder knappe Rohstoffe.</li><li>Sie <strong>begreifen</strong>, wie globale Ereignisse die <strong>Preise</strong> im Alltag <strong>beeinflussen</strong> können.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -46,7 +46,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "b97b0054-47c4-4a00-bc97-91c17dc29eb1"
+              "subContentId": "0518a4a9-eb2d-4c47-8743-05e71c03ed3f"
             },
             "useSeparator": "auto"
           },
@@ -58,10 +58,10 @@
                     "title": "Inflation",
                     "content": {
                       "params": {
-                        "text": "<p>Von Inflation spricht man, wenn <strong>Geld an Wert verliert</strong> und man für den gleichen Geldbetrag weniger kaufen kann als zuvor.</p>"
+                        "text": "<p>Von Inflation spricht man, wenn Geld an <strong>Wert verliert</strong> und man für den gleichen Geldbetrag <strong>weniger kaufen</strong> kann als zuvor.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "037cc5be-e88c-4fee-b73b-40054f963a87",
+                      "subContentId": "f850c50e-4268-49aa-a86c-990581565e3e",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
@@ -75,10 +75,10 @@
                     "title": "Teuerung",
                     "content": {
                       "params": {
-                        "text": "<p>Teuerung ist ein anderes Wort für <strong>Inflation</strong> und beschreibt den Prozess, dass bestimmte Dinge teurer werden.</p>"
+                        "text": "<p>Die Teuerung ist ein anderes Wort für <strong>Inflation</strong> und beschreibt den Umstand, dass Dinge <strong>teurer</strong> geworden sind.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "01c25ee0-c0b7-4ff9-a8d8-11f01cc6e7ea",
+                      "subContentId": "d7b12b50-1a12-4949-b70f-7df280286aac",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
@@ -89,51 +89,51 @@
                     }
                   },
                   {
-                    "title": "Nachfragebedingte Preissteigerung",
+                    "title": "Angebotsknappheit",
                     "content": {
                       "params": {
-                        "text": "<p>Wenn viele Leute ein Produkt wollen, von dem es <strong>zu wenig gibt</strong>, sind sie bereit, mehr dafür zu bezahlen, wodurch der Preis steigt.</p>"
+                        "text": "<p>Eine Situation, die entsteht, wenn mehr Leute ein Produkt haben wollen, als davon <strong>hergestellt werden kann</strong>, was zu <strong>steigenden Preisen</strong> führt.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "59ee245f-d76d-4321-a8d4-565bf2236ed0",
+                      "subContentId": "20a0d05a-32da-4cbd-abd0-0f02b4418259",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Nachfragebedingte Preissteigerung",
+                        "title": "Definition: Angebotsknappheit",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Angebotsbedingte Preissteigerung",
+                    "title": "Rohstoffknappheit",
                     "content": {
                       "params": {
-                        "text": "<p>Wenn <strong>Materialien oder Rohstoffe</strong> knapp und teuer werden, steigen die Herstellungskosten und somit auch der Verkaufspreis des Produkts.</p>"
+                        "text": "<p>Wenn Materialien oder Rohstoffe zur Herstellung von Produkten <strong>knapp werden</strong>, müssen Firmen mehr dafür bezahlen, wodurch oft auch der <strong>Verkaufspreis steigt</strong>.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "a29b2f34-5e9c-4dd3-ab79-6ce804a0c45b",
+                      "subContentId": "c866ea23-16bc-4d23-86e9-3bd7bc5e4477",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Angebotsbedingte Preissteigerung",
+                        "title": "Definition: Rohstoffknappheit",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Kaufkraftverlust",
+                    "title": "Preisanstieg",
                     "content": {
                       "params": {
-                        "text": "<p>Bei einem Kaufkraftverlust bleibt der <strong>Lohn zwar gleich</strong>, aber man kann sich aufgrund der gestiegenen Preise weniger leisten.</p>"
+                        "text": "<p>Ein normalerweise <strong>langsamer und leichter</strong> Anstieg der Preise, der für Menschen mit <strong>tiefem Lohn</strong> schwierig wird, wenn er <strong>schnell und stark</strong> erfolgt.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "7f8d5cc7-6b02-41f3-bf8c-803fb05b47bf",
+                      "subContentId": "c6a24d6e-9fc3-445c-96d5-1f11e58df10a",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Kaufkraftverlust",
+                        "title": "Definition: Preisanstieg",
                         "authors": [],
                         "changes": []
                       }
@@ -146,19 +146,19 @@
               "metadata": {
                 "contentType": "Accordion",
                 "license": "U",
-                "title": "Begriffe",
+                "title": "Wichtige Begriffe",
                 "authors": [],
                 "changes": [],
-                "extraTitle": "Begriffe"
+                "extraTitle": "Wichtige Begriffe"
               },
-              "subContentId": "da111803-ba9a-4cda-92ad-884523f6d27d"
+              "subContentId": "b9e9c8e9-6788-4429-a03c-dbc9d32994ad"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "56c23b97-4397-4f40-a6c9-04f7e724e2fb",
+      "subContentId": "590a0a15-e7b1-4ba7-9662-016cd4cf698a",
       "metadata": {
         "contentType": "Column",
         "license": "U",
@@ -174,7 +174,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Video: Inflation einfach erklärt</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu prüfen.</p>"
+                "text": "<h2>Video: Was bedeutet Inflation?</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu prüfen.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -184,7 +184,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "a7c97ac1-0f39-451f-a1d8-6c0d7ea8c6c1"
+              "subContentId": "377bb994-2a49-47d9-8daa-7e2cfc5639bf"
             },
             "useSeparator": "auto"
           },
@@ -225,8 +225,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 99,
-                          "to": 100
+                          "from": 102,
+                          "to": 103
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -253,40 +253,40 @@
                               {
                                 "summary": [
                                   "Inflation bedeutet, dass Geld an Wert verliert.",
-                                  "Inflation führt dazu, dass man für das gleiche Geld mehr kaufen kann.",
-                                  "Teuerung ist ein Fachbegriff für sinkende Preise und das Gegenteil von Inflation."
+                                  "Inflation ist ein anderes Wort für sinkende Preise.",
+                                  "Bei einer Inflation steigt der Wert des Geldes an."
                                 ],
-                                "subContentId": "1fd64282-f2f5-44c3-b554-ac895abe21da",
-                                "tip": "Denken Sie an die Definition direkt am Anfang des Videos (0:01-0:15)."
+                                "subContentId": "8cefc644-8b15-4dbc-8c57-e8972a512ff1",
+                                "tip": "Sehen Sie sich den Anfang des Videos an, um die Definition von Inflation zu finden (0:01)."
                               },
                               {
                                 "summary": [
-                                  "Zur Messung der Teuerung werden Preise von Alltagsgütern wie Lebensmitteln oder Miete verglichen.",
-                                  "Die Teuerung wird ausschliesslich am Benzinpreis festgemacht, da dieser am wichtigsten ist.",
-                                  "Experten ignorieren bei der Berechnung der Teuerung die Preise für Dienstleistungen wie Coiffeurbesuche."
+                                  "Experten beobachten die Preise von Miete, Benzin und Lebensmitteln.",
+                                  "Zur Messung der Teuerung werden nur die Preise von Luxusgütern erfasst.",
+                                  "Die Preise für Zugbillette oder Coiffeurbesuche sind für die Inflation irrelevant."
                                 ],
-                                "subContentId": "6bd3318f-dd61-41d9-b6d8-5fccd5748d5f",
-                                "tip": "Achten Sie auf die Beispiele, die im Video zur Preisbeobachtung genannt werden (0:37-0:42)."
+                                "subContentId": "be35ce13-3d5c-481e-98c1-e93a6bec924a",
+                                "tip": "Achten Sie darauf, welche Beispiele im Video zur Preisbeobachtung genannt werden (0:37-0:42)."
                               },
                               {
                                 "summary": [
-                                  "Wenn die Nachfrage grösser ist als die produzierte Menge, steigen die Preise.",
-                                  "Werden Rohstoffe für die Herstellung teurer, sinkt in der Regel der Verkaufspreis des Produkts.",
-                                  "Steigende Preise entstehen nur, wenn Firmen absichtlich die Herstellung verlangsamen."
+                                  "Wenn viele ein Produkt wollen, es aber knapp ist, steigt der Preis.",
+                                  "Wenn Firmen mehr produzieren, als die Leute kaufen, steigen die Preise.",
+                                  "Ein Produkt wird günstiger, wenn die Nachfrage danach sehr hoch ist."
                                 ],
-                                "subContentId": "14c97f8d-9b7c-4714-b175-39fac73c1db0",
-                                "tip": "Welche zwei Hauptgründe für Preissteigerungen werden im ersten Teil des Videos erklärt (0:52-1:36)?"
+                                "subContentId": "3222e23e-bebb-4577-94ee-c00d0a9a2065",
+                                "tip": "Überlegen Sie, was laut Video passiert, wenn ein Produkt sehr begehrt, aber nur begrenzt verfügbar ist (1:08-1:16)."
                               }
                             ]
                           },
-                          "subContentId": "8cdd6901-42ad-4fcd-bdc4-7ae66f2f5918",
+                          "subContentId": "1772dcb2-f74f-4a06-bce8-df072372a075",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Definition und allgemeine Ursachen",
+                            "title": "Grundlagen und erste Ursachen der Inflation",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Definition und allgemeine Ursachen"
+                            "extraTitle": "Grundlagen und erste Ursachen der Inflation"
                           }
                         },
                         "pause": true,
@@ -310,8 +310,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 153,
-                          "to": 154
+                          "from": 156,
+                          "to": 157
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -337,41 +337,41 @@
                             "summaries": [
                               {
                                 "summary": [
-                                  "Stark steigende Preise treffen vor allem Menschen mit tiefem Lohn hart.",
-                                  "Bei einer Inflation bleiben die Löhne zwar gleich, aber man kann sich mehr leisten.",
-                                  "Eine schnelle und starke Preissteigerung ist für alle Menschen unproblematisch."
+                                  "Ein starker Preisanstieg ist vor allem für Menschen mit tiefem Lohn schwierig.",
+                                  "Menschen mit tiefem Lohn können sich bei starker Inflation mehr leisten.",
+                                  "Eine schnelle und starke Teuerung ist für alle Menschen unproblematisch."
                                 ],
-                                "subContentId": "616f717f-2833-484c-8477-47e193d6da7c",
-                                "tip": "Welche Auswirkung hat die Inflation auf Menschen, deren Lohn gleich bleibt (1:48-1:59)?"
+                                "subContentId": "349cdfcd-c853-4183-bc6f-6cc4225d33bd",
+                                "tip": "Für wen wird es laut Video schwierig, wenn die Preise sehr schnell und stark ansteigen (1:44-1:48)?"
                               },
                               {
                                 "summary": [
-                                  "Die Corona-Pandemie führte zu Problemen bei der Herstellung und dem Transport von Produkten.",
-                                  "Seit der Corona-Pandemie kann China deutlich mehr Produkte herstellen und transportieren als davor.",
-                                  "Durch die Pandemie wurden Produkte besser verfügbar, was die Preise sinken liess."
+                                  "Wegen der Corona-Pandemie konnte China weniger Produkte herstellen.",
+                                  "Die Corona-Pandemie führte dazu, dass Produkte weltweit billiger wurden.",
+                                  "Während der Pandemie hat China die Produktion und den Transport erhöht."
                                 ],
-                                "subContentId": "ebac67dc-480b-409f-a3cd-3989d5d6f3cc",
-                                "tip": "Welche Rolle spielte China im Zusammenhang mit der Corona-Pandemie laut Video (2:02-2:13)?"
+                                "subContentId": "4ed88bfb-148e-4710-aaa6-6e5bb12d4899",
+                                "tip": "Welchen Einfluss hatte die Corona-Pandemie auf die Produktion in China (2:02-2:11)?"
                               },
                               {
                                 "summary": [
-                                  "Der Verzicht auf Rohstoffe aus Russland führt zu einer Verknappung und höheren Preisen.",
-                                  "Der Krieg in der Ukraine hat zu einem Überangebot an Erdöl und Gas aus Russland geführt.",
-                                  "Weil Länder Russland unterstützen, kaufen sie mehr Rohstoffe, was die Preise weltweit senkt."
+                                  "Wegen des Ukraine-Kriegs verzichten Länder auf Rohstoffe aus Russland.",
+                                  "Der Krieg in der Ukraine hat zu sinkenden Preisen für Benzin und Gas geführt.",
+                                  "Seit dem Krieg liefert Russland mehr Erdöl und Gas an andere Länder."
                                 ],
-                                "subContentId": "4c6a5bce-512e-402b-badd-360fe6b10a6a",
-                                "tip": "Warum hat der Krieg in der Ukraine einen Einfluss auf die Preise für Benzin oder Gas (2:21-2:40)?"
+                                "subContentId": "fd70fabd-472d-471d-8a44-b1d21907f45b",
+                                "tip": "Wie beeinflusst der Krieg in der Ukraine die Verfügbarkeit von Rohstoffen aus Russland (2:21-2:40)?"
                               }
                             ]
                           },
-                          "subContentId": "ee453729-f401-485e-9d3c-de7d5449a80f",
+                          "subContentId": "3d6c83e7-7442-4c09-98a7-9a894cf0d1f6",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Folgen und aktuelle Gründe der Inflation",
+                            "title": "Folgen und weitere Ursachen der Inflation",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Folgen und aktuelle Gründe der Inflation"
+                            "extraTitle": "Folgen und weitere Ursachen der Inflation"
                           }
                         },
                         "pause": true,
@@ -425,12 +425,12 @@
                         "progressText": "Fortschritt :num von :total",
                         "summaries": [
                           {
-                            "subContentId": "f9000999-f6f5-47e9-9bfc-24803e24b6ae",
+                            "subContentId": "965fba4b-625f-4dde-8fca-7460cb8a4cc6",
                             "tip": ""
                           }
                         ]
                       },
-                      "subContentId": "79777a7d-7f57-4f7e-95d2-854950fbd758",
+                      "subContentId": "dca425ce-eebc-4364-86e7-f28db4d438b7",
                       "metadata": {
                         "contentType": "Summary",
                         "license": "U",
@@ -504,19 +504,19 @@
               "metadata": {
                 "contentType": "Interactive Video",
                 "license": "U",
-                "title": "Interaktives Video: Grundlagen der Inflation",
+                "title": "Interaktives Video: Inflation erklärt",
                 "authors": [],
                 "changes": [],
-                "extraTitle": "Interaktives Video: Grundlagen der Inflation"
+                "extraTitle": "Interaktives Video: Inflation erklärt"
               },
-              "subContentId": "ab99bc38-a53c-4b69-aad9-af2a8e177f09"
+              "subContentId": "f4753f9e-a5ef-4e95-b2b9-ef67b3f31c2b"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "1664aa4a-1f4e-4d77-9c9a-3c0ea28818ff",
+      "subContentId": "1d891b75-1240-4cf2-8837-4dbe71c2f83e",
       "metadata": {
         "contentType": "Column",
         "license": "U",
@@ -542,7 +542,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "971aff28-c77d-49d6-90fa-472c75c893a1"
+              "subContentId": "d97ebc0f-8419-4400-9b6c-dd6e2fbbb2e8"
             },
             "useSeparator": "auto"
           },
@@ -564,32 +564,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welches Wort wird im Video als Synonym für Inflation verwendet?</p>",
+                      "question": "<p>Was ist ein anderes Wort für Inflation, das im Video genannt wird?</p>",
                       "answers": [
                         {
-                          "text": "Teuerung",
+                          "text": "Teuerung.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt bei 0:23, dass 'Teuerung' ein anderes Wort für Inflation ist.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> 'Teuerung' wird als ein anderes Wort für Inflation genannt (0:23).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Preissturz",
+                          "text": "Preissenkung.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Ein Preissturz ist das Gegenteil von Inflation.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Preissenkung ist das Gegenteil von Inflation.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Wertverlust",
+                          "text": "Wirtschaftskrise.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Geld verliert zwar an Wert, aber das Synonym, das im Video genannt wird, ist 'Teuerung'.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Wirtschaftskrise kann mit Inflation zusammenhängen, ist aber nicht dasselbe.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -650,7 +650,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "2402685f-aae4-4960-939f-794ce124b3cd",
+                    "subContentId": "6be0f2b3-049b-4a18-af55-b38d0496cb45",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -663,32 +663,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welches Land wird im Video als Beispiel für Lieferprobleme durch die Corona-Pandemie genannt?</p>",
+                      "question": "<p>Welcher der folgenden Bereiche wird laut Video zur Beobachtung der Preisentwicklung herangezogen?</p>",
                       "answers": [
                         {
-                          "text": "China",
+                          "text": "Wohnungsmieten.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Bei 2:07 wird China als Beispiel genannt, das noch nicht so viele Produkte herstellen und transportieren kann wie vor Corona.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wohnungsmieten werden explizit als Beispiel genannt (0:37).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Russland",
+                          "text": "Online-Streaming-Abos.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Russland wird im Zusammenhang mit dem Krieg und Rohstoffpreisen erwähnt, nicht mit der Corona-Pandemie.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dieser Bereich wurde im Video nicht als Beispiel aufgeführt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Schweiz",
+                          "text": "Gebühren für Bankkonten.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Schweiz wurde in diesem Kontext nicht als Beispiel genannt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Bankgebühren wurden im Video nicht als Beispiel genannt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -749,7 +749,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "b93ce7db-fa39-41a7-b462-b632979db0ac",
+                    "subContentId": "ce5a18c3-392b-48f0-aeae-29c25a75292d",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -762,32 +762,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Womit werden die heutigen Preise laut Video verglichen, um die Teuerung zu messen?</p>",
+                      "question": "<p>Welches Land wird im Zusammenhang mit Produktionsproblemen durch die Corona-Pandemie genannt?</p>",
                       "answers": [
                         {
-                          "text": "Mit den Preisen aus dem letzten Jahr.",
+                          "text": "China.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erwähnt bei 0:49, dass man herausfindet, wie viel teurer alles im Vergleich zum letzten Jahr geworden ist.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erwähnt, dass China wegen der Pandemie nicht so viele Produkte herstellen konnte (2:07).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Mit den Preisen aus dem Vormonat.",
+                          "text": "Russland.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Der Vergleichszeitraum, der explizit genannt wird, ist das letzte Jahr.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Russland wird im Zusammenhang mit dem Krieg und Rohstoffen genannt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Mit den Preisen in Deutschland.",
+                          "text": "Die Schweiz.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Der Vergleich findet im Zeitverlauf statt, nicht mit anderen Ländern.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Schweiz wird in diesem Kontext nicht erwähnt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -848,7 +848,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "4071f6b1-e884-45ae-8873-a0ad4bdddbea",
+                    "subContentId": "3bed4cd9-075a-4869-8a26-35d763e1339e",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -861,32 +861,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welche Produkte werden als Beispiele für Rohstoffe aus Russland genannt?</p>",
+                      "question": "<p>Welche Rohstoffe aus Russland werden als Beispiel für eine kriegsbedingte Verknappung genannt?</p>",
                       "answers": [
                         {
-                          "text": "Erdöl, Gas und Benzin",
+                          "text": "Erdöl, Gas und Benzin.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Diese drei Beispiele werden bei 02:27 genannt.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Im Video werden Erdöl, Gas und Benzin als Beispiele genannt (2:27).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Lebensmittel und Kleider",
+                          "text": "Getreide und Sonnenblumenöl.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese wurden als Beispiele für Güter genannt, deren Preise allgemein beobachtet werden.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese Rohstoffe wurden im Video nicht im Zusammenhang mit Russland genannt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Zugbillette und Coiffeurbesuche",
+                          "text": "Holz, Papier und Baumwolle.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese wurden als Beispiele für Dienstleistungen genannt, deren Preise beobachtet werden.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese Rohstoffe wurden in diesem Kontext nicht erwähnt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -947,7 +947,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "0184ebdb-c446-433c-8e0e-c39429a75959",
+                    "subContentId": "ed69f3c9-6630-47d0-b2de-6bc370ebae19",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -960,32 +960,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Warum ist Inflation gemäss Video besonders für Menschen mit tiefem Lohn ein Problem?</p>",
+                      "question": "<p>Was ist die direkte Folge von Inflation für Konsumentinnen und Konsumenten?</p>",
                       "answers": [
                         {
-                          "text": "Weil ihr Lohn gleich bleibt, sie sich aber weniger leisten können.",
+                          "text": "Ihre Kaufkraft sinkt.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt (1:51), dass der Lohn gleich bleibt, aber die Kaufkraft wegen der Teuerung sinkt.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Bei Inflation können sie sich für gleich viel Geld weniger kaufen (0:06), ihre Kaufkraft sinkt also.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil sie von Gesetzes wegen mehr Steuern zahlen müssen.",
+                          "text": "Sie erhalten höhere Löhne.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist keine direkte Folge der Inflation, die im Video beschrieben wird.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video erklärt, dass die Löhne oft gleich bleiben, was das Problem verschärft (1:51).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil nur die Preise für Luxusgüter steigen, die sie nicht kaufen.",
+                          "text": "Die Produktauswahl wird grösser.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Preise für Alltagsgüter wie Lebensmittel steigen ebenfalls (0:37), was sie besonders trifft.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Inflation wird oft durch eine Verknappung (kleinere Auswahl) verursacht.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1046,7 +1046,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "d05a0720-ff71-4553-a670-82584912cf73",
+                    "subContentId": "1474f555-7c37-4e6c-8626-de24eb79d6c1",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1059,32 +1059,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Was ist die direkte Folge, wenn Rohstoffe für eine Firma teurer werden?</p>",
+                      "question": "<p>Warum führt eine hohe Nachfrage bei knappem Angebot zu höheren Preisen?</p>",
                       "answers": [
                         {
-                          "text": "Die Herstellung des Produkts wird teurer und oft steigt der Verkaufspreis.",
+                          "text": "Weil die Leute bereit sind, mehr für das knappe Gut zu bezahlen.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das wird im Video zwischen 1:20 und 1:36 genau so erklärt.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt, dass die Leute bereit sind, mehr zu zahlen, wenn sie etwas wollen und es davon zu wenig gibt (1:11-1:16).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Firma macht automatisch mehr Gewinn, weil sie die Preise erhöhen kann.",
+                          "text": "Weil die Firmen gezwungen sind, die Produktionskosten zu senken.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Höhere Kosten für Rohstoffe schmälern den Gewinn, auch wenn der Preis erhöht wird.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dies ist nicht die Begründung, die im Video genannt wird.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Das Produkt wird immer seltener, weil die Firma die Produktion stoppt.",
+                          "text": "Weil der Staat vorschreibt, die Preise in diesem Fall zu erhöhen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist eine mögliche, aber nicht die direkte, im Video genannte Folge.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Von staatlichen Vorschriften ist im Video nicht die Rede.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1145,7 +1145,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "d10cde16-1f91-4916-b7b7-ce2690648a17",
+                    "subContentId": "b6a69470-5f43-45c5-acef-803ebde76bf1",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1158,32 +1158,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Wie entsteht laut Video eine Preissteigerung durch hohe Nachfrage?</p>",
+                      "question": "<p>Inwiefern unterscheidet sich ein normaler Preisanstieg von einer problematischen Inflation?</p>",
                       "answers": [
                         {
-                          "text": "Viele Leute wollen ein Produkt, von dem es zu wenig gibt.",
+                          "text": "Durch die Geschwindigkeit und Stärke des Anstiegs.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wenn die Nachfrage das Angebot übersteigt, sind die Leute bereit, mehr zu zahlen (1:08-1:16).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video betont, dass es schwierig wird, wenn Preise 'sehr schnell und stark ansteigen' (1:44).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Firmen können nicht schnell genug Werbung für das Produkt machen.",
+                          "text": "Nur eine problematische Inflation betrifft die Lebensmittelpreise.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Problem ist die Herstellungsmenge, nicht die Werbung.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Jeder Preisanstieg kann Lebensmittel betreffen, nicht nur der problematische.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Der Staat schreibt vor, dass begehrte Produkte teurer sein müssen.",
+                          "text": "Ein normaler Anstieg wird nicht von Experten gemessen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Laut Video ist dies ein Mechanismus des Marktes, kein staatlicher Eingriff.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Experten beobachten die allgemeine Preisentwicklung.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1244,7 +1244,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "7138332d-693e-40e5-b136-9bde56e9b012",
+                    "subContentId": "d5c21cf3-b616-44b1-9e91-77c6daab7475",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1257,32 +1257,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Warum führt der Verzicht auf russische Rohstoffe zu höheren Preisen?</p>",
+                      "question": "<p>Welches grundlegende ökonomische Prinzip erklärt die Preissteigerungen durch Pandemie und Krieg?</p>",
                       "answers": [
                         {
-                          "text": "Weil das Angebot dieser Rohstoffe dadurch sinkt, die Nachfrage aber bleibt.",
+                          "text": "Eine Verknappung des Angebots führt zu höheren Preisen.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Verknappung des Angebots führt zu Preissteigerungen, wie bei 2:40 erklärt.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> In beiden Fällen führt eine Reduktion der verfügbaren Güter oder Rohstoffe zum Preisanstieg.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil russische Rohstoffe von höherer Qualität sind als andere.",
+                          "text": "Eine Steigerung der globalen Produktion führt zu höheren Preisen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Im Video wird die Qualität nicht als Grund für den Preis genannt, sondern die Menge.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Laut Video führt eine Verknappung, keine Steigerung der Produktion zu höheren Preisen.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil Russland als Reaktion darauf die Preise für alle anderen Länder erhöht.",
+                          "text": "Eine staatliche Kontrolle der Preise führt automatisch zu höheren Preisen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Der Preisanstieg entsteht durch die Verknappung auf dem Weltmarkt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist nicht das Prinzip, das im Video als Ursache genannt wurde.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1343,7 +1343,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "ffc89b7c-5784-4d56-bdd3-751b9243a5d8",
+                    "subContentId": "457c808b-288b-44a2-94a1-8dbfd17c7258",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1356,32 +1356,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Stellen Sie sich vor, eine Dürre vernichtet die Hälfte der weltweiten Weizenernte. Was passiert wahrscheinlich mit dem Preis für Brot?</p>",
+                      "question": "<p>Ein neues Smartphone ist extrem beliebt, aber wegen fehlender Chips kann der Hersteller nur wenige liefern. Was ist die wahrscheinliche Folge für den Preis?</p>",
                       "answers": [
                         {
-                          "text": "Er wird steigen.",
+                          "text": "Der Preis wird steigen.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Weizen ist ein Rohstoff für Brot. Eine Knappheit führt gemäss Video (1:24) zu höheren Herstellungskosten und Verkaufspreisen.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wie im Video erklärt, führt eine hohe Nachfrage bei knappem Angebot zu steigenden Preisen (1:08-1:16).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Er wird sinken.",
+                          "text": "Der Preis wird stabil bleiben.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Verknappung eines Rohstoffs führt in der Regel zu Preissteigerungen.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Gemäss den im Video erklärten Prinzipien ist dies unwahrscheinlich.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Er bleibt exakt gleich.",
+                          "text": "Der Preis wird vom Hersteller gesenkt.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine so grosse Verknappung hat sehr wahrscheinlich Auswirkungen auf den Preis.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das wäre in dieser Situation wirtschaftlich unlogisch.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1442,7 +1442,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "46b8fa99-2316-46d3-9294-032e111efb9a",
+                    "subContentId": "4f164fd1-f4bf-40dd-81b4-5918211f324d",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1455,32 +1455,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Ein Sänger kündigt seine Abschiedstournee an und es gibt viel weniger Tickets als Fans. Was wird laut den Prinzipien im Video wahrscheinlich auf dem Schwarzmarkt passieren?</p>",
+                      "question": "<p>Die Mieten und Lebensmittelpreise sind stark gestiegen, Ihr Lohn aber nicht. Was bedeutet das für Sie?</p>",
                       "answers": [
                         {
-                          "text": "Die Ticketpreise werden stark ansteigen.",
+                          "text": "Sie müssen auf einige Sachen verzichten.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Hier ist die Nachfrage viel grösser als das Angebot, was gemäss Video (0:57) die Preise in die Höhe treibt.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video beschreibt genau diese Situation: Bei gleichbleibendem Lohn muss man auf Dinge verzichten (1:51-1:59).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Tickets werden günstiger verkauft.",
+                          "text": "Sie können sich mehr leisten als vorher.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Bei hoher Nachfrage und knappem Angebot passiert das Gegenteil.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Da die Kosten steigen, aber das Einkommen nicht, verschlechtert sich die finanzielle Situation.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Regierung wird die Preise regulieren.",
+                          "text": "Ihre finanzielle Situation bleibt unverändert.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist zwar eine theoretische Möglichkeit, aber nicht die im Video beschriebene Marktdynamik.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Kaufkraft Ihres Geldes sinkt, also verändert sich Ihre Situation.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1541,7 +1541,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "60d9c8ee-b16c-45a6-8a11-12fb36602d4f",
+                    "subContentId": "a9d51a4c-a9ff-480a-8699-233d4022ee0e",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1554,32 +1554,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Sofia erhält seit zwei Jahren keine Lohnerhöhung. Sie bemerkt, dass sie sich für ihr Geld immer weniger Lebensmittel und Kleidung kaufen kann. Welchen Effekt erlebt sie?</p>",
+                      "question": "<p>Eine Dürre zerstört die Kakaoernten in den Anbauländern. Was passiert wahrscheinlich mit dem Preis für Schokolade in der Schweiz?</p>",
                       "answers": [
                         {
-                          "text": "Einen Kaufkraftverlust durch Inflation.",
+                          "text": "Der Preis für Schokolade steigt.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Ihr Lohn bleibt gleich, aber die Preise steigen. Das ist genau der Effekt, der bei 1:51 beschrieben wird.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist ein Beispiel für teurer werdende Rohstoffe (Kakao), was zu teureren Produkten führt (1:20-1:36).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Eine Deflation.",
+                          "text": "Der Preis für Schokolade sinkt.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Bei einer Deflation würden die Preise sinken und sie könnte sich mehr leisten.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Verknappung des wichtigsten Rohstoffs macht das Endprodukt teurer.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Eine Erhöhung ihres Reallohns.",
+                          "text": "Der Preis für Schokolade bleibt gleich.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Ihr Reallohn (was sie sich tatsächlich kaufen kann) sinkt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Produktionskosten ändern sich, also ist eine Preisänderung wahrscheinlich.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1640,7 +1640,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "401c80e0-8456-4eae-a598-645d1085ad39",
+                    "subContentId": "ef97528d-65d9-4664-94a8-7561112673dd",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1653,32 +1653,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Eine Firma ersetzt ihre menschlichen Arbeiter durch günstigere Roboter. Wie könnte sich das auf den Preis ihrer Produkte auswirken, wenn alle anderen Faktoren gleich bleiben?</p>",
+                      "question": "<p>Die EU stoppt den Import von günstigen Textilien aus einem Land. Was ist eine mögliche Folge für die Kleiderpreise in der EU?</p>",
                       "answers": [
                         {
-                          "text": "Der Preis könnte sinken.",
+                          "text": "Die Kleiderpreise könnten steigen.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt, dass teurere Herstellung zu teureren Produkten führt (1:33). Umgekehrt können günstigere Herstellungskosten zu tieferen Preisen führen.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Ähnlich wie beim Verzicht auf russische Rohstoffe (2:32) verknappt dies das Angebot, was zu steigenden Preisen führen kann.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Der Preis muss zwingend steigen.",
+                          "text": "Die Kleiderpreise werden sicher sinken.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Sinken die Herstellungskosten, gibt es keinen Grund für einen Preisanstieg.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Der Wegfall einer günstigen Quelle führt eher zu Preissteigerungen.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Qualität des Produkts wird besser.",
+                          "text": "Alle Kleider werden sofort ausverkauft.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Änderung der Herstellungskosten hat nicht zwingend eine Auswirkung auf die Qualität.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dies ist eine Übertreibung und keine direkte, logische Folge.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1739,7 +1739,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "c9d6d27b-bd47-485e-84d9-8f13a6404068",
+                    "subContentId": "634ab073-37dd-4ada-855b-52fbe9ed7799",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1752,7 +1752,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Laut Video ist es ungewöhnlich und besorgniserregend, wenn Preise langsam und nur ein bisschen steigen.</p>",
+                      "question": "<p>Die Begriffe 'Inflation' und 'Teuerung' beschreiben gegensätzliche Phänomene.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -1761,8 +1761,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video sagt bei 1:39, dass ein langsamer Preisanstieg 'ganz normal' ist.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Im Video wird dies als 'ganz normal' bezeichnet (1:39)."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video stellt klar, dass 'Teuerung' ein anderes Wort für 'Inflation' ist (0:23).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Die beiden Begriffe sind synonym."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -1795,7 +1795,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "2fee1883-0249-4875-8dbe-2c3977d0bb92",
+                    "subContentId": "e3248c91-89b4-463d-a58b-6a02935d2b8c",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -1808,7 +1808,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Das Video erklärt, dass die Corona-Pandemie zu einem Überangebot an Produkten aus China geführt hat.</p>",
+                      "question": "<p>Preissteigerungen sind immer ein Zeichen für eine schlechte wirtschaftliche Lage.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -1817,8 +1817,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erklärt das Gegenteil: China konnte 'nicht so viele Produkte herstellen und transportieren' (2:07), was zu einer Knappheit führte.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Es kam zu einer Knappheit, nicht zu einem Überangebot (2:07-2:13)."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erklärt, dass langsame und leichte Preissteigerungen 'ganz normal' sind (1:39).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Nur schnelle und starke Preissteigerungen werden als problematisch beschrieben."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -1851,7 +1851,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "b987d3f2-c566-400f-8fff-fb2321c5128a",
+                    "subContentId": "b1260461-c6d7-43af-a8d3-f89c82f5972a",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -1864,7 +1864,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Der Hauptgrund für Inflation ist laut Video immer, dass die Löhne der Menschen zu schnell steigen.</p>",
+                      "question": "<p>Wenn eine Firma mehr für Rohstoffe bezahlen muss, bleibt der Verkaufspreis für Kunden immer gleich.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -1873,8 +1873,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Als Gründe werden u.a. hohe Nachfrage und Rohstoffknappheit genannt, nicht steigende Löhne.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video nennt andere Gründe wie hohe Nachfrage (0:57) und Rohstoffknappheit (1:20)."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erklärt, dass wenn die Herstellung teurer wird, oft auch der Verkaufspreis steigt (1:33-1:36).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Steigende Produktionskosten werden oft an die Kunden weitergegeben."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -1907,7 +1907,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "0c643a9d-1fd9-4513-84ed-66f9e3779e98",
+                    "subContentId": "138fdd96-2a16-4a74-9248-6f7038a8667c",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -1920,7 +1920,63 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Wenn viele Länder auf Rohstoffe aus Russland verzichten, führt dies laut Video zu einer Verknappung des Angebots.</p>",
+                      "question": "<p>Die Löhne der Menschen steigen automatisch im gleichen Masse wie die Inflation.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video hebt hervor, dass der Lohn oft gleich bleibt, was das Problem für Menschen mit tiefem Einkommen verschärft (1:51).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Dies ist ein Kernproblem, das im Video beschrieben wird."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "2b9f736f-4fb7-496d-8316-add1f694779b",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Wenn in einem milden Winter sehr wenig Heizöl nachgefragt wird, müsste der Preis für Heizöl gemäss den im Video erklärten Prinzipien eher sinken.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
@@ -1929,8 +1985,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Video erklärt bei 2:40, dass es 'deshalb weniger davon gibt' und die Preise steigen.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Dieser Zusammenhang wird im Video direkt hergestellt (2:32-2:40)."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Eine geringere Nachfrage bei gleichbleibendem Angebot führt tendenziell zu sinkenden Preisen.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Dies ist der Umkehrschluss des Prinzips, dass hohe Nachfrage bei knappem Angebot die Preise treibt (0:57)."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -1963,7 +2019,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "6b43a4ae-82a0-46ca-9ff8-cac964635b51",
+                    "subContentId": "e5c9dec7-fed4-4cd1-aa99-a0afc0d6074d",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -1976,63 +2032,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Ein Bauer muss wegen gestiegener Dieselpreise mehr für den Betrieb seiner Traktoren zahlen. Wahrscheinlich wird er deshalb sein Gemüse auf dem Markt günstiger anbieten.</p>",
-                      "correct": "false",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Gestiegene Herstellungskosten (Diesel für Traktoren) führen in der Regel zu höheren, nicht zu tieferen Verkaufspreisen.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Nach der Logik des Videos (1:27) führen höhere Kosten zu höheren Endpreisen."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "1cc3f29a-7032-4f11-af76-917c4e7e03dc",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Eine Familie stellt fest, dass ihr monatlicher Einkauf im Supermarkt seit einem Jahr konstant teurer wird. Dieses Phänomen ist ein Beispiel für Inflation.</p>",
+                      "question": "<p>Ein Coiffeur verdoppelt seine Preise, weil er als Einziger in der Stadt einen sehr beliebten Haarschnitt anbietet. Dies entspricht dem im Video erklärten Prinzip von Angebot und Nachfrage.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
@@ -2041,8 +2041,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Es ist ein klassisches Alltagsbeispiel für Inflation, wie sie im Video (0:06-0:15) beschrieben wird.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Das ist genau die Definition von Inflation, angewendet auf einen Alltagskontext."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Hohe Nachfrage und knappes Angebot können zu steigenden Preisen führen (1:08-1:16).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Dies ist ein klassisches Beispiel für den Zusammenhang zwischen Knappheit und Preis."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2075,7 +2075,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "21e935d7-8e0b-4a01-ac2c-148dd2749f07",
+                    "subContentId": "fbbb57f4-0827-4e40-ad8a-4c9ff8bbf879",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2088,8 +2088,8 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Wenn der Lohn einer Person um 5% steigt, die Inflation im selben Jahr aber 2% beträgt, kann sich die Person weniger leisten als zuvor.</p>",
-                      "correct": "false",
+                      "question": "<p>Ihr wöchentlicher Einkauf ist 10 CHF teurer als im Vorjahr, obwohl Sie das Gleiche kaufen. Dies ist ein konkretes Beispiel für Inflation.</p>",
+                      "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
                         "enableSolutionsButton": false,
@@ -2097,8 +2097,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Da die Lohnerhöhung (5%) höher ist als die Teuerung (2%), hat die Person real mehr Kaufkraft.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Die Kaufkraft der Person ist gestiegen, da ihr Lohn stärker gestiegen ist als die Preise."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Sie bekommen für mehr Geld die gleiche Menge an Waren, was bedeutet, dass das Geld an Wert verloren hat (0:06-0:15).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Genau dieses Phänomen – für das Gleiche mehr bezahlen zu müssen – beschreibt Inflation."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2131,7 +2131,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "f1f6ec76-1b36-4d64-869b-558be0babe55",
+                    "subContentId": "590a2501-a9d5-468f-8955-71e4d101a90f",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2144,7 +2144,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Wenn eine neue Technologie die Herstellung von Kleidern viel günstiger macht, ist dies ein Beispiel für einen Faktor, der die Inflation antreiben kann.</p>",
+                      "question": "<p>Ein Land entdeckt riesige neue Erdölvorkommen. Dies würde den weltweiten Ölpreis wahrscheinlich weiter in die Höhe treiben.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -2153,8 +2153,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Günstigere Herstellungskosten würden die Preise eher senken und der Inflation somit entgegenwirken, nicht sie antreiben.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Günstigere Herstellungskosten würden tendenziell zu tieferen Preisen führen und die Inflation bremsen."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Ein massiv erhöhtes Angebot an einem Rohstoff führt gemäss den Video-Prinzipien zu sinkenden Preisen.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Eine Ausweitung des Angebots führt in der Regel zu Preissenkungen, wie im Beispiel mit Russland (2:40) umgekehrt erklärt wird."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2187,7 +2187,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "24e574d0-77a8-4063-ade4-8005515a25a4",
+                    "subContentId": "62b34cea-787e-44e7-ad63-11f70cdb64f2",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2257,14 +2257,14 @@
                 "changes": [],
                 "extraTitle": "Verständnisfragen Quiz"
               },
-              "subContentId": "1f6daf80-2bc1-4783-9141-b3baa736f18b"
+              "subContentId": "05dda197-51c9-4da2-9559-aa8515c19b26"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "20164411-6720-4263-b27f-c8ebc8543020",
+      "subContentId": "a8deae38-355d-4426-b500-9b87a8b6b7b8",
       "metadata": {
         "contentType": "Column",
         "license": "U",
