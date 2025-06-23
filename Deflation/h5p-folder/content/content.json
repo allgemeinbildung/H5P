@@ -1,7 +1,7 @@
 {
   "showCoverPage": true,
   "bookCover": {
-    "coverDescription": "<h1 style=\"text-align:center\">Die Deflation</h1><h3 style=\"text-align:center\">Ursachen und Folgen eines sinkenden Preisniveaus</h3>",
+    "coverDescription": "<h1 style=\"text-align:center\">Deflation einfach erklärt</h1><h3 style=\"text-align:center\">Ursachen, Folgen und die Deflationsspirale verstehen</h3>",
     "coverMedium": {
       "params": {
         "decorative": false,
@@ -26,7 +26,7 @@
         "authors": [],
         "changes": []
       },
-      "subContentId": "20a1a174-d63a-4d65-9f02-5ba9d0e2fced"
+      "subContentId": "b9ea48cb-c6f2-4826-976d-33e6efc0feec"
     }
   },
   "chapters": [
@@ -36,7 +36,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Grundlagen der Deflation</h2><p>Dieses Video erklärt Ihnen, was eine Deflation ist, wie sie durch eine Nachfragelücke entsteht und welche schwerwiegenden Folgen sie für die Wirtschaft hat, wie zum Beispiel steigende Arbeitslosigkeit und ein sinkendes Wirtschaftswachstum.</p><ul><li>Sie können definieren, was eine <strong>Deflation</strong> ist und wie sie die <strong>Kaufkraft</strong> beeinflusst.</li><li>Sie verstehen, warum eine <strong>Nachfragelücke</strong> die Hauptursache für eine Deflation ist.</li><li>Sie können die negativen <strong>Folgen</strong> einer Deflation für Unternehmen, Arbeitnehmende und den Staat erläutern.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
+                "text": "<h2>Was ist Deflation und warum ist sie relevant?</h2><p>In diesem Video lernen Sie das sogenannte <strong>Deflationsmonster</strong> kennen. Es wird erklärt, was <strong>Deflation</strong> bedeutet, nämlich dass die <strong>Geld- und Kreditmenge sinkt</strong> und Produkte über einen längeren Zeitraum kontinuierlich an Wert verlieren. Sie erfahren, welche Ursachen zu einer Deflation führen können und warum eine zu hohe Deflationsrate für eine Volkswirtschaft gefährlich werden kann.</p><ul><li>Sie <strong>verstehen</strong>, was <strong>Deflation</strong> ist und wie sie den Wert von Produkten und Dienstleistungen beeinflusst.</li><li>Sie können die zentralen <strong>Ursachen</strong> einer Deflation <strong>nennen</strong>, wie z.B. hohe <strong>Leitzinsen</strong> oder sinkende <strong>Staatsausgaben</strong>.</li><li>Sie <strong>erkennen</strong> die Funktionsweise und die Gefahren der <strong>Deflationsspirale</strong>.</li><li>Sie erhalten einen Überblick über mögliche <strong>Gegenmassnahmen</strong>, um eine Deflation zu <strong>bekämpfen</strong>.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -46,7 +46,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "df91b6b4-7f8d-4bb2-91de-795cb1a99027"
+              "subContentId": "eb43d9d0-2dd0-42c2-b2bb-604ce1fbfa97"
             },
             "useSeparator": "auto"
           },
@@ -58,10 +58,10 @@
                     "title": "Deflation",
                     "content": {
                       "params": {
-                        "text": "<p>Eine Deflation bezeichnet ein Sinken des allgemeinen <strong>Preisniveaus</strong>, wodurch Güter und Dienstleistungen günstiger werden.</p>"
+                        "text": "<p>Ein Prozess, bei dem die <strong>Geld- und Kreditmenge</strong> in einer Volkswirtschaft sinkt und Produkte sowie Investitionsgüter kontinuierlich an <strong>Wert verlieren</strong>.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "b80ddecc-c4b8-4da5-94fe-866ce12467ef",
+                      "subContentId": "f85efba3-3d60-4238-b384-fd7deda6c248",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
@@ -72,68 +72,68 @@
                     }
                   },
                   {
-                    "title": "Kaufkraft",
+                    "title": "Leitzins",
                     "content": {
                       "params": {
-                        "text": "<p>Die Kaufkraft gibt an, wie viele Güter man für einen bestimmten Geldbetrag kaufen kann und steigt während einer <strong>Deflation</strong> an.</p>"
+                        "text": "<p>Der von einer Zentralbank, wie der <strong>EZB</strong>, festgelegte Zinssatz, der die Kosten für Kredite beeinflusst und somit die <strong>Kreditnachfrage</strong> in der Wirtschaft steuert.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "5e793c4b-e3fb-4966-a01d-99ec420cddd0",
+                      "subContentId": "b031f717-8ddd-4c46-9318-c5826a32508c",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Kaufkraft",
+                        "title": "Definition: Leitzins",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Preisniveau",
+                    "title": "Staatsausgaben",
                     "content": {
                       "params": {
-                        "text": "<p>Das Preisniveau ist der Durchschnittswert der Preise für alle Güter und Dienstleistungen in einer Volkswirtschaft; sinkt es, spricht man von <strong>Deflation</strong>.</p>"
+                        "text": "<p>Die Gesamtheit der Ausgaben des Staates, die bei einer Verringerung zu einer <strong>sinkenden Nachfrage</strong> und somit zu weniger Geld im <strong>Wirtschaftskreislauf</strong> führen können.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "4ea05746-17db-41e2-94c0-ed7756836bb5",
+                      "subContentId": "5fd9aac8-a87e-4317-aebc-ee0dcdfb3e08",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Preisniveau",
+                        "title": "Definition: Staatsausgaben",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Nachfragelücke",
+                    "title": "Deflationsspirale",
                     "content": {
                       "params": {
-                        "text": "<p>Eine Nachfragelücke entsteht, wenn das <strong>Angebot</strong> an Gütern grösser ist als die <strong>Nachfrage</strong> und führt oft zu sinkenden Preisen.</p>"
+                        "text": "<p>Ein sich selbst verstärkender Abwärtstrend, bei dem fallende Preise zu <strong>Kaufzurückhaltung</strong>, sinkender Produktion, Entlassungen und weiteren <strong>Preissenkungen</strong> führen.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "a566bf56-40e0-4579-a349-dd9931532c57",
+                      "subContentId": "02f5389e-eb46-4200-b562-d738d355b1ef",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Nachfragelücke",
+                        "title": "Definition: Deflationsspirale",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Arbeitslosigkeit",
+                    "title": "Währungsaufwertung",
                     "content": {
                       "params": {
-                        "text": "<p>Die Arbeitslosigkeit steigt in einer Deflation an, weil Unternehmen aufgrund <strong>geringerer Nachfrage</strong> und sinkender Gewinne weniger Personal benötigen.</p>"
+                        "text": "<p>Die <strong>Steigerung des Werts</strong> der eigenen Währung gegenüber anderen, was Exporte und Tourismus verteuert und zu einer <strong>sinkenden Geldmenge</strong> im Wirtschaftskreislauf führen kann.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "e2850f61-b189-440f-993b-db420cfa12be",
+                      "subContentId": "488d2c59-c57c-4fc3-be26-5d92ace8b7d3",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Arbeitslosigkeit",
+                        "title": "Definition: Währungsaufwertung",
                         "authors": [],
                         "changes": []
                       }
@@ -151,14 +151,14 @@
                 "changes": [],
                 "extraTitle": "Wichtige Begriffe"
               },
-              "subContentId": "36a0ab65-d9f4-4dcb-81b9-9765fb0932a6"
+              "subContentId": "0b55287b-b5ab-4f30-95bc-c478ffc31757"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "a595dbf8-3bc2-42cc-b2f5-02cdba4272f9",
+      "subContentId": "b2e1b645-6597-4f49-a96f-c0ac21ff1aa6",
       "metadata": {
         "contentType": "Column",
         "license": "U",
@@ -174,7 +174,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Video: Deflation einfach erklärt</h2><p>Schauen Sie sich das Video an und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu überprüfen.</p>"
+                "text": "<h2>Video: Deflation einfach erklärt</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu prüfen.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -184,7 +184,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "f0bed3c4-0ed1-4808-bcb5-3a960ed5c986"
+              "subContentId": "9fc68f51-bf30-4635-9457-da021546bc60"
             },
             "useSeparator": "auto"
           },
@@ -208,7 +208,7 @@
                     },
                     "files": [
                       {
-                        "path": "https://www.youtube.com/watch?v=Fj29hJ_eIY4",
+                        "path": "https://www.youtube.com/watch?v=w2MBFn5VMKU",
                         "mime": "video/YouTube",
                         "copyright": {
                           "license": "U"
@@ -225,8 +225,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 69,
-                          "to": 70
+                          "from": 152,
+                          "to": 153
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -252,41 +252,41 @@
                             "summaries": [
                               {
                                 "summary": [
-                                  "Bei einer Deflation sinkt das allgemeine Preisniveau.",
-                                  "Die Deflation führt zu einer Abnahme des Geldwertes und somit der Kaufkraft.",
-                                  "Während einer Deflation steigen die Löhne proportional zu den sinkenden Preisen."
+                                  "Hohe Leitzinsen können eine Deflation auslösen, da Kredite teurer werden.",
+                                  "Ein hoher Leitzins führt zu einer erhöhten Nachfrage nach Krediten.",
+                                  "Die Europäische Zentralbank (EZB) senkt den Leitzins, um eine Deflation zu fördern."
                                 ],
-                                "subContentId": "36a36c85-cb8b-45cc-81ce-86826c981bbb",
-                                "tip": "Beachten Sie die Definition, die direkt zu Beginn des Videos (0:05-0:11) erklärt wird."
+                                "subContentId": "9af3a82c-50f2-4cab-bf90-fe60c1432b53",
+                                "tip": "Überlegen Sie, wie sich eine Änderung des Leitzinses auf die Kosten von Krediten auswirkt (ca. 01:36)."
                               },
                               {
                                 "summary": [
-                                  "Die Kaufkraft des Geldes steigt bei einer Deflation an.",
-                                  "Bei einer Deflation können sich Konsumenten für ihr Einkommen weniger leisten.",
-                                  "Sinkende Preise führen automatisch zu einer Erhöhung der Löhne, um die Wirtschaft anzukurbeln."
+                                  "Wenn der Staat seine Ausgaben verringert, sinkt die Nachfrage und das Geld im Kreislauf wird weniger.",
+                                  "Eine Reduzierung der Staatsausgaben führt zu mehr Geld im Wirtschaftskreislauf.",
+                                  "Sparen der Bürger führt zu einer erhöhten Nachfrage und steigenden Preisen."
                                 ],
-                                "subContentId": "6c7a174b-ac9c-4375-98bc-20834fe9f550",
-                                "tip": "Wie verändert sich der Wert Ihres Geldes, wenn alles günstiger wird (0:15-0:20)?"
+                                "subContentId": "f812890c-e502-4cb5-87bf-2daf2cfb707f",
+                                "tip": "Achten Sie darauf, welche Folgen eine Verringerung der Ausgaben durch den Staat hat (ca. 01:50)."
                               },
                               {
                                 "summary": [
-                                  "Eine Nachfragelücke ist die Hauptursache für eine Deflation.",
-                                  "Deflation entsteht, wenn die Nachfrage exakt dem Angebot auf dem Markt entspricht.",
-                                  "Eine hohe Nachfrage nach Gütern ist die Hauptursache für eine Deflation."
+                                  "Die Verunsicherung der Menschen kann dazu führen, dass sie mehr sparen und die allgemeine Nachfrage zurückgeht.",
+                                  "In einem Wirtschaftsabschwung geben die Menschen typischerweise mehr Geld aus.",
+                                  "Wenn die Nachfrage allgemein zurückgeht, steigen die Preise für Produkte an."
                                 ],
-                                "subContentId": "527a02b7-33e4-4c02-a110-25786924a56d",
-                                "tip": "Was passiert, wenn es mehr Güter auf dem Markt gibt als Käufer (0:52-1:01)?"
+                                "subContentId": "562fc96a-6b00-4485-bd2a-c876eae2b880",
+                                "tip": "Wie reagieren die Menschen laut Video auf einen Wirtschaftsabschwung (ca. 02:10)?"
                               }
                             ]
                           },
-                          "subContentId": "33fa1cb8-054c-4ae3-b366-43e50cf07096",
+                          "subContentId": "bbcd9d6a-1846-4eb0-afbe-3c8109a62364",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Definition und Ursachen der Deflation",
+                            "title": "Ursachen der Deflation",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Definition und Ursachen der Deflation"
+                            "extraTitle": "Ursachen der Deflation"
                           }
                         },
                         "pause": true,
@@ -310,8 +310,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 142,
-                          "to": 143
+                          "from": 220,
+                          "to": 221
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -337,41 +337,126 @@
                             "summaries": [
                               {
                                 "summary": [
-                                  "In einem Abschwung sparen Konsumenten eher, als zu investieren.",
-                                  "Konsumenten neigen dazu, während eines Abschwungs mehr auszugeben.",
-                                  "Eine Verbesserung des Einkommens führt zu einer Nachfragelücke."
+                                  "Bei einer Deflation müssen Unternehmen oft Löhne senken oder Mitarbeiter entlassen.",
+                                  "Fallende Preise motivieren Unternehmen dazu, ihre Produktion stark auszuweiten.",
+                                  "Unternehmen können in der Deflation leicht Kredite aufnehmen, da die Zinsen niedrig sind."
                                 ],
-                                "subContentId": "b5426aae-e3c8-4e1e-9e2f-0c5b5a930b48",
-                                "tip": "Wie verhalten sich Konsumenten, wenn sie sich um ihren Job sorgen (1:14-1:26)?"
+                                "subContentId": "691cba27-eb8b-4771-a026-297e854caecb",
+                                "tip": "Was sind die Konsequenzen für Unternehmen, wenn die Einnahmen sinken (ca. 02:35)?"
                               },
                               {
                                 "summary": [
-                                  "Unternehmen machen aufgrund der geringeren Nachfrage weniger Gewinn.",
-                                  "Unternehmen stellen in einer Deflation mehr Personal ein, um die Produktion zu erhöhen.",
-                                  "Die Gewinne der Unternehmen steigen, da sie ihre Produkte günstiger verkaufen können."
+                                  "Die Deflationsspirale entsteht, weil Konsumenten auf noch günstigere Preise spekulieren und Käufe aufschieben.",
+                                  "Die Deflationsspirale wird durch eine sehr hohe Nachfrage nach Waren und Dienstleistungen angetrieben.",
+                                  "Eine Deflationsspirale führt typischerweise zu steigenden Löhnen und Vollbeschäftigung."
                                 ],
-                                "subContentId": "398c5af5-533a-406f-b9ae-afde9b0d40a7",
-                                "tip": "Welche Auswirkung hat eine sinkende Nachfrage auf die Umsätze von Unternehmen (1:42-1:47)?"
+                                "subContentId": "030a5b72-7b7b-454a-9e61-c17a140aa781",
+                                "tip": "Warum wollen manche Menschen ihr Geld nicht ausgeben, obwohl sie es könnten (ca. 03:23)?"
                               },
                               {
                                 "summary": [
-                                  "In einer Deflation steigt die Arbeitslosigkeit.",
-                                  "Der Staat hat bei einer Deflation höhere Steuereinnahmen.",
-                                  "Das Wirtschaftswachstum wird durch die sinkenden Preise stark angekurbelt."
+                                  "Eine Aufwertung der eigenen Währung kann zu einer Deflation führen.",
+                                  "Eine starke Währung macht den Export und den Tourismus für andere Länder günstiger.",
+                                  "Die Aufwertung des Schweizer Frankens führte zu einem Anstieg der Touristenzahlen aus Euro-Ländern."
                                 ],
-                                "subContentId": "781b2bfd-3779-4122-833b-31429fc76976",
-                                "tip": "Was sind die Folgen für den Arbeitsmarkt und das Wirtschaftswachstum (1:51-2:05)?"
+                                "subContentId": "6654ee22-2764-4c40-a1aa-2bd88a51e240",
+                                "tip": "Welchen Effekt hatte die starke Schweizer Währung auf den Tourismus und Export (ca. 04:05)?"
                               }
                             ]
                           },
-                          "subContentId": "c8a88417-f7de-4183-b252-2887645c6356",
+                          "subContentId": "01c264d8-0c5c-4bd2-9c2b-9218b870c2a1",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Folgen der Deflation",
+                            "title": "Folgen und Deflationsspirale",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Folgen der Deflation"
+                            "extraTitle": "Folgen und Deflationsspirale"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 303,
+                          "to": 304
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Eine mögliche Gegenmassnahme ist die Senkung des Leitzinses, um Kredite günstiger zu machen.",
+                                  "Um eine Deflation zu bekämpfen, muss die Zentralbank den Leitzins weiter erhöhen.",
+                                  "Günstigere Kredite sorgen dafür, dass weniger Geld in den Wirtschaftskreislauf gelangt."
+                                ],
+                                "subContentId": "6f5be8fa-9698-4f19-b18d-f712f8d4d5fd",
+                                "tip": "Was kann die Zentralbank tun, um die Kreditvergabe wieder anzukurbeln (ca. 04:42)?"
+                              },
+                              {
+                                "summary": [
+                                  "Der Staat kann seine Ausgaben erhöhen und so als zusätzlicher Nachfrager auftreten.",
+                                  "Wenn der Staat als Konsument auftritt, wird dem Wirtschaftskreislauf Geld entzogen.",
+                                  "Die wirksamste Gegenmassnahme ist, wenn der Staat seine Schulden durch Sparmassnahmen abbaut."
+                                ],
+                                "subContentId": "42a81481-496e-46b2-a543-442129b33de9",
+                                "tip": "Wie kann der Staat die Nachfrage direkt beeinflussen, um die Wirtschaft zu stützen (ca. 04:48)?"
+                              },
+                              {
+                                "summary": [
+                                  "Meist ist nicht nur ein Grund allein für eine Deflation verantwortlich.",
+                                  "Eine Deflation hat immer nur eine einzige, klar identifizierbare Ursache.",
+                                  "Alle Gegenmassnahmen wirken sofort und lösen das Problem innerhalb weniger Tage."
+                                ],
+                                "subContentId": "fa5a38bf-d895-4b55-932a-2d25312d827e",
+                                "tip": "Was wird ganz am Ende des Videos über die Ursachen einer Deflation gesagt (ca. 05:04)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "f5bda577-c968-4f9f-abd2-4db44538927b",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Gegenmassnahmen",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Gegenmassnahmen"
                           }
                         },
                         "pause": true,
@@ -425,12 +510,12 @@
                         "progressText": "Fortschritt :num von :total",
                         "summaries": [
                           {
-                            "subContentId": "c2d0a87a-fa29-4c29-b858-4d1a856d2ccb",
+                            "subContentId": "18df3677-37d3-4d6f-8757-ae20093e1722",
                             "tip": ""
                           }
                         ]
                       },
-                      "subContentId": "4a1de6cd-87c4-4e4b-b909-66ad46fb0a6e",
+                      "subContentId": "589b312a-8848-4a0d-a7a3-be3daf7a4b61",
                       "metadata": {
                         "contentType": "Summary",
                         "license": "U",
@@ -504,19 +589,19 @@
               "metadata": {
                 "contentType": "Interactive Video",
                 "license": "U",
-                "title": "Interaktives Video: Grundlagen der Deflation",
+                "title": "Interaktives Video: Die Grundlagen der Deflation",
                 "authors": [],
                 "changes": [],
-                "extraTitle": "Interaktives Video: Grundlagen der Deflation"
+                "extraTitle": "Interaktives Video: Die Grundlagen der Deflation"
               },
-              "subContentId": "b08f420f-307f-4c7f-b488-3bbd689a3643"
+              "subContentId": "d181d2ad-1b45-493b-91e1-a6028a092db0"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "fc621a01-8d43-4fde-8428-af947433de58",
+      "subContentId": "f42413c3-6f3b-421f-ab04-7e1be2cdf7b4",
       "metadata": {
         "contentType": "Column",
         "license": "U",
@@ -542,7 +627,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "8d906050-26c3-45ab-8714-2ef34657f33c"
+              "subContentId": "cbfc3108-afe0-4926-96bb-14144b2039ce"
             },
             "useSeparator": "auto"
           },
@@ -564,32 +649,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Was passiert per Definition bei einer Deflation mit dem allgemeinen Preisniveau?</p>",
+                      "question": "<p>Was bedeutet Deflation gemäss der Definition im Video?</p>",
                       "answers": [
                         {
-                          "text": "Es sinkt.",
+                          "text": "Die Geldmenge sinkt und Produkte verlieren an Wert.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Bei einer Deflation sinkt das allgemeine Preisniveau, das heisst, Güter werden günstiger.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist die zentrale Definition, die im Video bei 00:58 genannt wird.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Es bleibt stabil.",
+                          "text": "Die Geldmenge bleibt stabil, aber die Zinsen für Kredite steigen stark an.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Ein stabiles Preisniveau ist das Ziel, aber nicht die Definition von Deflation.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Hohe Zinsen können eine Ursache sein, sind aber nicht die Definition von Deflation.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Es steigt stark an.",
+                          "text": "Produkte wie Lebensmittel und Immobilien gewinnen über längere Zeit an Wert.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Ein steigendes Preisniveau wird als Inflation bezeichnet.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Gegenteil ist der Fall, Produkte verlieren an Wert.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -650,7 +735,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "29e70216-66cf-4adc-81d2-248ec87ca427",
+                    "subContentId": "33b1b980-57ce-4226-8a84-5059c5318c01",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -663,32 +748,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Was ist laut Video die Hauptursache für eine Deflation?</p>",
+                      "question": "<p>Welche Institution reguliert den Leitzins, wie im Video erwähnt?</p>",
                       "answers": [
                         {
-                          "text": "Eine Nachfragelücke.",
+                          "text": "Die EZB (Europäische Zentralbank).",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Eine Nachfragelücke, bei der das Angebot grösser ist als die Nachfrage, ist die Hauptursache.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video nennt bei 01:31 explizit die EZB.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Eine Angebotslücke.",
+                          "text": "Die Regierung des jeweiligen Landes.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Angebotslücke würde bedeuten, dass zu wenige Güter vorhanden sind, was eher zu Preissteigerungen führt.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Die Regierung entscheidet über Staatsausgaben, aber nicht über den Leitzins.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Eine staatliche Preissenkung.",
+                          "text": "Die Geschäftsbanken legen den Leitzins gemeinsam fest.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Staatliche Eingriffe können Preise beeinflussen, sind aber nicht die im Video genannte Hauptursache.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Geschäftsbanken sind vom Leitzins betroffen, legen ihn aber nicht fest.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -749,7 +834,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "bb378191-0cc1-4a85-9326-10f7df0e000d",
+                    "subContentId": "ed3b0df7-d9e2-4c72-8ceb-de5a383492a1",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -762,32 +847,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Wie verändert sich die Kaufkraft des Geldes während einer Deflation?</p>",
+                      "question": "<p>Was ist der Name für den Effekt, bei dem fallende Preise zu weiterer Kaufzurückhaltung führen?</p>",
                       "answers": [
                         {
-                          "text": "Sie steigt an.",
+                          "text": "Deflationsspirale.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Da die Preise sinken, kann man sich für den gleichen Geldbetrag mehr kaufen.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dieser sich selbst verstärkende Kreislauf wird bei 03:31 als Deflationsspirale bezeichnet.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Sie nimmt ab.",
+                          "text": "Inflationsschock.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Kaufkraft nimmt bei einer Inflation ab, nicht bei einer Deflation.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Inflation ist der gegenteilige Prozess (steigende Preise).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Sie bleibt unverändert.",
+                          "text": "Wirtschaftskreislauf.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Kaufkraft ist direkt an das Preisniveau gekoppelt und verändert sich daher.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Der Wirtschaftskreislauf ist ein allgemeiner Begriff, nicht dieser spezifische Effekt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -848,7 +933,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "48df9f09-9b39-4b69-9f66-f82d1916f5d4",
+                    "subContentId": "4994d576-8c91-40a3-aada-1bfd5f69a0dc",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -861,32 +946,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welche direkte Folge hat eine Deflation für die Arbeitnehmenden?</p>",
+                      "question": "<p>Welches Land wird im Video als Beispiel für eine Deflation durch Währungsaufwertung genannt?</p>",
                       "answers": [
                         {
-                          "text": "Die Arbeitslosigkeit steigt.",
+                          "text": "Die Schweiz.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wegen sinkender Gewinne benötigen Unternehmen weniger Arbeitskräfte.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Schweiz und der starke Franken werden bei 03:41 als Beispiel genannt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Es werden mehr Arbeitskräfte benötigt.",
+                          "text": "Deutschland.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Gegenteil ist der Fall, da die Nachfrage nach Gütern sinkt.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Deutschland wurde in diesem Zusammenhang nicht erwähnt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Löhne werden automatisch erhöht.",
+                          "text": "Die USA.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video beschreibt, dass der Lohn gleich bleibt, was die Kaufkraft erhöht, aber nicht, dass er steigt.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Die USA und der Dollar wurden nicht als Beispiel genannt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -947,7 +1032,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "24814900-6ca2-4c2b-9912-62284a7f01a6",
+                    "subContentId": "3d7e50ba-3f12-47c6-b0f5-71e860a4ca8e",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -960,32 +1045,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Warum führt eine Nachfragelücke zu sinkenden Preisen?</p>",
+                      "question": "<p>Warum führt eine Senkung der Staatsausgaben zu einem deflationären Druck?</p>",
                       "answers": [
                         {
-                          "text": "Weil Unternehmen bei einem Überangebot ihre Preise senken müssen.",
+                          "text": "Weil die Nachfrage des Staates sinkt und weniger Geld im Umlauf ist.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wenn das Angebot die Nachfrage übersteigt, senken Unternehmen die Preise, um ihre Produkte verkaufen zu können.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wenn der Staat weniger nachfragt und ausgibt, verringert das die Geldmenge im Kreislauf (01:55).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil die Produktionskosten der Unternehmen steigen und sie Verluste ausgleichen müssen.",
+                          "text": "Weil dadurch private Unternehmen motiviert werden, ihre Investitionen sofort zu erhöhen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Steigende Produktionskosten würden eher zu höheren, nicht zu niedrigeren Preisen führen.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Eine sinkende staatliche Nachfrage verunsichert Unternehmen eher.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil die Regierung eingreift und die Preise gesetzlich vorschreibt, um die Nachfrage zu steuern.",
+                          "text": "Weil die Zinsen für Kredite automatisch steigen, wenn der Staat weniger Geld ausgibt.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist keine Marktdynamik, sondern ein staatlicher Eingriff, der im Video nicht als Grund genannt wird.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Die Staatsausgaben sind nicht direkt an den Leitzins gekoppelt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1046,7 +1131,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "b431ce86-c1d1-4243-be38-bd731f4239d3",
+                    "subContentId": "bbbefaac-ed31-44bb-ae27-046c2fa7d23e",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1059,32 +1144,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Weshalb ist eine Deflation trotz steigender Kaufkraft schlecht für die Wirtschaft?</p>",
+                      "question": "<p>Weshalb ist die Deflationsspirale so gefährlich für die Wirtschaft?</p>",
                       "answers": [
                         {
-                          "text": "Weil sinkende Unternehmensgewinne zu mehr Arbeitslosigkeit führen.",
+                          "text": "Weil sie sich selbst verstärkt und zu Produktionsstopps und Entlassungen führt.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies löst eine Abwärtsspirale aus geringeren Umsätzen, weniger Gewinn und steigender Arbeitslosigkeit aus.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Spirale aus fallenden Preisen, Kaufzurückhaltung und Produktionskürzungen ist ein Teufelskreis (03:03).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil die Konsumenten durch die günstigen Preise zu viel konsumieren und die Lagerbestände leeren.",
+                          "text": "Weil der Staat dadurch gezwungen wird, die Steuern für alle Bürger massiv zu erhöhen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Gegenteil ist der Fall; aus Angst vor der Zukunft und in Erwartung weiter fallender Preise halten sich die Konsumenten zurück.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Steuererhöhungen wären in dieser Situation kontraproduktiv, da sie die Nachfrage weiter dämpfen würden.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil der Staat durch die steigende Kaufkraft höhere Steuern einnehmen und mehr investieren kann.",
+                          "text": "Weil die Währung des Landes dadurch gegenüber anderen Währungen stark an Wert verliert.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Der Staat nimmt aufgrund der sinkenden Wirtschaftsleistung weniger Steuern ein.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Eine Währungsaufwertung kann eine Deflation sogar auslösen, nicht umgekehrt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1145,7 +1230,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "cd136e20-d895-4eac-80ab-130941d1b27c",
+                    "subContentId": "27212cf8-4437-4e3c-915a-ca4465004781",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1158,32 +1243,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Inwiefern beeinflusst die Erwartung der Konsumenten während eines wirtschaftlichen Abschwungs die Nachfrage?</p>",
+                      "question": "<p>Wie hilft eine Senkung des Leitzinses bei der Bekämpfung einer Deflation?</p>",
                       "answers": [
                         {
-                          "text": "Aus Sorge um das Einkommen oder den Job sind sie zurückhaltend.",
+                          "text": "Kredite werden günstiger, was die Nachfrage nach Investitionen und Konsum fördern soll.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Angst vor einer Verschlechterung der eigenen finanziellen Lage führt zu Konsumzurückhaltung.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Günstigere Kredite sollen bewirken, dass wieder mehr Geld in den Kreislauf kommt (04:42).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Sie geben mehr Geld aus, weil sie erwarten, dass die Preise bald wieder stark steigen werden.",
+                          "text": "Die Sparzinsen bei den Banken steigen, wodurch die Leute mehr Geld zur Verfügung haben.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dieses Verhalten wäre typisch bei einer Inflation, nicht bei einer Deflation.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Bei einer Leitzinssenkung sinken in der Regel auch die Sparzinsen.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Ihre Erwartungen haben keinen Einfluss, da die Nachfrage nur vom Preis der Produkte abhängt.",
+                          "text": "Die Regierung kann durch die Zinssenkung mehr Schulden bei der Zentralbank aufnehmen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video betont, dass die psychologische Komponente (Erwartungen) eine wichtige Rolle spielt.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Die Zinssenkung zielt primär auf Privatkunden und Unternehmen, nicht auf die Regierung.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1244,7 +1329,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "9982fe29-a29b-4d01-ae6a-f5f0903a82f2",
+                    "subContentId": "3f5961d0-b3fc-4b63-9897-021e1758afec",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1257,32 +1342,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welchen Zielkonflikt beschreibt das Video am Ende?</p>",
+                      "question": "<p>Warum schadete der starke Franken der Schweizer Wirtschaft, wie im Video erklärt?</p>",
                       "answers": [
                         {
-                          "text": "Obwohl sinkende Preise gut klingen, ist Inflation für die Wirtschaft das bessere Ziel.",
+                          "text": "Weil Tourismus und Exporte für Kunden aus Euro-Ländern zu teuer wurden.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video stellt klar, dass die negativen Folgen der Deflation so gravierend sind, dass eine (leichte) Inflation bevorzugt wird.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Der hohe Wert des Frankens machte Schweizer Waren und Dienstleistungen für Ausländer zu teuer (04:15).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Das Hauptziel der Wirtschaft ist es immer, die Preise absolut stabil zu halten, egal ob Inflation oder Deflation droht.",
+                          "text": "Weil die Schweizer Bürger ihre eigenen Produkte nicht mehr kaufen konnten.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video schliesst damit, dass Inflation eher ein Ziel ist als Deflation.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Problem lag bei der ausbleibenden Nachfrage aus dem Ausland.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Das Ziel der Regierung sollte immer eine Deflation sein, um die Kaufkraft der Bürger dauerhaft zu stärken.",
+                          "text": "Weil die EZB der Schweiz verboten hat, weiterhin mit dem Euro zu handeln.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dies ignoriert die im Video dargestellten, drastischen negativen Folgen für die gesamte Wirtschaft.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Davon ist im Video keine Rede; es geht um die Wechselkurseffekte.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1343,7 +1428,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "ac3ad953-cff5-4ab7-ad61-d39dcc294f67",
+                    "subContentId": "0c9ada8d-924e-4ac7-adde-a969f0b91265",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1356,32 +1441,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Ein neues Smartphone-Modell verkauft sich viel schlechter als erwartet, und die Lager sind voll. Was wird der Hersteller wahrscheinlich tun?</p>",
+                      "question": "<p>Eine Firma überlegt, eine neue Maschine zu kaufen. Aufgrund der unsicheren Wirtschaftslage und fallender Preise wartet sie aber. Welches im Video beschriebene Verhalten zeigt die Firma?</p>",
                       "answers": [
                         {
-                          "text": "Den Preis des Geräts senken.",
+                          "text": "Spekulation auf günstigere Preise, was die Deflationsspirale fördert.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist eine typische Reaktion auf eine Nachfragelücke (Angebot > Nachfrage), um den Verkauf anzukurbeln.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Zurückhalten von Investitionen in Erwartung weiter fallender Preise ist ein Kernmerkmal der Deflationsspirale (03:23).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Produktion sofort verdoppeln.",
+                          "text": "Eine kluge Investitionsstrategie, um den Gewinn kurzfristig zu maximieren.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das würde das Problem des Überangebots nur noch verschärfen.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Während es für die einzelne Firma rational erscheinen mag, schadet dieses Verhalten der Gesamtwirtschaft.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Den Preis erhöhen, um die Verluste auszugleichen.",
+                          "text": "Eine typische Reaktion auf eine Phase der Inflation, nicht der Deflation.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Preiserhöhung würde die Nachfrage wahrscheinlich weiter senken.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Bei Inflation würde man Käufe vorziehen, um Preissteigerungen zu entgehen.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1442,7 +1527,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "6d36eacf-291c-46b9-961a-b0ca90ce9243",
+                    "subContentId": "decbda9b-46ae-4b89-abd8-5568bb454e2b",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1455,32 +1540,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Ein Land befindet sich in einer tiefen Deflation. Was ist eine wahrscheinliche Beobachtung auf dem Arbeitsmarkt?</p>",
+                      "question": "<p>Um die Wirtschaft anzukurbeln, beschliesst eine Regierung, neue Schulen und Strassen zu bauen. Welche Gegenmassnahme gegen Deflation wird hier angewendet?</p>",
                       "answers": [
                         {
-                          "text": "Die Zahl der Entlassungen nimmt zu.",
+                          "text": "Der Staat erhöht die Staatsausgaben.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist eine direkte Anwendung der im Video erklärten Folge, dass bei Deflation die Arbeitslosigkeit steigt.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Der Staat tritt hier als Nachfrager auf, um mehr Geld in den Kreislauf zu bringen (04:48).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Unternehmen suchen dringend neue Mitarbeitende.",
+                          "text": "Der Staat senkt den Leitzins.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das wäre ein Zeichen für einen Wirtschaftsboom, nicht für eine Deflation.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Bauprojekte sind eine fiskalpolitische Massnahme (Staatsausgaben), keine geldpolitische (Leitzins).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Löhne für alle Angestellten steigen spürbar an.",
+                          "text": "Der Staat wertet die eigene Währung auf.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Bei sinkenden Unternehmensgewinnen sind Lohnkürzungen oder Stagnation wahrscheinlicher.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Eine Aufwertung der Währung ist eine mögliche Ursache für Deflation, keine Gegenmassnahme.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1541,7 +1626,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "271b865c-02ca-4e1f-a835-592bb402a01d",
+                    "subContentId": "ee857f3a-803e-4c54-bc07-d60b1bfd2a0a",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1554,32 +1639,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Ihre Freundin überlegt, eine grosse Anschaffung zu tätigen, liest aber in den Nachrichten von einer drohenden Deflation. Was könnte sie logischerweise tun?</p>",
+                      "question": "<p>Ein Unternehmen stellt fest, dass die Herstellungskosten für ein Produkt bei 10€ liegen, es aber aufgrund der Marktlage nur noch für 9€ verkauft werden kann. Was ist die wahrscheinlichste Folge?</p>",
                       "answers": [
                         {
-                          "text": "Mit dem Kauf warten, da die Preise voraussichtlich fallen werden.",
+                          "text": "Das Unternehmen muss Löhne senken oder die Produktion einstellen.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies wendet das Prinzip der Konsumzurückhaltung an, da man erwartet, später günstiger einkaufen zu können.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video beschreibt genau diesen Fall: Produktionskosten übersteigen die Einnahmen (02:30), was zu Kürzungen führt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Den Kauf sofort tätigen, bevor das Produkt noch teurer wird.",
+                          "text": "Das Unternehmen wird mehr Personal einstellen, um die Effizienz zu steigern.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese Logik würde bei einer erwarteten Inflation zutreffen, nicht bei einer Deflation.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> In einer solchen Verlustsituation sind Neueinstellungen höchst unwahrscheinlich.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Mehrere Produkte auf einmal kaufen, um von der Situation zu profitieren.",
+                          "text": "Die Regierung wird dem Unternehmen den Verlust automatisch erstatten.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Erwartung fallender Preise motiviert eher zum Aufschieben des Konsums.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Eine solche automatische Subvention ist nicht die Regel und im Video nicht erwähnt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1640,7 +1725,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "08253185-fffb-4c3a-b63d-5e3d9ea5feca",
+                    "subContentId": "623c48cf-1ffc-48c0-b79e-8eca94929f09",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1653,32 +1738,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Die Regierung eines Landes beobachtet eine Deflation und sinkende Steuereinnahmen. Womit muss die Regierung gleichzeitig rechnen?</p>",
+                      "question": "<p>Ein deutscher Tourist plant eine Reise in die Schweiz. Er stellt fest, dass er für seine Euros viel weniger Franken bekommt als noch vor einem Jahr. Womit hängt das zusammen?</p>",
                       "answers": [
                         {
-                          "text": "Mit höheren Ausgaben, z.B. für die Arbeitslosenversicherung.",
+                          "text": "Mit einer Aufwertung des Frankens.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt, dass der Staat weniger Einnahmen, aber mehr Ausgaben hat, was hier angewendet wird.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wenn der Franken aufwertet (stärker wird), bekommt man für die gleiche Menge Euro weniger Franken (04:01).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Mit einem grossen Überschuss im Staatshaushalt durch gesunkene Kosten.",
+                          "text": "Mit einer Senkung der Schweizer Staatsausgaben.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Gegenteil ist der Fall: Die Einnahmen sinken und die Ausgaben (z.B. für Soziales) steigen.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Die Staatsausgaben haben keinen direkten Einfluss auf den Wechselkurs.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Mit der Notwendigkeit, die Steuern für Unternehmen sofort massiv zu erhöhen.",
+                          "text": "Mit einer Senkung des Leitzinses durch die EZB.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Steuererhöhung in dieser Situation würde die Unternehmen weiter belasten und die Krise verschärfen.",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Eine Leitzinssenkung im Euroraum würde den Euro tendenziell eher schwächen.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1739,7 +1824,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "16bb25a5-1c06-45ac-b334-ebffe54c5759",
+                    "subContentId": "5284b4ef-693b-445a-b467-4704f8ca2964",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1752,7 +1837,119 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Eine Deflation bedeutet, dass sich Konsumenten mit dem gleichen Lohn mehr leisten können.</p>",
+                      "question": "<p>Laut Video ist eine leichte Deflation immer ein Zeichen für eine schwere und gefährliche Wirtschaftskrise.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erklärt, dass erst eine zu hohe Rate Sorgen bereiten sollte (00:48).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video betont, dass das Ausmass der Rate entscheidend ist."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "0c49321a-3fc5-498c-ba43-212cdbcf491f",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Die Erhöhung des Leitzinses ist eine Massnahme, um eine Deflation zu bekämpfen.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Eine Erhöhung des Leitzinses ist eine Ursache für Deflation. Zur Bekämpfung wird der Leitzins gesenkt (04:42).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Ein hoher Leitzins kann Deflation auslösen; zur Bekämpfung wird er gesenkt."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "e0123cd0-d1b5-4dab-aa10-66a232c1d4cd",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>In einer Deflation können Unternehmen nur selten auf Kredite zurückgreifen, weil die Zinsen sehr hoch sind.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
@@ -1761,8 +1958,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das ist die Definition der steigenden Kaufkraft, wie im Video bei 0:24 erklärt.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich korrekt. Steigende Kaufkraft bedeutet, dass der Wert des Geldes zunimmt und man mehr kaufen kann."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Video erklärt bei 02:51, dass hohe Zinsen den Zugang zu Krediten erschweren.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Hohe Zinsen sind oft eine Begleiterscheinung, die den Unternehmen schadet."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -1795,7 +1992,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "eccfcb76-94fa-4aaa-b7a7-1ff96afceda5",
+                    "subContentId": "62edd902-75d7-4ef2-8af1-7dce80812f0b",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -1808,7 +2005,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Wenn Unternehmen ihre Preise senken, führt dies laut Video immer zu höheren Gewinnen, weil mehr Produkte verkauft werden.</p>",
+                      "question": "<p>Eine Deflation hat immer nur eine einzige, klar identifizierbare Ursache.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -1817,8 +2014,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erklärt, dass geringere Nachfrage und sinkende Preise zu weniger Umsatz und somit weniger Gewinn führen (1:45).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video erklärt explizit, dass die Gewinne der Unternehmen sinken."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Am Ende des Videos (05:07) wird betont, dass meist nicht ein Grund alleine verantwortlich ist.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video schliesst damit, dass es meist unterschiedliche Gründe gibt."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -1851,7 +2048,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "540a55ff-9caf-4a11-ba46-3295e8c59570",
+                    "subContentId": "1e1c7850-a840-43e6-84b2-01d9cf574c04",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -1864,7 +2061,63 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Konsumenten, die eine Verschlechterung ihres Einkommens erwarten, neigen dazu, mehr zu sparen.</p>",
+                      "question": "<p>Wenn viele Menschen aus Angst vor der Zukunft anfangen zu sparen, trägt dieses Verhalten zur Bekämpfung einer Deflation bei.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Weitreichendes Sparen senkt die Nachfrage und ist eine Ursache der Deflation, keine Bekämpfung (02:15).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Dieses Verhalten verstärkt die Deflation, weil die Nachfrage sinkt."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "cdc0b7f8-f8d4-4c8c-a30e-39f9cc16a83a",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Ein Unternehmen muss Mitarbeiter entlassen, weil die Nachfrage nach seinen Produkten stark gesunken ist. Dies ist ein typisches Symptom in einer Deflationsphase.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
@@ -1873,8 +2126,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Aus Sorge vor der Zukunft wird der Konsum eingeschränkt und mehr gespart (1:17-1:26).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich korrekt. Zurückhaltung und Sparen sind typische Reaktionen in einer wirtschaftlichen Abschwungphase."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Video beschreibt Entlassungen als direkte Folge der Deflation (02:38).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Sinkende Nachfrage und Entlassungen sind Kernmerkmale der im Video beschriebenen Abwärtsspirale."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -1907,7 +2160,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "38d459ba-1d40-45a2-b4f1-144783e6804f",
+                    "subContentId": "ffc9fdc3-6177-4399-9e3a-4524ec88974c",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -1920,63 +2173,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Das oberste Ziel der Wirtschaftspolitik ist es, eine Deflation zu erreichen, da dies für die Bürger kurzfristig vorteilhaft ist.</p>",
-                      "correct": "false",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video schliesst damit, dass eine (leichte) Inflation das Ziel ist, nicht eine Deflation (2:26-2:29).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Trotz des Vorteils der steigenden Kaufkraft sind die negativen Folgen für die Gesamtwirtschaft zu gravierend."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "a8e5539b-4adb-4704-bd55-f46cf210744a",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Ein Autohaus hat 100 Fahrzeuge auf Lager, aber nur 30 Kaufinteressenten. Diese Situation beschreibt eine Nachfragelücke.</p>",
+                      "question": "<p>Die Regierung beschliesst, die Mehrwertsteuer zu senken, um den Konsum anzukurbeln. Dies ist eine Massnahme, die dem Ziel der Deflationsbekämpfung dienen kann.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
@@ -1985,8 +2182,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Angebot (100 Autos) ist deutlich grösser als die Nachfrage (30 Interessenten), was eine Nachfragelücke darstellt.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich korrekt. Dies ist ein klares Beispiel für eine Nachfragelücke, die Hauptursache der Deflation."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Obwohl nicht explizit genannt, zielt eine Steuersenkung darauf ab, die Nachfrage zu erhöhen, was dem Prinzip der Deflationsbekämpfung entspricht.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Massnahmen, die den Konsum und die Nachfrage fördern, wirken einer Deflation entgegen."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2019,7 +2216,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "d955a94b-adac-4961-a75e-eac574943d77",
+                    "subContentId": "1360dbec-25df-4ee9-b481-4850f5308c43",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2032,7 +2229,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Wenn ein Unternehmen wegen einer Deflation weniger Produkte verkauft, wird es wahrscheinlich die Löhne seiner verbleibenden Mitarbeiter erhöhen, um sie zu motivieren.</p>",
+                      "question": "<p>Wenn der Euro gegenüber dem Franken schwächer wird, wird ein Urlaub in der Schweiz für eine Person aus Deutschland günstiger.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -2041,8 +2238,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Sinkende Gewinne und Umsätze führen eher zu Lohnkürzungen oder Entlassungen, nicht zu Lohnerhöhungen.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. In einer solchen wirtschaftlichen Situation sind Lohnkürzungen oder Entlassungen wahrscheinlicher."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Wenn der Euro schwächer wird, bedeutet das, dass der Franken im Verhältnis stärker ist. Der Urlaub wird also teurer (siehe Logik bei 04:15).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Ein schwächerer Euro bedeutet weniger Kaufkraft im Ausland, der Urlaub würde teurer."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2075,119 +2272,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "3ecf59ee-1ef0-4ef6-83c1-24b3db71ebf6",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Sie lesen, dass die Preise für Elektronikartikel seit einem Jahr stetig fallen. Dies allein ist schon der Beweis für eine gesamtwirtschaftliche Deflation.</p>",
-                      "correct": "false",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Eine Deflation bezieht sich auf das Sinken des <strong>allgemeinen</strong> Preisniveaus, nicht nur auf eine einzelne Güterkategorie.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Deflation ist ein Absinken des <strong>allgemeinen</strong> Preisniveaus. Fallende Preise in nur einem Sektor sind dafür kein ausreichender Beleg."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "5945ec16-86ee-4e10-a3ba-221395381ba3",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Ein Staat, der wegen einer Deflation mehr für Sozialleistungen ausgeben muss, erfährt eine Stärkung seines Wirtschaftswachstums.</p>",
-                      "correct": "false",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Steigende Staatsausgaben bei sinkenden Einnahmen und eine generelle Wirtschaftskrise führen zu sinkendem Wirtschaftswachstum (2:05).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video erklärt, dass das Wirtschaftswachstum infolge einer Deflation sinkt."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "458bdd55-acb0-4b74-a1d8-c724c02343c8",
+                    "subContentId": "55973b0b-b171-44f5-81d5-067bc85f8c77",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2257,14 +2342,14 @@
                 "changes": [],
                 "extraTitle": "Verständnisfragen Quiz"
               },
-              "subContentId": "f8262165-aa40-43d7-9ac8-d0437f741da4"
+              "subContentId": "644fc78a-0ca0-4303-a6e3-3df72204c793"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "274736f7-9f10-48da-9e1a-7207b1ae4b46",
+      "subContentId": "9de4d861-1d5d-496a-a25c-f15fcd635747",
       "metadata": {
         "contentType": "Column",
         "license": "U",
