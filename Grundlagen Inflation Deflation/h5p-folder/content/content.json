@@ -1,7 +1,7 @@
 {
   "showCoverPage": true,
   "bookCover": {
-    "coverDescription": "<h1 style=\"text-align:center\">Was bedeutet Inflation?</h1><h3 style=\"text-align:center\">Die Grundlagen der Teuerung einfach erklärt</h3>",
+    "coverDescription": "<h1 style=\"text-align:center\">Inflation und Deflation</h1><h3 style=\"text-align:center\">Die wichtigsten Grundlagen einfach erklärt</h3>",
     "coverMedium": {
       "params": {
         "decorative": false,
@@ -26,7 +26,7 @@
         "authors": [],
         "changes": []
       },
-      "subContentId": "85e3d273-3bfd-4a8e-abbd-a0623f0006f9"
+      "subContentId": "89b93d5c-044a-4957-97bf-ff3dc59774ab"
     }
   },
   "chapters": [
@@ -36,7 +36,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Grundlagen der Inflation</h2><p>Dieses Video erklärt Ihnen einfach und verständlich, was <strong>Inflation</strong> bedeutet. Sie erfahren, wieso Sie für Ihr Geld manchmal weniger bekommen, was das Wort <strong>Teuerung</strong> damit zu tun hat und welche Gründe es für <strong>steigende Preise</strong> gibt – von <strong>Rohstoffknappheit</strong> bis hin zu globalen Ereignissen wie der <strong>Corona-Pandemie</strong> oder dem <strong>Krieg in der Ukraine</strong>.</p><ul><li>Sie können <strong>erklären</strong>, was <strong>Inflation</strong> ist und wie sie den Wert von Geld beeinflusst.</li><li>Sie <strong>verstehen</strong>, wie die <strong>Teuerung</strong> gemessen wird und welche Produkte dafür beobachtet werden.</li><li>Sie können verschiedene <strong>Gründe</strong> für steigende Preise <strong>nennen</strong>, wie zum Beispiel eine hohe Nachfrage oder knappe Rohstoffe.</li><li>Sie <strong>begreifen</strong>, wie globale Ereignisse die <strong>Preise</strong> im Alltag <strong>beeinflussen</strong> können.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
+                "text": "<h2>Grundlagen von Inflation und Deflation</h2><p>Dieses Video erklärt Ihnen die wirtschaftlichen Grundbegriffe <strong>Inflation</strong> und <strong>Deflation</strong>. Sie erfahren, was hinter dem Anstieg und Fall von Preisen steckt, wie Ihr <strong>Geld</strong> an Wert verliert oder gewinnt und welche Ursachen und Folgen diese Entwicklungen für Verbraucher und Unternehmen haben. Zudem wird die Rolle der <strong>Europäischen Zentralbank (EZB)</strong> bei der Wahrung der <strong>Preisstabilität</strong> beleuchtet.</p><ul><li>Sie können die Begriffe <strong>Inflation</strong> und <strong>Deflation</strong> definieren und deren Auswirkungen auf die <strong>Kaufkraft</strong> erklären.</li><li>Sie verstehen die zentralen <strong>Ursachen</strong> für Inflation, wie das Verhältnis von <strong>Geldmenge</strong> zu <strong>Gütermenge</strong>.</li><li>Sie können die negativen Folgen einer <strong>Deflation</strong> für die Wirtschaft, wie sinkende Produktion und steigende Arbeitslosigkeit, nachvollziehen.</li><li>Sie erkennen die Aufgabe der <strong>Europäischen Zentralbank (EZB)</strong> bei der Sicherung der <strong>Preisstabilität</strong>.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -46,7 +46,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "0518a4a9-eb2d-4c47-8743-05e71c03ed3f"
+              "subContentId": "8ff3dcea-6436-4c24-8190-2b651dce7aa9"
             },
             "useSeparator": "auto"
           },
@@ -58,10 +58,10 @@
                     "title": "Inflation",
                     "content": {
                       "params": {
-                        "text": "<p>Von Inflation spricht man, wenn Geld an <strong>Wert verliert</strong> und man für den gleichen Geldbetrag <strong>weniger kaufen</strong> kann als zuvor.</p>"
+                        "text": "<p>Ein dauerhafter <strong>Anstieg</strong> des allgemeinen <strong>Preisniveaus</strong>, wodurch das Geld an Wert verliert.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "f850c50e-4268-49aa-a86c-990581565e3e",
+                      "subContentId": "c17b4bac-ace9-49c2-889f-8b0aca81cb96",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
@@ -72,68 +72,68 @@
                     }
                   },
                   {
-                    "title": "Teuerung",
+                    "title": "Deflation",
                     "content": {
                       "params": {
-                        "text": "<p>Die Teuerung ist ein anderes Wort für <strong>Inflation</strong> und beschreibt den Umstand, dass Dinge <strong>teurer</strong> geworden sind.</p>"
+                        "text": "<p>Ein allgemeiner <strong>Rückgang</strong> des <strong>Preisniveaus</strong>, wodurch das Geld an Wert gewinnt und die Kaufkraft steigt.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "d7b12b50-1a12-4949-b70f-7df280286aac",
+                      "subContentId": "f0002777-7924-48e0-97f4-9155fb21c298",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Teuerung",
+                        "title": "Definition: Deflation",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Angebotsknappheit",
+                    "title": "Kaufkraftverlust",
                     "content": {
                       "params": {
-                        "text": "<p>Eine Situation, die entsteht, wenn mehr Leute ein Produkt haben wollen, als davon <strong>hergestellt werden kann</strong>, was zu <strong>steigenden Preisen</strong> führt.</p>"
+                        "text": "<p>Die Folge einer Inflation, bei der man für die gleiche Menge <strong>Geld</strong> weniger <strong>Waren</strong> und Dienstleistungen kaufen kann.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "20a0d05a-32da-4cbd-abd0-0f02b4418259",
+                      "subContentId": "37ec885a-c6bc-4538-8b9d-cb4d2a808a3e",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Angebotsknappheit",
+                        "title": "Definition: Kaufkraftverlust",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Rohstoffknappheit",
+                    "title": "Preisstabilität",
                     "content": {
                       "params": {
-                        "text": "<p>Wenn Materialien oder Rohstoffe zur Herstellung von Produkten <strong>knapp werden</strong>, müssen Firmen mehr dafür bezahlen, wodurch oft auch der <strong>Verkaufspreis steigt</strong>.</p>"
+                        "text": "<p>Ein Zustand, in dem der <strong>Preisanstieg</strong> für Waren und Dienstleistungen sehr gering ist, idealerweise bei unter <strong>2 %</strong> pro Jahr.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "c866ea23-16bc-4d23-86e9-3bd7bc5e4477",
+                      "subContentId": "d5713746-596e-4745-acfd-7904151ee013",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Rohstoffknappheit",
+                        "title": "Definition: Preisstabilität",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Preisanstieg",
+                    "title": "Europäische Zentralbank (EZB)",
                     "content": {
                       "params": {
-                        "text": "<p>Ein normalerweise <strong>langsamer und leichter</strong> Anstieg der Preise, der für Menschen mit <strong>tiefem Lohn</strong> schwierig wird, wenn er <strong>schnell und stark</strong> erfolgt.</p>"
+                        "text": "<p>Die zentrale Institution, die in Europa für die Kontrolle der <strong>Geldmenge</strong> und die Sicherung der <strong>Preisstabilität</strong> zuständig ist.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "c6a24d6e-9fc3-445c-96d5-1f11e58df10a",
+                      "subContentId": "b77a0772-3688-4b44-8cc3-44d93662aedc",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Preisanstieg",
+                        "title": "Definition: Europäische Zentralbank (EZB)",
                         "authors": [],
                         "changes": []
                       }
@@ -151,14 +151,14 @@
                 "changes": [],
                 "extraTitle": "Wichtige Begriffe"
               },
-              "subContentId": "b9e9c8e9-6788-4429-a03c-dbc9d32994ad"
+              "subContentId": "03bd3163-d171-4686-8295-c702b2940fc1"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "590a0a15-e7b1-4ba7-9662-016cd4cf698a",
+      "subContentId": "2de5cd01-6edb-4895-85c9-b8108d045342",
       "metadata": {
         "contentType": "Column",
         "license": "U",
@@ -174,7 +174,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Video: Was bedeutet Inflation?</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu prüfen.</p>"
+                "text": "<h2>Video: Inflation und Deflation einfach erklärt</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -184,7 +184,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "377bb994-2a49-47d9-8daa-7e2cfc5639bf"
+              "subContentId": "b4b8a94c-b83f-49a2-8c9e-569be3218c19"
             },
             "useSeparator": "auto"
           },
@@ -208,7 +208,7 @@
                     },
                     "files": [
                       {
-                        "path": "https://www.youtube.com/watch?v=IIN0NZuZbyM",
+                        "path": "https://www.youtube.com/watch?v=iYx75vVnzmo",
                         "mime": "video/YouTube",
                         "copyright": {
                           "license": "U"
@@ -225,8 +225,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 102,
-                          "to": 103
+                          "from": 75,
+                          "to": 76
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -252,41 +252,41 @@
                             "summaries": [
                               {
                                 "summary": [
-                                  "Inflation bedeutet, dass Geld an Wert verliert.",
-                                  "Inflation ist ein anderes Wort für sinkende Preise.",
-                                  "Bei einer Inflation steigt der Wert des Geldes an."
+                                  "Inflation bedeutet, dass das allgemeine Preisniveau dauerhaft ansteigt.",
+                                  "Bei einer Inflation gewinnt das Geld an Wert und man kann mehr kaufen.",
+                                  "Inflation betrifft immer nur einzelne Produkte, wie zum Beispiel Brot."
                                 ],
-                                "subContentId": "8cefc644-8b15-4dbc-8c57-e8972a512ff1",
-                                "tip": "Sehen Sie sich den Anfang des Videos an, um die Definition von Inflation zu finden (0:01)."
+                                "subContentId": "ba3ddeb8-5a26-427a-908c-9da7b892933d",
+                                "tip": "Achten Sie auf die Definition, die im Video bei 0:36-0:39 gegeben wird."
                               },
                               {
                                 "summary": [
-                                  "Experten beobachten die Preise von Miete, Benzin und Lebensmitteln.",
-                                  "Zur Messung der Teuerung werden nur die Preise von Luxusgütern erfasst.",
-                                  "Die Preise für Zugbillette oder Coiffeurbesuche sind für die Inflation irrelevant."
+                                  "Bei einer Inflation bekommt man für das gleiche Geld weniger Waren als zuvor.",
+                                  "Die Kaufkraft des Geldes bleibt von einer Inflation unberührt.",
+                                  "Während einer Inflation kann man sich für das gleiche Geld eine grössere Flasche Bier kaufen."
                                 ],
-                                "subContentId": "be35ce13-3d5c-481e-98c1-e93a6bec924a",
-                                "tip": "Achten Sie darauf, welche Beispiele im Video zur Preisbeobachtung genannt werden (0:37-0:42)."
+                                "subContentId": "15d4e72d-e8d5-4d44-9cdd-edd5c38a19a4",
+                                "tip": "Erinnern Sie sich an das Bier-Beispiel im Video (0:48-0:53)."
                               },
                               {
                                 "summary": [
-                                  "Wenn viele ein Produkt wollen, es aber knapp ist, steigt der Preis.",
-                                  "Wenn Firmen mehr produzieren, als die Leute kaufen, steigen die Preise.",
-                                  "Ein Produkt wird günstiger, wenn die Nachfrage danach sehr hoch ist."
+                                  "Inflation ist ein anderes Wort für Geldentwertung.",
+                                  "Inflation entsteht, wenn das Angebot an Waren grösser ist als die Nachfrage.",
+                                  "Die Regierung sorgt bei einer Inflation dafür, dass alle Preise stabil bleiben."
                                 ],
-                                "subContentId": "3222e23e-bebb-4577-94ee-c00d0a9a2065",
-                                "tip": "Überlegen Sie, was laut Video passiert, wenn ein Produkt sehr begehrt, aber nur begrenzt verfügbar ist (1:08-1:16)."
+                                "subContentId": "995f00a6-c716-49eb-9cc3-f8fc8897cceb",
+                                "tip": "Was ist die Kernaussage zur Wertentwicklung des Geldes bei einer Inflation (0:41)?"
                               }
                             ]
                           },
-                          "subContentId": "1772dcb2-f74f-4a06-bce8-df072372a075",
+                          "subContentId": "761ffd7e-e903-4ff7-92ae-348a58c8487f",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Grundlagen und erste Ursachen der Inflation",
+                            "title": "Grundlagen der Inflation",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Grundlagen und erste Ursachen der Inflation"
+                            "extraTitle": "Grundlagen der Inflation"
                           }
                         },
                         "pause": true,
@@ -310,8 +310,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 156,
-                          "to": 157
+                          "from": 145,
+                          "to": 146
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -337,41 +337,211 @@
                             "summaries": [
                               {
                                 "summary": [
-                                  "Ein starker Preisanstieg ist vor allem für Menschen mit tiefem Lohn schwierig.",
-                                  "Menschen mit tiefem Lohn können sich bei starker Inflation mehr leisten.",
-                                  "Eine schnelle und starke Teuerung ist für alle Menschen unproblematisch."
+                                  "Inflation kann durch steigende Produktionskosten wie Löhne und Rohstoffe entstehen.",
+                                  "Inflation entsteht ausschliesslich, wenn die Regierung zu wenig Geld druckt.",
+                                  "Sinkende Produktionskosten sind ein Hauptgrund für eine starke Inflation."
                                 ],
-                                "subContentId": "349cdfcd-c853-4183-bc6f-6cc4225d33bd",
-                                "tip": "Für wen wird es laut Video schwierig, wenn die Preise sehr schnell und stark ansteigen (1:44-1:48)?"
+                                "subContentId": "752f2622-248c-44fd-97c0-5a6c1cfa3dc8",
+                                "tip": "Welche Gründe für Preissteigerungen werden im Video ab 1:30 genannt?"
                               },
                               {
                                 "summary": [
-                                  "Wegen der Corona-Pandemie konnte China weniger Produkte herstellen.",
-                                  "Die Corona-Pandemie führte dazu, dass Produkte weltweit billiger wurden.",
-                                  "Während der Pandemie hat China die Produktion und den Transport erhöht."
+                                  "Eine Folge der Inflation ist, dass Ersparnisse an Wert verlieren.",
+                                  "Ersparnisse auf der Bank sind sicher vor den Auswirkungen der Inflation.",
+                                  "Durch Inflation steigt das Vertrauen der Menschen in die Preisstabilität."
                                 ],
-                                "subContentId": "4ed88bfb-148e-4710-aaa6-6e5bb12d4899",
-                                "tip": "Welchen Einfluss hatte die Corona-Pandemie auf die Produktion in China (2:02-2:11)?"
+                                "subContentId": "a5d0e474-a1cc-44c5-9a4a-f3aca6296ae1",
+                                "tip": "Was passiert laut Video (1:51) mit den Ersparnissen der Leute?"
                               },
                               {
                                 "summary": [
-                                  "Wegen des Ukraine-Kriegs verzichten Länder auf Rohstoffe aus Russland.",
-                                  "Der Krieg in der Ukraine hat zu sinkenden Preisen für Benzin und Gas geführt.",
-                                  "Seit dem Krieg liefert Russland mehr Erdöl und Gas an andere Länder."
+                                  "Für Personen mit Schulden kann eine Inflation vorteilhaft sein, da der Schuldenberg an Wert verliert.",
+                                  "Schulden werden durch eine Inflation automatisch und vollständig erlassen.",
+                                  "Inflation führt dazu, dass die Zinsen auf bestehende Schulden sofort sinken."
                                 ],
-                                "subContentId": "fd70fabd-472d-471d-8a44-b1d21907f45b",
-                                "tip": "Wie beeinflusst der Krieg in der Ukraine die Verfügbarkeit von Rohstoffen aus Russland (2:21-2:40)?"
+                                "subContentId": "81baa9fd-2b05-46d6-b098-ec91d98f57b8",
+                                "tip": "Für wen ist die Inflation laut Video (2:00) eine gute Nachricht?"
                               }
                             ]
                           },
-                          "subContentId": "3d6c83e7-7442-4c09-98a7-9a894cf0d1f6",
+                          "subContentId": "60399445-fc4f-47cf-b86c-b5dc2e4201ea",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Folgen und weitere Ursachen der Inflation",
+                            "title": "Ursachen und Folgen der Inflation",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Folgen und weitere Ursachen der Inflation"
+                            "extraTitle": "Ursachen und Folgen der Inflation"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 255,
+                          "to": 256
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Deflation ist der Gegensatz zur Inflation, bei dem das Geld an Wert gewinnt.",
+                                  "Deflation bedeutet, dass die Preise für alle Waren und Dienstleistungen stark ansteigen.",
+                                  "Bei einer Deflation verliert das Geld an Wert, genau wie bei der Inflation."
+                                ],
+                                "subContentId": "0bdc2543-667d-4f62-a56c-4e6632d0f464",
+                                "tip": "Wie wird die Deflation im Video im Verhältnis zur Inflation definiert (2:33)?"
+                              },
+                              {
+                                "summary": [
+                                  "Verbraucher zögern bei einer Deflation ihre Käufe hinaus in der Hoffnung auf weiter fallende Preise.",
+                                  "In einer Deflation geben die Menschen ihr Geld sofort aus, weil alles so günstig ist.",
+                                  "Das Verhalten der Konsumenten hat keinen Einfluss auf die Entwicklung einer Deflation."
+                                ],
+                                "subContentId": "d61dbda2-1907-418f-9001-83b1920e0d96",
+                                "tip": "Wie reagieren die Verbraucher auf fallende Preise laut Video (3:40-3:44)?"
+                              },
+                              {
+                                "summary": [
+                                  "Eine Deflation kann zu einer Negativspirale aus Produktionsdrosselung und Entlassungen führen.",
+                                  "Deflation kurbelt die Wirtschaft an, da Unternehmen ihre Investitionen erhöhen.",
+                                  "Während einer Deflation stellen Unternehmen mehr Arbeiter ein, um die Produktion zu steigern."
+                                ],
+                                "subContentId": "a59b613f-196d-4144-a187-fd33676f3770",
+                                "tip": "Welche Kettenreaktion wird ab 3:46 im Video beschrieben?"
+                              }
+                            ]
+                          },
+                          "subContentId": "8d5d7df3-951a-497a-9bf9-21832a294428",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Grundlagen der Deflation",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Grundlagen der Deflation"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 324,
+                          "to": 325
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Das Ziel der EZB ist es, die Preisstabilität bei einem Preisanstieg von unter 2 % zu halten.",
+                                  "Die EZB strebt eine möglichst hohe Inflationsrate an, um die Wirtschaft zu stärken.",
+                                  "Die EZB ist nur für die Stabilität des Bierpreises in Deutschland zuständig."
+                                ],
+                                "subContentId": "688087b7-0bb9-4226-9d4c-ffcd166b84c6",
+                                "tip": "Welchen Zielwert für den Preisanstieg verfolgt die EZB (4:23-4:25)?"
+                              },
+                              {
+                                "summary": [
+                                  "Die EZB steuert den Geldfluss hauptsächlich durch die Festlegung der Zinshöhe bei Krediten.",
+                                  "Die EZB kontrolliert die Preise, indem sie den Unternehmen direkte Preisvorgaben macht.",
+                                  "Die einzige Aufgabe der EZB ist es, den Ölpreis zu beobachten."
+                                ],
+                                "subContentId": "49242ba5-f60e-4818-80f9-d589a7268a30",
+                                "tip": "Welches Instrument nutzt die EZB, um den Geldfluss zu steuern (5:01-5:05)?"
+                              },
+                              {
+                                "summary": [
+                                  "Hohe Zinsen machen Kredite teurer, was die Leute dazu veranlasst, mehr zu sparen.",
+                                  "Wenn die EZB die Zinsen anhebt, nehmen die Menschen mehr Kredite auf.",
+                                  "Niedrige Zinsen führen dazu, dass die Menschen ihr Geld lieber sparen als es auszugeben."
+                                ],
+                                "subContentId": "aa13e6aa-3885-4e8c-8b18-f274bea7ef27",
+                                "tip": "Was ist die Folge von hohen Zinsen laut Video (5:13-5:18)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "d56bdb51-28c7-4f9c-8ff1-57e1d37fcaea",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Kontrolle durch die EZB",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Kontrolle durch die EZB"
                           }
                         },
                         "pause": true,
@@ -425,12 +595,12 @@
                         "progressText": "Fortschritt :num von :total",
                         "summaries": [
                           {
-                            "subContentId": "965fba4b-625f-4dde-8fca-7460cb8a4cc6",
+                            "subContentId": "56e46a84-76ce-42e1-af42-974ebe625e2e",
                             "tip": ""
                           }
                         ]
                       },
-                      "subContentId": "dca425ce-eebc-4364-86e7-f28db4d438b7",
+                      "subContentId": "24a5d54a-1db8-46f4-adbe-452ba13c707a",
                       "metadata": {
                         "contentType": "Summary",
                         "license": "U",
@@ -504,19 +674,19 @@
               "metadata": {
                 "contentType": "Interactive Video",
                 "license": "U",
-                "title": "Interaktives Video: Inflation erklärt",
+                "title": "Interaktives Video: Grundlagen von Inflation und Deflation",
                 "authors": [],
                 "changes": [],
-                "extraTitle": "Interaktives Video: Inflation erklärt"
+                "extraTitle": "Interaktives Video: Grundlagen von Inflation und Deflation"
               },
-              "subContentId": "f4753f9e-a5ef-4e95-b2b9-ef67b3f31c2b"
+              "subContentId": "cbd7cf5b-4440-4c04-b34c-b00eb4cce20c"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "1d891b75-1240-4cf2-8837-4dbe71c2f83e",
+      "subContentId": "59cdd9bf-59ae-462e-b338-117ca9d7500c",
       "metadata": {
         "contentType": "Column",
         "license": "U",
@@ -542,7 +712,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "d97ebc0f-8419-4400-9b6c-dd6e2fbbb2e8"
+              "subContentId": "5bbcff45-dc51-42ae-9385-1f3eaf6dd5f7"
             },
             "useSeparator": "auto"
           },
@@ -564,32 +734,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Was ist ein anderes Wort für Inflation, das im Video genannt wird?</p>",
+                      "question": "<p>Was bedeutet der Begriff „Inflation“ laut Video?</p>",
                       "answers": [
                         {
-                          "text": "Teuerung.",
+                          "text": "Ein dauerhafter Anstieg des allgemeinen Preisniveaus.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> 'Teuerung' wird als ein anderes Wort für Inflation genannt (0:23).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das ist die exakte Definition aus dem Video (0:36).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Preissenkung.",
+                          "text": "Ein kurzfristiger Rückgang der Preise für Lebensmittel.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Preissenkung ist das Gegenteil von Inflation.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Ein Preisrückgang wäre das Gegenteil, und Inflation ist ein dauerhafter Prozess.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Wirtschaftskrise.",
+                          "text": "Eine staatliche Massnahme zur Erhöhung der allgemeinen Löhne.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Wirtschaftskrise kann mit Inflation zusammenhängen, ist aber nicht dasselbe.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Lohnsteigerungen können eine Ursache sein, sind aber nicht die Definition von Inflation.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -650,7 +820,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "6be0f2b3-049b-4a18-af55-b38d0496cb45",
+                    "subContentId": "345631ef-3f16-4be2-950e-5675eaf4707f",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -663,32 +833,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welcher der folgenden Bereiche wird laut Video zur Beobachtung der Preisentwicklung herangezogen?</p>",
+                      "question": "<p>Was ist der genaue Gegensatz zur Inflation?</p>",
                       "answers": [
                         {
-                          "text": "Wohnungsmieten.",
+                          "text": "Die Deflation.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wohnungsmieten werden explizit als Beispiel genannt (0:37).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Deflation wird im Video (2:33) als exakter Gegensatz vorgestellt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Online-Streaming-Abos.",
+                          "text": "Die Preisstabilität.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dieser Bereich wurde im Video nicht als Beispiel aufgeführt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Preisstabilität ist das Ziel, um Inflation und Deflation zu vermeiden.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Gebühren für Bankkonten.",
+                          "text": "Die Geldentwertung.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Bankgebühren wurden im Video nicht als Beispiel genannt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Geldentwertung ist eine Folge der Inflation, nicht ihr Gegensatz.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -749,7 +919,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "ce5a18c3-392b-48f0-aeae-29c25a75292d",
+                    "subContentId": "a288b398-dc8f-4e43-8fc7-6805774a8d39",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -762,32 +932,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welches Land wird im Zusammenhang mit Produktionsproblemen durch die Corona-Pandemie genannt?</p>",
+                      "question": "<p>Welche Institution kümmert sich in Europa um die Preisstabilität?</p>",
                       "answers": [
                         {
-                          "text": "China.",
+                          "text": "Die Europäische Zentralbank (EZB).",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erwähnt, dass China wegen der Pandemie nicht so viele Produkte herstellen konnte (2:07).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video nennt bei 4:14 klar die EZB als zuständige Institution.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Russland.",
+                          "text": "Die nationale Regierung jedes einzelnen Landes.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Russland wird im Zusammenhang mit dem Krieg und Rohstoffen genannt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Nationale Regierungen sind Teil des Wirtschaftssystems, aber die zentrale Steuerung der Geldpolitik liegt bei der EZB.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Schweiz.",
+                          "text": "Die Weltbank in Zusammenarbeit mit den Vereinten Nationen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Schweiz wird in diesem Kontext nicht erwähnt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Weltbank hat andere Aufgaben; für das Euro-Währungsgebiet ist die EZB zuständig.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -848,7 +1018,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "3bed4cd9-075a-4869-8a26-35d763e1339e",
+                    "subContentId": "66d031b8-38c1-461f-a004-4e403cf90a66",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -861,32 +1031,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welche Rohstoffe aus Russland werden als Beispiel für eine kriegsbedingte Verknappung genannt?</p>",
+                      "question": "<p>Was ist eine im Video genannte Folge der Inflation für Menschen mit Schulden?</p>",
                       "answers": [
                         {
-                          "text": "Erdöl, Gas und Benzin.",
+                          "text": "Der Schuldenberg wird geringer.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Im Video werden Erdöl, Gas und Benzin als Beispiele genannt (2:27).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt bei 2:12, dass der Wert der Schulden durch Inflation sinkt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Getreide und Sonnenblumenöl.",
+                          "text": "Die Schulden werden sofort erlassen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese Rohstoffe wurden im Video nicht im Zusammenhang mit Russland genannt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Schulden verschwinden nicht, ihr realer Wert nimmt nur ab.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Holz, Papier und Baumwolle.",
+                          "text": "Die Zinsen auf die Schulden steigen stark an.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese Rohstoffe wurden in diesem Kontext nicht erwähnt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video spricht von einem geringer werdenden Schuldenberg, nicht von Zinsänderungen.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -947,7 +1117,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "ed69f3c9-6630-47d0-b2de-6bc370ebae19",
+                    "subContentId": "050b827c-aab7-46b4-970e-3fd6bff605da",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -960,32 +1130,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Was ist die direkte Folge von Inflation für Konsumentinnen und Konsumenten?</p>",
+                      "question": "<p>Warum verlieren Ersparnisse bei einer Inflation an Wert?</p>",
                       "answers": [
                         {
-                          "text": "Ihre Kaufkraft sinkt.",
+                          "text": "Weil die Kaufkraft des Geldes sinkt.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Bei Inflation können sie sich für gleich viel Geld weniger kaufen (0:06), ihre Kaufkraft sinkt also.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Der gesparte Betrag bleibt zwar gleich, man kann sich aber weniger dafür kaufen.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Sie erhalten höhere Löhne.",
+                          "text": "Weil die Banken die Zinsen für Sparkonten sofort senken müssen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video erklärt, dass die Löhne oft gleich bleiben, was das Problem verschärft (1:51).",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Zinsen sind ein anderer Aspekt. Der Wertverlust geschieht durch den Kaufkraftverlust (1:51).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Produktauswahl wird grösser.",
+                          "text": "Weil der Staat eine automatische Steuer auf alle Ersparnisse erhebt.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Inflation wird oft durch eine Verknappung (kleinere Auswahl) verursacht.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Der Wertverlust ist ein wirtschaftlicher Prozess, keine direkte Steuer.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1046,7 +1216,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "1474f555-7c37-4e6c-8626-de24eb79d6c1",
+                    "subContentId": "3874f9aa-9761-4eb6-92b3-52ec11367414",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1059,32 +1229,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Warum führt eine hohe Nachfrage bei knappem Angebot zu höheren Preisen?</p>",
+                      "question": "<p>Weshalb führt eine Deflation oft zu einer wirtschaftlichen Krise?</p>",
                       "answers": [
                         {
-                          "text": "Weil die Leute bereit sind, mehr für das knappe Gut zu bezahlen.",
+                          "text": "Weil Konsumenten und Firmen Käufe und Investitionen aufschieben.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt, dass die Leute bereit sind, mehr zu zahlen, wenn sie etwas wollen und es davon zu wenig gibt (1:11-1:16).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Diese abwartende Haltung führt zu einer Negativspirale aus Produktionsdrosselung und Entlassungen (3:40-4:05).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil die Firmen gezwungen sind, die Produktionskosten zu senken.",
+                          "text": "Weil die Regierung die Produktion von wichtigen Gütern gesetzlich verbietet.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dies ist nicht die Begründung, die im Video genannt wird.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Produktion sinkt aufgrund der mangelnden Nachfrage, nicht durch ein Verbot.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil der Staat vorschreibt, die Preise in diesem Fall zu erhöhen.",
+                          "text": "Weil die Preise so schnell fallen, dass niemand mehr den Wert der Waren kennt.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Von staatlichen Vorschriften ist im Video nicht die Rede.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Der Hauptgrund ist die Kaufzurückhaltung, nicht die Verwirrung über die Preise.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1145,7 +1315,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "b6a69470-5f43-45c5-acef-803ebde76bf1",
+                    "subContentId": "bfcd1ebf-67d2-4efa-91ae-dfe4461d365e",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1158,32 +1328,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Inwiefern unterscheidet sich ein normaler Preisanstieg von einer problematischen Inflation?</p>",
+                      "question": "<p>Wie beeinflusst die EZB die Geldmenge, um die Preisstabilität zu sichern?</p>",
                       "answers": [
                         {
-                          "text": "Durch die Geschwindigkeit und Stärke des Anstiegs.",
+                          "text": "Durch die Anpassung der Zinshöhe für Kredite.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video betont, dass es schwierig wird, wenn Preise 'sehr schnell und stark ansteigen' (1:44).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt ab 5:03, dass die Steuerung der Zinsen das zentrale Instrument ist.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Nur eine problematische Inflation betrifft die Lebensmittelpreise.",
+                          "text": "Indem sie den Bürgern direkt Geld ausbezahlt oder wegnimmt.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Jeder Preisanstieg kann Lebensmittel betreffen, nicht nur der problematische.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die EZB agiert über die Geschäftsbanken und den Zinssatz, nicht durch direkte Zahlungen an Bürger.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Ein normaler Anstieg wird nicht von Experten gemessen.",
+                          "text": "Durch das sofortige Verbot von Handel mit bestimmten Gütern wie Öl.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Experten beobachten die allgemeine Preisentwicklung.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die EZB beobachtet den Ölpreis, aber verbietet nicht den Handel damit.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1244,7 +1414,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "d5c21cf3-b616-44b1-9e91-77c6daab7475",
+                    "subContentId": "504bcce0-3129-486c-85c7-a88e4809d31c",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1257,32 +1427,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welches grundlegende ökonomische Prinzip erklärt die Preissteigerungen durch Pandemie und Krieg?</p>",
+                      "question": "<p>Was ist der Zusammenhang zwischen Geldmenge und Gütermenge bei einer Inflation?</p>",
                       "answers": [
                         {
-                          "text": "Eine Verknappung des Angebots führt zu höheren Preisen.",
+                          "text": "Die Geldmenge wächst schneller als die Gütermenge.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> In beiden Fällen führt eine Reduktion der verfügbaren Güter oder Rohstoffe zum Preisanstieg.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wenn mehr Geld auf die gleiche Menge an Gütern trifft, steigen die Preise (1:12).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Eine Steigerung der globalen Produktion führt zu höheren Preisen.",
+                          "text": "Die Gütermenge wächst viel schneller als die Geldmenge.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Laut Video führt eine Verknappung, keine Steigerung der Produktion zu höheren Preisen.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dies würde tendenziell zu einer Deflation führen, da mehr Waren um weniger Geld konkurrieren.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Eine staatliche Kontrolle der Preise führt automatisch zu höheren Preisen.",
+                          "text": "Geld- und Gütermenge haben keinen direkten Einfluss auf die Inflation.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist nicht das Prinzip, das im Video als Ursache genannt wurde.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Laut Video ist genau dieses Verhältnis eine zentrale Ursache für Inflation.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1343,7 +1513,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "457c808b-288b-44a2-94a1-8dbfd17c7258",
+                    "subContentId": "72587c51-f56a-4133-8619-f3412e7ce286",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1356,32 +1526,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Ein neues Smartphone ist extrem beliebt, aber wegen fehlender Chips kann der Hersteller nur wenige liefern. Was ist die wahrscheinliche Folge für den Preis?</p>",
+                      "question": "<p>Stellen Sie sich vor, die Leitzinsen sind sehr niedrig. Was ist eine wahrscheinliche Folge gemäss Video?</p>",
                       "answers": [
                         {
-                          "text": "Der Preis wird steigen.",
+                          "text": "Es wird viel Geld nachgefragt.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wie im Video erklärt, führt eine hohe Nachfrage bei knappem Angebot zu steigenden Preisen (1:08-1:16).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Niedrige Zinsen machen Kredite billig, weshalb die Nachfrage nach Geld steigt (5:07).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Der Preis wird stabil bleiben.",
+                          "text": "Die Menschen sparen vermehrt ihr Geld auf der Bank.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Gemäss den im Video erklärten Prinzipien ist dies unwahrscheinlich.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Bei niedrigen Zinsen lohnt sich Sparen weniger, was den Konsum anregt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Der Preis wird vom Hersteller gesenkt.",
+                          "text": "Unternehmen stellen ihre Investitionen vollständig ein.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das wäre in dieser Situation wirtschaftlich unlogisch.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Im Gegenteil, niedrige Zinsen sollen Investitionen anregen, da Kredite günstig sind.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1442,7 +1612,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "4f164fd1-f4bf-40dd-81b4-5918211f324d",
+                    "subContentId": "0020efec-4d11-401b-826c-5748fe9abbbf",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1455,32 +1625,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Die Mieten und Lebensmittelpreise sind stark gestiegen, Ihr Lohn aber nicht. Was bedeutet das für Sie?</p>",
+                      "question": "<p>Ein Unternehmen bemerkt, dass die Rohstoffpreise stark steigen. Wie wird es wahrscheinlich reagieren, was zu Inflation führen kann?</p>",
                       "answers": [
                         {
-                          "text": "Sie müssen auf einige Sachen verzichten.",
+                          "text": "Es gibt die Kosten an die Verbraucher weiter.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video beschreibt genau diese Situation: Bei gleichbleibendem Lohn muss man auf Dinge verzichten (1:51-1:59).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wie im Video (1:34) erklärt, werden steigende Produktionskosten durch Preiserhöhungen weitergereicht.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Sie können sich mehr leisten als vorher.",
+                          "text": "Es senkt die Verkaufspreise, um mehr Kunden zu gewinnen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Da die Kosten steigen, aber das Einkommen nicht, verschlechtert sich die finanzielle Situation.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das wäre wirtschaftlich unlogisch und würde die Gewinne des Unternehmens schmälern.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Ihre finanzielle Situation bleibt unverändert.",
+                          "text": "Es stellt die Produktion sofort und ohne Ankündigung ein.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Kaufkraft Ihres Geldes sinkt, also verändert sich Ihre Situation.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das wäre eine extreme Reaktion; eine Preisanpassung ist wahrscheinlicher.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1541,7 +1711,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "a9d51a4c-a9ff-480a-8699-233d4022ee0e",
+                    "subContentId": "39f7c7c9-4186-46ff-913b-fb68e2e963bd",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1554,32 +1724,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Eine Dürre zerstört die Kakaoernten in den Anbauländern. Was passiert wahrscheinlich mit dem Preis für Schokolade in der Schweiz?</p>",
+                      "question": "<p>Sie hören in den Nachrichten, dass eine Deflation droht. Warum könnten Sie den Kauf eines neuen Laptops aufschieben?</p>",
                       "answers": [
                         {
-                          "text": "Der Preis für Schokolade steigt.",
+                          "text": "Sie hoffen, dass der Laptop bald noch billiger wird.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist ein Beispiel für teurer werdende Rohstoffe (Kakao), was zu teureren Produkten führt (1:20-1:36).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist die im Video (3:42) beschriebene typische Reaktion der Verbraucher in einer Deflation.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Der Preis für Schokolade sinkt.",
+                          "text": "Sie befürchten, dass die Qualität der Laptops rapide abnimmt.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Verknappung des wichtigsten Rohstoffs macht das Endprodukt teurer.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Erwartung fallender Preise ist der entscheidende Grund für die Kaufzurückhaltung.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Der Preis für Schokolade bleibt gleich.",
+                          "text": "Sie denken, dass Laptops wegen der Krise bald nicht mehr hergestellt werden.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Produktionskosten ändern sich, also ist eine Preisänderung wahrscheinlich.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Hoffnung auf einen Preisvorteil ist der primäre Antrieb, nicht die Angst vor Produktionsstopps.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1640,7 +1810,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "ef97528d-65d9-4664-94a8-7561112673dd",
+                    "subContentId": "9c81f295-d8d7-438e-b6d7-2cf720d118ed",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1653,32 +1823,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Die EU stoppt den Import von günstigen Textilien aus einem Land. Was ist eine mögliche Folge für die Kleiderpreise in der EU?</p>",
+                      "question": "<p>Die EZB erhöht die Zinsen stark. Was bedeutet das für eine Person, die einen grossen Kredit aufnehmen will?</p>",
                       "answers": [
                         {
-                          "text": "Die Kleiderpreise könnten steigen.",
+                          "text": "Der Kredit wird für sie teurer.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Ähnlich wie beim Verzicht auf russische Rohstoffe (2:32) verknappt dies das Angebot, was zu steigenden Preisen führen kann.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Hohe Zinsen machen Kredite und damit das Geld teurer, wie im Video (5:13) erklärt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Kleiderpreise werden sicher sinken.",
+                          "text": "Der Kredit wird für sie deutlich günstiger.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Der Wegfall einer günstigen Quelle führt eher zu Preissteigerungen.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Gegenteil ist der Fall. Höhere Zinsen verteuern die Aufnahme von Fremdkapital.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Alle Kleider werden sofort ausverkauft.",
+                          "text": "Die Bank ist nun verpflichtet, ihr den Kredit zu geben.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dies ist eine Übertreibung und keine direkte, logische Folge.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Höhere Zinsen machen eine Kreditvergabe nicht wahrscheinlicher, eher das Gegenteil.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1739,7 +1909,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "634ab073-37dd-4ada-855b-52fbe9ed7799",
+                    "subContentId": "4101beb5-fcf8-4340-9ad6-2a79ab71a5f2",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1752,231 +1922,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Die Begriffe 'Inflation' und 'Teuerung' beschreiben gegensätzliche Phänomene.</p>",
-                      "correct": "false",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video stellt klar, dass 'Teuerung' ein anderes Wort für 'Inflation' ist (0:23).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Die beiden Begriffe sind synonym."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "e3248c91-89b4-463d-a58b-6a02935d2b8c",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Preissteigerungen sind immer ein Zeichen für eine schlechte wirtschaftliche Lage.</p>",
-                      "correct": "false",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erklärt, dass langsame und leichte Preissteigerungen 'ganz normal' sind (1:39).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Nur schnelle und starke Preissteigerungen werden als problematisch beschrieben."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "b1260461-c6d7-43af-a8d3-f89c82f5972a",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Wenn eine Firma mehr für Rohstoffe bezahlen muss, bleibt der Verkaufspreis für Kunden immer gleich.</p>",
-                      "correct": "false",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erklärt, dass wenn die Herstellung teurer wird, oft auch der Verkaufspreis steigt (1:33-1:36).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Steigende Produktionskosten werden oft an die Kunden weitergegeben."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "138fdd96-2a16-4a74-9248-6f7038a8667c",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Die Löhne der Menschen steigen automatisch im gleichen Masse wie die Inflation.</p>",
-                      "correct": "false",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video hebt hervor, dass der Lohn oft gleich bleibt, was das Problem für Menschen mit tiefem Einkommen verschärft (1:51).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Dies ist ein Kernproblem, das im Video beschrieben wird."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "2b9f736f-4fb7-496d-8316-add1f694779b",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Wenn in einem milden Winter sehr wenig Heizöl nachgefragt wird, müsste der Preis für Heizöl gemäss den im Video erklärten Prinzipien eher sinken.</p>",
+                      "question": "<p>Eine Inflation von unter 2 % pro Jahr wird laut Video als angestrebte „Preisstabilität“ bezeichnet.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
@@ -1985,8 +1931,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Eine geringere Nachfrage bei gleichbleibendem Angebot führt tendenziell zu sinkenden Preisen.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Dies ist der Umkehrschluss des Prinzips, dass hohe Nachfrage bei knappem Angebot die Preise treibt (0:57)."
+                        "feedbackOnCorrect": "✅ Richtig! Die EZB zielt auf einen Preisanstieg von unter 2 % ab, um Preisstabilität zu gewährleisten (4:39).",
+                        "feedbackOnWrong": "❌ Falsch. Doch, genau dieser Wert wird im Video als Ziel für Preisstabilität genannt."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2019,7 +1965,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "e5c9dec7-fed4-4cd1-aa99-a0afc0d6074d",
+                    "subContentId": "d27b2f74-0f52-44ec-b5d8-016db871bc83",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2032,119 +1978,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Ein Coiffeur verdoppelt seine Preise, weil er als Einziger in der Stadt einen sehr beliebten Haarschnitt anbietet. Dies entspricht dem im Video erklärten Prinzip von Angebot und Nachfrage.</p>",
-                      "correct": "true",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Hohe Nachfrage und knappes Angebot können zu steigenden Preisen führen (1:08-1:16).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Dies ist ein klassisches Beispiel für den Zusammenhang zwischen Knappheit und Preis."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "fbbb57f4-0827-4e40-ad8a-4c9ff8bbf879",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Ihr wöchentlicher Einkauf ist 10 CHF teurer als im Vorjahr, obwohl Sie das Gleiche kaufen. Dies ist ein konkretes Beispiel für Inflation.</p>",
-                      "correct": "true",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Sie bekommen für mehr Geld die gleiche Menge an Waren, was bedeutet, dass das Geld an Wert verloren hat (0:06-0:15).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Genau dieses Phänomen – für das Gleiche mehr bezahlen zu müssen – beschreibt Inflation."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "590a2501-a9d5-468f-8955-71e4d101a90f",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Ein Land entdeckt riesige neue Erdölvorkommen. Dies würde den weltweiten Ölpreis wahrscheinlich weiter in die Höhe treiben.</p>",
+                      "question": "<p>Eine Deflation ist für die Wirtschaft immer positiv, da alle Waren und Dienstleistungen billiger werden.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -2153,8 +1987,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Ein massiv erhöhtes Angebot an einem Rohstoff führt gemäss den Video-Prinzipien zu sinkenden Preisen.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Eine Ausweitung des Angebots führt in der Regel zu Preissenkungen, wie im Beispiel mit Russland (2:40) umgekehrt erklärt wird."
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erklärt, dass eine Deflation zu einer gefährlichen Negativspirale für die Wirtschaft führen kann (3:46).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video warnt explizit vor den negativen Folgen einer Deflation."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2187,7 +2021,343 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "62b34cea-787e-44e7-ad63-11f70cdb64f2",
+                    "subContentId": "ecd65430-968f-4c08-a78b-d934144e171d",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Steigende Löhne können eine Ursache für Inflation sein, weil Unternehmen die höheren Kosten auf die Preise aufschlagen.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Im Video werden steigende Produktionskosten, wozu auch Löhne zählen, als eine Ursache für Inflation genannt (1:30-1:37).",
+                        "feedbackOnWrong": "❌ Falsch. Doch, das ist korrekt. Höhere Löhne sind Teil der Produktionskosten, deren Anstieg an die Verbraucher weitergereicht werden kann."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "fce05363-3e77-4afd-8195-2b5efeb8ddf2",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Das Vertrauen der Menschen in den Wert des Geldes steigt während einer starken Inflation.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Laut Video (1:53) sinkt das Vertrauen in den Wert des Geldes bei Inflation.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video erklärt, dass das Vertrauen in den Geldwert sinkt."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "6a5547b2-3eff-46be-b5f1-bffced8b2549",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Wenn Sie für 20 Franken heute eine grosse Pizza bekommen, aber morgen für das gleiche Geld nur noch eine kleine, erleben Sie die Auswirkungen einer Deflation.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Dieses Beispiel beschreibt eine Inflation, bei der die Kaufkraft Ihres Geldes sinkt.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Dies ist ein klares Beispiel für Inflation (Geldentwertung), nicht Deflation."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "f9079c78-7f76-44fb-a148-c26bd4227e6e",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Ein Autohändler merkt, dass er kaum noch Autos verkauft, weil alle Kunden auf „noch bessere Angebote“ warten. Dies ist ein typisches Anzeichen einer Deflation.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Genau dieses Verhalten – das Hinauszögern von Anschaffungen in Erwartung weiter fallender Preise – ist ein Kennzeichen der Deflation (3:40).",
+                        "feedbackOnWrong": "❌ Falsch. Doch, das ist korrekt. Das Video beschreibt genau dieses abwartende Verhalten als typische Reaktion der Verbraucher in einer Deflation."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "9c0679f3-a5aa-49c5-b15f-41faf8150980",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Um eine aufkommende Inflation zu bekämpfen, würde die EZB die Zinsen wahrscheinlich senken.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Um eine Inflation zu bekämpfen, würde die EZB die Zinsen anheben, um Kredite teurer zu machen und die Geldnachfrage zu senken.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Die EZB würde die Zinsen anheben (5:10), um die Inflation zu dämpfen."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "93aeaa2a-d25b-4d24-a1d9-bf76f77c6daf",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Jemand hat vor 10 Jahren einen Kredit über 50'000 Franken aufgenommen. Durch eine langjährige, hohe Inflation fühlt sich die Rückzahlung der letzten Rate heute „leichter“ an. Dies ist ein nachvollziehbarer Effekt.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Das Video erklärt, dass Schulden durch Inflation real an Wert verlieren, was die Rückzahlung erleichtert (2:00-2:12).",
+                        "feedbackOnWrong": "❌ Falsch. Doch, die Aussage ist korrekt. Gemäss Video ist die Minderung des realen Schuldenwerts ein Nebeneffekt der Inflation."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "6ff0d7bd-a501-46e4-9621-63923bee5bd8",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2257,14 +2427,14 @@
                 "changes": [],
                 "extraTitle": "Verständnisfragen Quiz"
               },
-              "subContentId": "05dda197-51c9-4da2-9559-aa8515c19b26"
+              "subContentId": "d729df9b-29c2-4ef8-8414-eeb01665f70a"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "a8deae38-355d-4426-b500-9b87a8b6b7b8",
+      "subContentId": "ff8c0ea3-a3f4-4732-ba12-85167800b088",
       "metadata": {
         "contentType": "Column",
         "license": "U",
