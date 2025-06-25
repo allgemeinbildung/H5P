@@ -1,7 +1,7 @@
 {
   "showCoverPage": true,
   "bookCover": {
-    "coverDescription": "<h1 style=\"text-align:center\">Risikokompetenz</h1><h3 style=\"text-align:center\">Wie wir lernen, mit Risiken richtig umzugehen</h3>",
+    "coverDescription": "<h1 style=\"text-align:center\">Was ist Solidarität?</h1><h3 style=\"text-align:center\">Die Grundlagen einfach und klar erklärt</h3>",
     "coverMedium": {
       "params": {
         "decorative": false,
@@ -26,7 +26,7 @@
         "authors": [],
         "changes": []
       },
-      "subContentId": "575b42b5-1d8a-4b82-bd03-3dd0bd47f5c9"
+      "subContentId": "1980ecaa-1f57-4cba-aac4-8f9eda592d88"
     }
   },
   "chapters": [
@@ -36,7 +36,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Grundlagen des Risikomanagements</h2><p>Dieses Video erklärt, was <strong>Risiken</strong> sind und wie wir lernen können, besser mit ihnen umzugehen. Sie erfahren, wie sich ein Risiko aus <strong>Gefahr</strong> und <strong>Wahrscheinlichkeit</strong> zusammensetzt, warum unsere Gefühle uns bei der Einschätzung von <strong>Schock-Risiken</strong> täuschen und wie uns <strong>Fakten</strong> und einfache <strong>Faustregeln</strong> helfen, in einer unsicheren Welt kluge Entscheidungen zu treffen.</p><ul><li>Sie können <strong>erklären</strong>, wie ein <strong>Risiko</strong> aus den Komponenten <strong>Gefahr</strong> und <strong>Wahrscheinlichkeit</strong> entsteht.</li><li>Sie <strong>verstehen</strong>, warum Gefühle unsere Wahrnehmung von Risiken, insbesondere bei sogenannten <strong>Schock-Risiken</strong>, verzerren können.</li><li>Sie lernen, wie die Konzentration auf <strong>Fakten</strong> und <strong>absolute Zahlen</strong> hilft, Wahrscheinlichkeiten korrekt zu <strong>interpretieren</strong>.</li><li>Sie erkennen den Nutzen von <strong>Faustregeln</strong>, um in komplexen Situationen wie einer Pandemie <strong>bessere Entscheidungen</strong> zu treffen.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
+                "text": "<h2>Grundlagen der Solidarität</h2><p>Dieses Video erklärt Ihnen, was <strong>Solidarität</strong> bedeutet. Sie erfahren, wie sich Solidarität als Gefühl der <strong>Verbundenheit</strong> zeigt, das zu gegenseitiger <strong>Hilfe und Unterstützung</strong> führt. Anhand von Beispielen aus der Familie, Freundesgruppen und dem Schweizer Staat wird das Konzept verständlich gemacht.</p><ul><li>Sie können <strong>erklären</strong>, was unter <strong>Solidarität</strong> verstanden wird.</li><li>Sie können zwischen <strong>freiwilliger</strong> und vom Staat <strong>organisierter Solidarität</strong> unterscheiden.</li><li>Sie können verschiedene <strong>Beispiele</strong> für Solidarität im Alltag und im Schweizer Sozialsystem <strong>nennen</strong>.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -46,7 +46,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "4b23c4a3-19e5-4d6a-8260-9f9a66d9b2ed"
+              "subContentId": "d80302a7-09a6-4eeb-ba90-92d2a4824be1"
             },
             "useSeparator": "auto"
           },
@@ -55,85 +55,85 @@
               "params": {
                 "panels": [
                   {
-                    "title": "Risiko",
+                    "title": "Solidarität",
                     "content": {
                       "params": {
-                        "text": "<p>Das Zusammentreffen von <strong>Gefahr</strong> und <strong>Wahrscheinlichkeit</strong>, das je nach Ausprägung zu einem größeren oder kleineren Risiko führt.</p>"
+                        "text": "<p>Ein Gefühl der <strong>Verbundenheit</strong> mit anderen Menschen, das dazu führt, dass man sich gegenseitig <strong>unterstützt</strong> und hilft.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "26a3fae2-1be1-4cf7-8377-48397847c999",
+                      "subContentId": "c360a9b8-bac7-45c9-8d8e-3ad03182ef56",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Risiko",
+                        "title": "Definition: Solidarität",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Schock-Risiko",
+                    "title": "Freiwillige Solidarität",
                     "content": {
                       "params": {
-                        "text": "<p>Ein Ereignis, das sehr <strong>unwahrscheinlich</strong> ist, bei dem aber <strong>viele Menschen</strong> auf einmal sterben, wie bei einem Terroranschlag.</p>"
+                        "text": "<p>Eine Form der Hilfe, die <strong>freiwillig</strong> geschieht, wie zum Beispiel das Spenden von Kleidern oder der gemeinsame Einsatz für ein <strong>gutes Ziel</strong>.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "76a6378f-dcac-4e0b-bac2-b8d1a7e4cd0c",
+                      "subContentId": "6b49a39b-cb6e-4554-8aed-9761a9b0d698",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Schock-Risiko",
+                        "title": "Definition: Freiwillige Solidarität",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Alltägliche Risiken",
+                    "title": "Organisierte Solidarität",
                     "content": {
                       "params": {
-                        "text": "<p>Gefahren, die über die Zeit zu mehr Todesfällen führen, aber von uns aufgrund ihrer <strong>Gewöhnlichkeit</strong> als <strong>weniger ernst</strong> wahrgenommen werden.</p>"
+                        "text": "<p>Eine vom <strong>Staat</strong> gesetzlich vorgeschriebene Form der Solidarität, die alle Bürger zur Unterstützung verpflichtet.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "b00fd52d-5ce0-4237-b527-d987e705ff6c",
+                      "subContentId": "0dc68a96-5a49-451a-b364-1334ddf0f113",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Alltägliche Risiken",
+                        "title": "Definition: Organisierte Solidarität",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Absolute Zahlen",
+                    "title": "Krankenkasse",
                     "content": {
                       "params": {
-                        "text": "<p>Die konkreten Zahlen hinter Prozentangaben, die helfen, die tatsächliche <strong>Bedeutung</strong> einer <strong>Wahrscheinlichkeit</strong> besser zu verstehen.</p>"
+                        "text": "<p>Ein Beispiel für organisierte Solidarität, bei der alle monatlich Beiträge einzahlen, um die Behandlungskosten für <strong>kranke Menschen</strong> zu decken.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "f1eec012-663d-4451-baaa-363ee2d705c3",
+                      "subContentId": "0f8c9e56-d398-4d49-9eca-d67e26de0fad",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Absolute Zahlen",
+                        "title": "Definition: Krankenkasse",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Faustregeln",
+                    "title": "AHV (Alters- und Hinterbliebenen-Versicherung)",
                     "content": {
                       "params": {
-                        "text": "<p>Einfache Strategien, die auch in <strong>schwierigen Risikosituationen</strong> zu <strong>guten Entscheidungen</strong> führen können.</p>"
+                        "text": "<p>Eine vom Staat organisierte Versicherung, die das Einkommen von <strong>Pensionierten</strong> sichert, finanziert durch die Beiträge der arbeitenden Bevölkerung.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "417af79b-3537-4db5-ae5f-8a3e489e91b6",
+                      "subContentId": "be093c46-225e-483f-8658-82b65954da59",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Faustregeln",
+                        "title": "Definition: AHV (Alters- und Hinterbliebenen-Versicherung)",
                         "authors": [],
                         "changes": []
                       }
@@ -146,19 +146,19 @@
               "metadata": {
                 "contentType": "Accordion",
                 "license": "U",
-                "title": "Wichtige Begriffe",
+                "title": "Begriffe",
                 "authors": [],
                 "changes": [],
-                "extraTitle": "Wichtige Begriffe"
+                "extraTitle": "Begriffe"
               },
-              "subContentId": "99432e77-ac2c-45f4-8b90-e9d883946d26"
+              "subContentId": "2bcbb932-1acc-4ac0-9619-430edf5bae64"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "50490365-31cb-4054-9ad6-fe50add945bc",
+      "subContentId": "8f9d62e8-f66f-40d5-a782-d9c2ce78b9ae",
       "metadata": {
         "contentType": "Column",
         "license": "U",
@@ -174,7 +174,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Video: Risiko verstehen und bewerten</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu prüfen.</p>"
+                "text": "<h2>Video: Was ist Solidarität?</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu prüfen.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -184,7 +184,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "d18677af-4a84-4911-b68c-c9cae3b21303"
+              "subContentId": "c871c981-0ff9-4135-a5c4-ed6aff50e2e8"
             },
             "useSeparator": "auto"
           },
@@ -208,7 +208,7 @@
                     },
                     "files": [
                       {
-                        "path": "https://www.youtube.com/watch?v=YB_04Lu25Ko",
+                        "path": "https://www.youtube.com/watch?v=CKwofv4YOcc",
                         "mime": "video/YouTube",
                         "copyright": {
                           "license": "U"
@@ -225,8 +225,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 77,
-                          "to": 78
+                          "from": 107,
+                          "to": 108
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -252,41 +252,41 @@
                             "summaries": [
                               {
                                 "summary": [
-                                  "Ein Risiko ist das Zusammentreffen von Gefahr und Wahrscheinlichkeit.",
-                                  "Ein Risiko ist nur von der Höhe der potenziellen Gefahr abhängig.",
-                                  "Die Wahrscheinlichkeit eines Ereignisses ist das alleinige Kriterium für ein Risiko."
+                                  "Solidarität bedeutet, sich verbunden zu fühlen und sich gegenseitig zu unterstützen.",
+                                  "Solidarität ist ein Gefühl, das ausschliesslich innerhalb der eigenen Familie existiert.",
+                                  "Solidarität bedeutet, dass man immer die gleiche Meinung wie die anderen haben muss."
                                 ],
-                                "subContentId": "25344766-b806-4f59-8d9b-c904bbb61a1c",
-                                "tip": "Achten Sie auf die Definition von Risiko ganz am Anfang des Videos (0:20-0:23)."
+                                "subContentId": "bdbafed2-478f-4019-a140-efcd66480467",
+                                "tip": "Achten Sie auf die grundlegende Erklärung von Solidarität im Video (0:38-0:41)."
                               },
                               {
                                 "summary": [
-                                  "Bei Risikoentscheidungen verlässt sich unser Gehirn gerne auf Gefühle.",
-                                  "Menschen treffen Entscheidungen bei Risiken immer auf Basis rationaler Fakten.",
-                                  "Das Gehirn analysiert bei Risiken immer alle Fakten sehr langsam und gründlich."
+                                  "Als Gruppe für ein gemeinsames Ziel zusammenzuhalten, ist eine Form von Solidarität.",
+                                  "In solidarischen Gruppen erledigt immer nur eine Person die gesamte Arbeit für alle.",
+                                  "Das Spenden von Kleidern für Flüchtlingskinder ist keine echte Solidarität."
                                 ],
-                                "subContentId": "33987ff3-1e5b-49e0-9811-f74d6c7c7711",
-                                "tip": "Wie geht unser Gehirn laut Video bevorzugt mit Entscheidungen unter Risiko um (0:52-1:06)?"
+                                "subContentId": "5fe8d4bc-03d7-482f-a437-52a3d789ae49",
+                                "tip": "Überlegen Sie, welche Beispiele für freiwillige Solidarität im Video genannt werden (1:11-1:16)."
                               },
                               {
                                 "summary": [
-                                  "Sich auf Gefühle zu verlassen, erspart dem Gehirn anstrengendes Nachdenken.",
-                                  "Emotionale Entscheidungen sind laut Video immer genauer als faktenbasierte.",
-                                  "Das Gehirn nutzt Gefühle zur Entscheidung nur dann, wenn keinerlei Fakten verfügbar sind."
+                                  "Solidarität kann auch zwischen Menschen bestehen, die sich nicht persönlich kennen.",
+                                  "Man kann nur mit Menschen solidarisch sein, die man jeden Tag persönlich trifft.",
+                                  "Wenn Frauen für gleiche Löhne kämpfen, hat das nichts mit Solidarität zu tun."
                                 ],
-                                "subContentId": "df5a7040-fb47-4c18-a321-a419332f3026",
-                                "tip": "Welchen \"Vorteil\" hat es für das Gehirn, sich auf Gefühle zu verlassen, anstatt Fakten zu analysieren (1:09-1:11)?"
+                                "subContentId": "29643637-6f1f-433e-a509-2673efe3520c",
+                                "tip": "Das Video nennt Beispiele für Solidarität unter Unbekannten. Achten Sie auf den Abschnitt ab 1:25."
                               }
                             ]
                           },
-                          "subContentId": "38c92cd0-c338-4eb3-af84-f8dd6ecfa64c",
+                          "subContentId": "299f6e27-eceb-4518-89fe-e52062335006",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Grundlagen der Risikobewertung",
+                            "title": "Grundlagen und freiwillige Solidarität",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Grundlagen der Risikobewertung"
+                            "extraTitle": "Grundlagen und freiwillige Solidarität"
                           }
                         },
                         "pause": true,
@@ -310,8 +310,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 119,
-                          "to": 120
+                          "from": 152,
+                          "to": 153
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -337,41 +337,41 @@
                             "summaries": [
                               {
                                 "summary": [
-                                  "Schock-Risiken sind Ereignisse, die zwar schlimm, aber sehr unwahrscheinlich sind.",
-                                  "Schock-Risiken passieren sehr häufig und führen konstant zu vielen Todesfällen.",
-                                  "Ein Schock-Risiko ist ein Ereignis, das zwar wahrscheinlich ist, aber kaum Schaden verursacht."
+                                  "Die Beiträge an die Krankenkasse sind eine vom Staat organisierte Form der Solidarität.",
+                                  "In die Krankenkasse zahlt man nur dann Geld ein, wenn man auch wirklich krank ist.",
+                                  "Das Geld aus den Krankenkassenbeiträgen darf nur für die eigene Familie genutzt werden."
                                 ],
-                                "subContentId": "4a1ff2e7-1835-49f5-a66e-daf3bc84b062",
-                                "tip": "Was ist das Hauptmerkmal eines Schock-Risikos bezüglich seiner Eintrittswahrscheinlichkeit (1:21-1:26)?"
+                                "subContentId": "6e6a7913-74b0-42ff-8a06-13aea89ac179",
+                                "tip": "Hören Sie genau hin, wie die Krankenkasse als Beispiel für organisierte Solidarität erklärt wird (1:53-2:02)."
                               },
                               {
                                 "summary": [
-                                  "Menschen neigen dazu, das Risiko von Schock-Risiken wie Terroranschlägen zu überschätzen.",
-                                  "Die Angst vor Terroranschlägen entspricht laut Video exakt der statistischen Wahrscheinlichkeit.",
-                                  "Das Risiko von Ereignissen, bei denen viele Menschen auf einmal sterben, wird systematisch unterschätzt."
+                                  "Durch die AHV-Beiträge werden die Pensionierten finanziell unterstützt.",
+                                  "Die AHV ist eine freiwillige Spendenaktion für ältere Menschen in der Schweiz.",
+                                  "Die Beiträge für die AHV werden verwendet, um den Schutz des Regenwaldes zu finanzieren."
                                 ],
-                                "subContentId": "84344429-823a-4af5-9518-a84058bc2e59",
-                                "tip": "Wie schätzen wir die Gefahr von Schock-Risiken aus Angst tendenziell ein (1:33)?"
+                                "subContentId": "884c4fc9-5893-4303-aa1f-db37d004c1e9",
+                                "tip": "Wofür wird das Geld der «Alters- und Hinterbliebenen-Versicherung» (AHV) laut Video verwendet (2:07-2:15)?"
                               },
                               {
                                 "summary": [
-                                  "Alltägliche Risiken führen über längere Zeit betrachtet zu mehr Todesfällen.",
-                                  "Alltägliche Risiken sind im Vergleich zu Schock-Risiken harmlos und fordern kaum Opfer.",
-                                  "Die Gefahr von alltäglichen Risiken ist immer sofort sichtbar und wird daher ernster genommen."
+                                  "Das Gesetz schreibt vor, dass die Jungen solidarisch mit den Alten sind.",
+                                  "In der Schweiz basiert Solidarität gemäss Gesetz immer nur auf Freiwilligkeit.",
+                                  "Das Gesetz regelt ausschliesslich die Solidarität zwischen gesunden und kranken Menschen."
                                 ],
-                                "subContentId": "b43f0956-bca9-4e29-93a5-f9408ad77f0c",
-                                "tip": "Vergleichen Sie die langfristigen Folgen von alltäglichen Risiken mit denen von Schock-Risiken (1:45-1:48)."
+                                "subContentId": "b8e1882f-9f93-4c8c-9b70-f8109bb4695e",
+                                "tip": "Achten Sie darauf, welche Gruppen laut Gesetz solidarisch sein müssen (2:21-2:26)."
                               }
                             ]
                           },
-                          "subContentId": "1cec4d94-b322-46c0-bc38-62e35c868931",
+                          "subContentId": "91791b07-bb34-480d-a898-5e676d26b562",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Verzerrte Risikowahrnehmung",
+                            "title": "Vom Staat organisierte Solidarität",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Verzerrte Risikowahrnehmung"
+                            "extraTitle": "Vom Staat organisierte Solidarität"
                           }
                         },
                         "pause": true,
@@ -395,8 +395,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 173,
-                          "to": 174
+                          "from": 158,
+                          "to": 159
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -422,41 +422,41 @@
                             "summaries": [
                               {
                                 "summary": [
-                                  "Um Risiken besser einzuschätzen, sollten wir uns auf die Fakten konzentrieren.",
-                                  "Eine rein emotionale Einschätzung ist der beste Weg, um Risiken objektiv zu bewerten.",
-                                  "Fakten sind bei der Risikobewertung laut Video meistens irreführend und sollten ignoriert werden."
+                                  "Es wird zwischen freiwilliger und gesetzlich verpflichtender Solidarität unterschieden.",
+                                  "Wahre Solidarität kann niemals durch ein Gesetz vorgeschrieben oder erzwungen werden.",
+                                  "Jeder Mensch ist immer nur solidarisch, aber nie auf Solidarität von anderen angewiesen."
                                 ],
-                                "subContentId": "36211221-11d2-4a66-958b-ee1d50f97a0f",
-                                "tip": "Was empfiehlt das Video als Strategie für eine bessere Einschätzung von Risiken (1:53-1:56)?"
+                                "subContentId": "18cd0675-09f0-41de-8ae7-d534e727cf6e",
+                                "tip": "Hören Sie auf die Gegenüberstellung am Ende des Videos (2:32-2:34)."
                               },
                               {
                                 "summary": [
-                                  "Absolute Zahlen helfen dabei, prozentuale Angaben richtig zu interpretieren.",
-                                  "Prozentuale Angaben sind immer aussagekräftiger als die dahinterstehenden absoluten Zahlen.",
-                                  "Eine um 100 Prozent gestiegene Wahrscheinlichkeit bedeutet immer eine extreme Gefahr."
+                                  "Manchmal ist man auch selbst froh, wenn man Solidarität von anderen erfährt.",
+                                  "Solidarität ist immer eine einseitige Hilfe, die man ausschliesslich für andere leistet.",
+                                  "Besonders starke Menschen benötigen in ihrem Leben niemals die Solidarität von anderen."
                                 ],
-                                "subContentId": "a46e5c83-3f25-430e-b57d-3bc926d0f634",
-                                "tip": "Welchen Nutzen hat es, nach den absoluten Zahlen hinter Prozenten zu fragen (2:06-2:09)?"
+                                "subContentId": "d2f78a9b-28dc-447a-b4c2-20566047d148",
+                                "tip": "Was sagt der Sprecher ganz am Ende über die eigene Erfahrung mit Solidarität (2:37-2:42)?"
                               },
                               {
                                 "summary": [
-                                  "Faustregeln sind einfache Strategien, die zu guten Entscheidungen führen können.",
-                                  "Faustregeln sind komplexe mathematische Formeln zur exakten Risikoberechnung.",
-                                  "Faustregeln sind laut Video nur in völlig ungefährlichen Situationen eine sinnvolle Hilfe."
+                                  "Sich gegenseitig zu helfen ist ein zentrales Merkmal von gelebter Solidarität.",
+                                  "Solidarität beschränkt sich hauptsächlich auf die finanzielle Unterstützung durch den Staat.",
+                                  "Einem Freund ein T-Shirt zu leihen ist zwar nett, aber kein Beispiel für Solidarität."
                                 ],
-                                "subContentId": "250c1dd0-ed92-4a6e-8e80-0506299d2a9a",
-                                "tip": "Welchen Zweck erfüllen Faustregeln im Umgang mit schwierigen Risikosituationen (2:38-2:44)?"
+                                "subContentId": "f91f4597-9c00-441e-83a2-7bd0e6452912",
+                                "tip": "Denken Sie an die Eingangs-Szene und die Definition. Was ist die zentrale Handlung (0:10, 0:40)?"
                               }
                             ]
                           },
-                          "subContentId": "6ad8fa64-ffc8-4e86-9a78-f83f58fe314f",
+                          "subContentId": "b45c56cd-f39b-4a52-8bbf-092e9eccbbe7",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Rationaler Umgang mit Risiken",
+                            "title": "Zusammenfassung",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Rationaler Umgang mit Risiken"
+                            "extraTitle": "Zusammenfassung"
                           }
                         },
                         "pause": true,
@@ -510,12 +510,12 @@
                         "progressText": "Fortschritt :num von :total",
                         "summaries": [
                           {
-                            "subContentId": "f8612043-3ab4-42d5-9b1a-40af44015a6a",
+                            "subContentId": "5874ca80-4ec5-459a-a1d1-30884b3f072b",
                             "tip": ""
                           }
                         ]
                       },
-                      "subContentId": "1f0686b9-5cf9-4a75-9ed9-001f52a115b0",
+                      "subContentId": "7116c62f-7d48-45c1-8a9d-07b3563345a1",
                       "metadata": {
                         "contentType": "Summary",
                         "license": "U",
@@ -589,19 +589,19 @@
               "metadata": {
                 "contentType": "Interactive Video",
                 "license": "U",
-                "title": "Interaktives Video: Wie gehen wir mit Risiken um?",
+                "title": "Interaktives Video: Solidarität erklärt",
                 "authors": [],
                 "changes": [],
-                "extraTitle": "Interaktives Video: Wie gehen wir mit Risiken um?"
+                "extraTitle": "Interaktives Video: Solidarität erklärt"
               },
-              "subContentId": "12e6d2e1-c1b3-4c22-b8fb-6db4661cc608"
+              "subContentId": "7764f048-d03e-41a5-8b4f-4561a9259440"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "16681e46-9940-4c9b-9a24-132bc779e86e",
+      "subContentId": "5c2caa86-dfdb-4c7d-a978-67ae89c4d7af",
       "metadata": {
         "contentType": "Column",
         "license": "U",
@@ -617,7 +617,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Verständnisfragen</h2><p>Beantworten Sie zum Schluss die folgenden Fragen zum Inhalt des Videos, um Ihr Wissen zu festigen.</p>"
+                "text": "<h2>Verständnisfragen</h2><p>Beantworten Sie zum Schluss die folgenden Fragen zum Inhalt des Videos.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -627,7 +627,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "34f4b1f8-0731-4364-9c5e-ae6fc1401aff"
+              "subContentId": "dc85d166-f551-4266-8805-6acc53bd4364"
             },
             "useSeparator": "auto"
           },
@@ -649,32 +649,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Woraus setzt sich ein Risiko laut dem Video zusammen?</p>",
+                      "question": "<p>Was ist laut Video die einfachste Beschreibung von Solidarität?</p>",
                       "answers": [
                         {
-                          "text": "Aus Gefahr und Wahrscheinlichkeit.",
+                          "text": "Sich verbunden fühlen und gegenseitig unterstützen.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Ein Risiko ist das Zusammentreffen von Gefahr und Wahrscheinlichkeit (0:20).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das ist die zentrale Definition, die im Video bei 0:38 gegeben wird.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Aus Angst und Fakten.",
+                          "text": "Nur Geld an Organisationen für einen guten Zweck zu spenden.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Angst und Fakten beeinflussen unsere Entscheidungen, definieren aber nicht das Risiko selbst.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist nur ein Beispiel für Solidarität, aber nicht die grundlegende Definition.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Nur aus der Wahrscheinlichkeit, dass etwas passiert.",
+                          "text": "Immer die gleiche Meinung wie die eigenen Freunde zu haben.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Die Gefahr bzw. der mögliche Schaden ist die zweite, ebenso wichtige Komponente.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Solidarität bedeutet Unterstützung, nicht zwingend Übereinstimmung in allen Punkten.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -735,7 +735,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "3cfe6f97-ad11-48d0-931b-a6ec97c11e22",
+                    "subContentId": "40e3231b-c5f7-49a2-b83c-744f6e15e8dc",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -748,32 +748,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Was ist die Definition eines „Schock-Risikos“ im Video?</p>",
+                      "question": "<p>Welches Beispiel für vom Staat organisierte Solidarität wird neben der Krankenkasse genannt?</p>",
                       "answers": [
                         {
-                          "text": "Ein unwahrscheinliches Ereignis, bei dem viele Menschen auf einmal sterben.",
+                          "text": "Die AHV (Alters- und Hinterbliebenen-Versicherung).",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video definiert es als sehr unwahrscheinlich, aber mit vielen Opfern auf einmal (1:21).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die AHV wird bei 2:07 als zweites grosses Beispiel genannt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Ein alltägliches Risiko, das oft zu Todesfällen führt.",
+                          "text": "Die freiwillige Feuerwehr in einer Gemeinde.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das beschreibt ein alltägliches Risiko, nicht ein Schock-Risiko.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Feuerwehr ist zwar ein wichtiger Dienst, wurde aber in diesem Video nicht als Beispiel für staatlich organisierte Solidarität aufgeführt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Ein Risiko, das eine Person persönlich schockiert.",
+                          "text": "Das Sammeln von Geld für den Schutz des Regenwaldes.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Der Begriff bezieht sich auf die Anzahl der Opfer, nicht auf das individuelle Gefühl.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dies wurde als Beispiel für freiwillige Solidarität einer Gruppe genannt (1:14).",
                             "notChosenFeedback": ""
                           }
                         }
@@ -834,7 +834,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "924d515b-59da-4bc1-ba77-7785ca1db8ca",
+                    "subContentId": "b8c00ed8-1d86-4b8f-b9e6-7bc206eba997",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -847,32 +847,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Was sind „Faustregeln“ laut der Erklärung im Video?</p>",
+                      "question": "<p>Wer ist laut dem Gesetz solidarisch mit den Kranken?</p>",
                       "answers": [
                         {
-                          "text": "Einfache Strategien, die zu guten Entscheidungen führen.",
+                          "text": "Die Gesunden.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Sie helfen, auch in schwierigen Situationen gute Entscheidungen zu treffen (2:38).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video sagt klar: \"Die Gesunden sind solidarisch mit den Kranken\" (2:23).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Komplexe Formeln zur exakten Berechnung von Risiken.",
+                          "text": "Ausschliesslich die reicheren Personen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Merkmal von Faustregeln ist ihre Einfachheit, nicht Komplexität.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Solidarität der Reicheren mit den Ärmeren wird als separates Prinzip erwähnt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Gesetze, die den Umgang mit Risiken vorschreiben.",
+                          "text": "Nur die direkten Familienangehörigen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Es sind persönliche oder gesellschaftliche Strategien, keine Gesetze.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die gesetzliche Solidarität geht über die Familie hinaus und schliesst die ganze Gesellschaft ein.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -933,7 +933,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "1320b10c-035e-4a7a-90ce-3ea7c4d7c347",
+                    "subContentId": "a3f30e50-eac0-4971-a415-f92d6ba9d9d5",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -946,32 +946,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Auf welchen beiden Dingen basieren unsere Entscheidungen immer?</p>",
+                      "question": "<p>Was ist ein Beispiel für Solidarität, das Eltern laut Video zeigen, wenn ihr Kind krank ist?</p>",
                       "answers": [
                         {
-                          "text": "Auf Gefühlen und Fakten.",
+                          "text": "Sie pflegen es und kochen ihm Tee.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video stellt klar, dass Entscheidungen immer auf Gefühlen und Fakten basieren (0:47).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies wird bei 0:46-0:48 als konkretes Beispiel für Solidarität in der Familie genannt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Nur auf Fakten.",
+                          "text": "Sie schicken es sofort wieder zur Schule.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Gefühle spielen eine entscheidende Rolle, wie das Video erklärt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das wäre das Gegenteil der im Video beschriebenen fürsorglichen Handlung.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Auf den Meinungen anderer.",
+                          "text": "Sie kaufen ihm teure Geschenke.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Obwohl Meinungen anderer uns beeinflussen können, nennt das Video Gefühle und Fakten als die Basis.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video spricht von Pflege und Unterstützung, nicht von materiellen Geschenken.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1032,7 +1032,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "8bb98574-1948-49f2-bb39-bc4781661dab",
+                    "subContentId": "0255b9ce-10cf-4995-b4a4-01b3df51fe49",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1045,32 +1045,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Warum führt unser Gehirn uns oft zu einer falschen Einschätzung von Risiken?</p>",
+                      "question": "<p>Was ist der Hauptunterschied zwischen organisierter und freiwilliger Solidarität?</p>",
                       "answers": [
                         {
-                          "text": "Weil es den einfachen Weg wählt und sich auf Gefühle verlässt statt auf Fakten.",
+                          "text": "Organisierte Solidarität ist gesetzlich verpflichtend, freiwillige nicht.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Gehirn möchte Energie sparen und verlässt sich daher lieber auf schnelle, emotionale Impulse (0:56-1:06).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video stellt klar, dass wir manchmal solidarisch sein <strong>müssen</strong> (organisiert) und manchmal <strong>freiwillig</strong> sind.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil das Gehirn nicht in der Lage ist, Wahrscheinlichkeiten zu verstehen.",
+                          "text": "Organisierte Solidarität kostet immer Geld, freiwillige ist kostenlos.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Gehirn kann es, aber es ist anstrengend, weshalb es oft vermieden wird.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Auch freiwillige Solidarität kann Geld kosten (z.B. Spenden). Der entscheidende Unterschied ist die Verpflichtung.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil die verfügbaren Fakten über Risiken grundsätzlich immer falsch sind.",
+                          "text": "Freiwillige Solidarität hilft mehr Menschen als organisierte Solidarität.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Problem liegt in der Verarbeitung der Fakten, nicht in den Fakten selbst.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Darüber trifft das Video keine Aussage. Systeme wie die AHV helfen Millionen von Menschen.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1131,7 +1131,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "985bfce9-230c-450b-85fb-61813b733bd3",
+                    "subContentId": "88588caa-26cb-4246-89dd-f25fd94d24d8",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1144,32 +1144,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Weshalb ist es nützlich, nach den „absoluten Zahlen“ hinter Prozentangaben zu fragen?</p>",
+                      "question": "<p>Warum ist die Einzahlung in die Krankenkasse solidarisch, auch wenn man selbst nie krank ist?</p>",
                       "answers": [
                         {
-                          "text": "Weil sie eine prozentuale Veränderung in den richtigen Kontext setzen.",
+                          "text": "Weil das Geld die Behandlungskosten anderer, kranker Menschen deckt.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Ein Anstieg von 100% klingt dramatisch, ist aber bei einer Basis von 1 auf 2 Angriffe pro Jahr nicht so schlimm (2:09).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Geld geht an kranke Kinder einer anderen Familie, wie im Video bei 2:00 erklärt wird.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil absolute Zahlen immer einfacher zu verstehen sind als Prozente.",
+                          "text": "Weil man das eingezahlte Geld am Jahresende mit Zinsen zurückerhält.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Beide Angaben haben ihre Berechtigung; es geht um das Zusammenspiel.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist nicht das Prinzip einer solidarischen Versicherung, sondern eines Sparkontos.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil absolute Zahlen die emotionalere Wirkung auf uns haben.",
+                          "text": "Weil das Geld für den Fall aufbewahrt wird, dass man später selbst krank wird.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Im Gegenteil, sie helfen, die oft emotionale Wirkung von Prozenten zu rationalisieren.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Geld wird laufend für die Behandlung anderer verwendet, nicht für einen selbst angespart.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1230,7 +1230,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "03f32059-6032-439a-8130-e6340adba489",
+                    "subContentId": "4c0ccdc1-e486-4bf6-9f05-6b50fd45561f",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1243,32 +1243,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Warum überschätzen wir „Schock-Risiken“ wie Terroranschläge so stark?</p>",
+                      "question": "<p>Was bedeutet das \"Verbundenheitsgefühl\" im Zusammenhang mit Solidarität?</p>",
                       "answers": [
                         {
-                          "text": "Weil die Angst vor dem plötzlichen Verlust der Gruppe tief in uns verankert ist.",
+                          "text": "Das Gefühl, zu einer Gemeinschaft zu gehören und füreinander da zu sein.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt dies mit einem evolutionären Überbleibsel (1:36-1:41).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video beschreibt es als \"sich verbunden fühlen mit anderen\" (0:38) und \"Verbundenheitsgefühl in einer Gruppe\" (1:18).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil die Medien ausschliesslich über Terroranschläge berichten.",
+                          "text": "Die gesetzliche Pflicht, Mitglied in einem bestimmten Verein sein zu müssen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Medienberichterstattung spielt eine Rolle, aber das Video nennt die evolutionäre Angst als Grund.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Ein Gefühl kann nicht gesetzlich vorgeschrieben werden, es geht um eine innere Haltung.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil Terroranschläge statistisch die häufigste Todesursache sind.",
+                          "text": "Eine sehr enge Freundschaft, die man nur zu wenigen ausgewählten Personen hat.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Genau das Gegenteil ist der Fall; sie sind sehr unwahrscheinlich.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Solidarität kann auch Menschen einschliessen, die man nicht kennt (1:25).",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1329,7 +1329,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "e603036c-4b82-449a-8761-2da34fd7c145",
+                    "subContentId": "7817f246-8c25-4f35-89a0-50f45d33bed9",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1342,32 +1342,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Warum werden alltägliche Risiken, die über die Zeit zu mehr Todesfällen führen, weniger ernst genommen?</p>",
+                      "question": "<p>Warum ist das gemeinsame Sammeln von Geld für den Regenwald ein Beispiel für Solidarität?</p>",
                       "answers": [
                         {
-                          "text": "Weil sie uns vertraut sind und keine unmittelbare Schockwirkung haben.",
-                          "correct": false,
+                          "text": "Weil eine Gruppe zusammenhält und sich gemeinsam für ein wichtiges Ziel einsetzt.",
+                          "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt, dass wir alltägliche Risiken weniger ernst nehmen, obwohl sie gefährlicher sind (1:42-1:48).",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das entspricht genau der Definition von Solidarität in einer Gruppe, die bei 1:04 gegeben wird.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil diese Risiken keine echten Gefahren darstellen.",
+                          "text": "Weil es die einzige Möglichkeit ist, den Regenwald effektiv zu schützen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Sie führen über die Zeit sogar zu mehr Todesfällen.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Es ist eine von vielen Möglichkeiten, aber das Beispiel illustriert das Prinzip der Gruppensolidarität.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil es für alltägliche Risiken keine Fakten oder Statistiken gibt.",
+                          "text": "Weil die Regierung eine Belohnung für solche Aktionen versprochen hat.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Es gibt meist sehr gute Statistiken, aber wir neigen dazu, sie zu ignorieren.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Im Video wird dies als freiwilliger Akt ohne Gegenleistung dargestellt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1428,7 +1428,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "36f75e22-b9e3-45ff-9b92-ed558a806419",
+                    "subContentId": "562732ba-b400-4cbd-a51b-769cb2162e45",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1441,32 +1441,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Eine Person hat mehr Angst vor einer Flugreise als vor der täglichen Autofahrt zur Arbeit. Welches im Video beschriebene Phänomen liegt hier vor?</p>",
+                      "question": "<p>Ihre Klasse organisiert einen Kuchenverkauf, um Geld für eine Tierschutzorganisation zu sammeln. Um welche Form der Solidarität handelt es sich hier?</p>",
                       "answers": [
                         {
-                          "text": "Die Überschätzung eines Schock-Risikos (Flugzeugabsturz) und Unterschätzung eines alltäglichen Risikos (Autounfall).",
+                          "text": "Freiwillige Solidarität als Gruppe.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist ein klassisches Beispiel für die im Video erklärte verzerrte Risikowahrnehmung.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist ein praktisches Beispiel für das, was im Video als \"als Gruppe zusammenhalten\" und \"für eine gute Sache einsetzen\" beschrieben wird (1:01-1:14).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die korrekte Anwendung einer Faustregel zur Risikovermeidung.",
+                          "text": "Vom Staat organisierte Solidarität.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Es ist das Gegenteil: eine emotionale Fehlbewertung statt einer rationalen Strategie.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese Aktion ist nicht gesetzlich vorgeschrieben, sondern eine freiwillige Initiative.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Eine Entscheidung, die rein auf Fakten und Statistiken basiert.",
+                          "text": "Solidarität zwischen Gesunden und Kranken.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Statistisch gesehen ist Fliegen deutlich sicherer als Autofahren.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist ein anderes Solidaritätsprinzip. Hier geht es um den Tierschutz.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1527,7 +1527,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "c74b24ef-a5d5-4e7c-878d-dde7e386d51a",
+                    "subContentId": "1769755a-1924-45a1-9673-980adf61a174",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1540,32 +1540,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Eine Zeitung meldet: „Diebstähle in Quartier X um 50% gestiegen!“ Im letzten Jahr gab es 2 Diebstähle, dieses Jahr sind es 3. Wie sollten Sie diese Information gemäss dem Video bewerten?</p>",
+                      "question": "<p>Ein junger Angestellter zahlt jeden Monat seinen AHV-Beitrag. Wen oder was unterstützt er damit direkt?</p>",
                       "answers": [
                         {
-                          "text": "Man sollte die absoluten Zahlen betrachten und erkennen, dass der Anstieg gering ist.",
+                          "text": "Die heutigen Pensionierten.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist genau das im Video gezeigte Beispiel, wie absolute Zahlen (von 2 auf 3) helfen, Prozentangaben (50%) einzuordnen.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt, dass dieses Geld direkt an die Pensionierten geht, die nicht mehr arbeiten (2:12).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Man sollte in Panik geraten, da eine 50%-Steigerung immer extrem gefährlich ist.",
+                          "text": "Seine eigene Rente in 40 Jahren.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Video rät dazu, genau diese Art von emotionaler Reaktion durch Fakten zu hinterfragen.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist ein häufiges Missverständnis. Die AHV ist ein Umlagesystem, kein persönliches Sparkonto.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Man sollte annehmen, dass die absoluten Zahlen noch viel schlimmer sein müssen.",
+                          "text": "Kranke Kinder in Spitälern.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Man sollte nach den Zahlen fragen, statt eine Annahme zu treffen. Hier zeigen sie, dass die Lage weniger dramatisch ist.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Für die Unterstützung kranker Menschen sind die Krankenkassenbeiträge vorgesehen.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1626,7 +1626,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "164fbc52-5e72-4ef2-8126-fe261f271eac",
+                    "subContentId": "e3f1b36a-3e21-4cef-bacb-0d4eb282105b",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1639,32 +1639,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welche der folgenden Handlungen ist ein Beispiel für die Anwendung einer „Faustregel“ im Sinne des Videos?</p>",
+                      "question": "<p>Nach einer Überschwemmung in einem Dorf organisieren Nachbarn aus der Umgebung eine Hilfsaktion mit Lebensmitteln und Kleidern. Welches Prinzip zeigt sich hier?</p>",
                       "answers": [
                         {
-                          "text": "Beim Ertönen eines Rauchmelders sofort das Gebäude verlassen, ohne nachzudenken.",
+                          "text": "Solidarität, die zu freiwilliger Hilfe und Unterstützung führt.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist eine einfache, effektive Strategie („Wenn Rauchmelder, dann raus“), die in einer komplexen Risikosituation zu einer guten Entscheidung führt.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist ein klassisches Beispiel für freiwillige, gemeinschaftliche Solidarität als Reaktion auf eine Notlage.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Vor jeder Autofahrt eine detaillierte statistische Analyse aller möglichen Unfallursachen durchführen.",
+                          "text": "Gesetzlich vorgeschriebene Solidarität.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Dies ist das Gegenteil einer einfachen Faustregel; es ist eine komplizierte Analyse.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Solche Nachbarschaftshilfe ist in der Regel freiwillig und nicht vom Staat erzwungen.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Sich ausschliesslich auf das Bauchgefühl verlassen, ob eine Investition sicher ist oder nicht.",
+                          "text": "Solidarität zwischen Reicheren und Ärmeren.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Video rät von reinem Verlassen auf Gefühle ab; eine Faustregel ist eine bewusste, einfache Strategie.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Obwohl dies eine Rolle spielen kann, ist der Kern des Beispiels die spontane Hilfe in einer Notlage, unabhängig vom Einkommen.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1725,7 +1725,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "57a6fcd3-ca5d-495a-b9f4-ee846c88f823",
+                    "subContentId": "3052a170-188e-4366-8002-2126a5794390",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1738,32 +1738,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welches der folgenden Risiken ist ein „alltägliches Risiko“, das statistisch gefährlicher ist als das „Schock-Risiko“ eines Hai-Angriffs?</p>",
+                      "question": "<p>Eine Politikerin setzt sich dafür ein, dass die Löhne von Männern und Frauen für gleiche Arbeit angeglichen werden. Auf welche im Video gezeigte Form der Solidarität bezieht sie sich?</p>",
                       "answers": [
                         {
-                          "text": "Herz-Kreislauf-Erkrankungen durch ungesunde Ernährung.",
+                          "text": "Solidarität unter Menschen, die sich für ein gemeinsames Ziel einsetzen.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist ein typisches alltägliches Risiko, das über die Zeit zu viel mehr Todesfällen führt als extrem seltene Ereignisse.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video nennt den gemeinsamen Einsatz von Frauen für gleiche Löhne als Beispiel für Solidarität (1:29).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Ein Vulkanausbruch in der Schweiz.",
+                          "text": "Die Solidarität der Jungen mit den Alten.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Dies wäre ebenfalls ein (extrem unwahrscheinliches) Schock-Risiko.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Hier geht es um Lohngerechtigkeit zwischen den Geschlechtern, nicht um Generationen.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Von einem Blitz getroffen zu werden.",
+                          "text": "Die vom Staat organisierte Solidarität der AHV.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch.</strong> Dies ist auch ein sehr seltenes Ereignis und fällt eher in die Kategorie der überschätzten Risiken.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Lohngleichheit ist ein politisches Ziel, das durch Gesetze gefördert werden kann, aber das Beispiel im Video bezieht sich auf eine Bewegung.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1824,7 +1824,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "3bc2c49d-f947-4d9f-a002-29224f347e6e",
+                    "subContentId": "ddc24eff-88c4-49ac-900b-416761103e7d",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1837,7 +1837,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Das Video argumentiert, dass wir uns vor Schock-Risiken mehr fürchten sollten als vor alltäglichen Risiken, da sie gefährlicher sind.</p>",
+                      "question": "<p>Laut Video ist Solidarität eine rein rationale Handlung und hat nichts mit Gefühlen zu tun.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -1846,8 +1846,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erklärt, dass alltägliche Risiken über die Zeit zu mehr Todesfällen führen und wir sie unterschätzen.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video zeigt auf, dass wir Schock-Risiken über- und alltägliche Risiken unterschätzen, obwohl letztere langfristig gefährlicher sind."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Das Video betont mehrfach das <strong>Verbundenheitsgefühl</strong> (0:38, 1:18) als Grundlage der Solidarität.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist tatsächlich falsch. Das Video spricht explizit von einem \"Verbundenheitsgefühl\" als zentralem Aspekt der Solidarität."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -1880,7 +1880,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "70c9a154-863a-474b-8e55-65b3f8371db5",
+                    "subContentId": "92124e6a-2f61-4cc8-8231-8ee8fcca2d6e",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -1893,7 +1893,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Unser Gehirn bevorzugt schnelle, energiesparende und oft emotionale Entscheidungen, anstatt Fakten lange zu analysieren.</p>",
+                      "question": "<p>Das System der AHV funktioniert so, dass die heutige arbeitende Bevölkerung die Renten der heutigen Pensionierten finanziert.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
@@ -1902,8 +1902,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Video beschreibt genau dieses bequeme und energiesparende Vorgehen des Gehirns (0:56-1:01).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Das Video betont, dass das Gehirn es gerne bequem hat und den anstrengenden Denkprozess meidet."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist korrekt. Das Video erklärt, dass das eingezahlte Geld direkt an die Pensionierten geht (2:12), was dem Prinzip des Umlageverfahrens entspricht.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist korrekt. Es ist ein solidarisches Umlagesystem zwischen den Generationen."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -1936,7 +1936,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "605472ee-af43-4349-8426-46d97494d3a6",
+                    "subContentId": "5dd0d0b6-f2d9-4e51-8ac4-bd921619a4ca",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -1949,7 +1949,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Eine um 100% gestiegene Wahrscheinlichkeit bedeutet immer, dass sich die Gefahr katastrophal erhöht hat.</p>",
+                      "question": "<p>Freiwillige Solidarität kann laut Video nur zwischen Menschen stattfinden, die sich persönlich kennen.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -1958,8 +1958,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video nutzt das Beispiel eines Anstiegs von 1 auf 2 Angriffe, um zu zeigen, dass die absolute Veränderung gering sein kann.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Der Kontext der absoluten Zahlen ist entscheidend, wie das Beispiel im Video (2:09-2:23) zeigt."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Das Video nennt explizit Beispiele wie den Einsatz für gleiche Löhne oder Spenden für Flüchtlingskinder als Solidarität unter Menschen, die sich <strong>nicht kennen</strong> (1:25-1:36).",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist tatsächlich falsch. Das Video gibt klare Gegenbeispiele wie Spenden an Unbekannte."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -1992,7 +1992,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "cdfc612d-0c5b-42f4-b3a6-efb8976512f7",
+                    "subContentId": "ad184336-b5c7-4870-b410-ebc64c40a9c2",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2005,7 +2005,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Faustregeln sind vor allem dann nützlich, wenn sich eine Situation, wie bei einer Pandemie, schnell und unvorhersehbar ändert.</p>",
+                      "question": "<p>Der Hauptzweck der organisierten Solidarität durch die Krankenkasse ist es, die hohen Kosten einer Krankheit auf die ganze Gemeinschaft zu verteilen.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
@@ -2014,8 +2014,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Video nennt die Pandemie als passendes Beispiel, in dem einfache Faustregeln (z.B. Abstand halten) Sicherheit geben (2:46-2:54).",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Genau für solche Situationen werden Faustregeln im Video als hilfreiche Strategie vorgestellt."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist korrekt. Das Prinzip, dass alle einzahlen, damit die Kosten für ein krankes Kind einer anderen Familie bezahlt werden können (2:00), beschreibt genau diese Verteilung des Risikos.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist korrekt. Das ist der Kerngedanke einer solidarischen Versicherung."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2048,7 +2048,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "530c3a78-7ab8-4ee9-a498-44d43e2764c1",
+                    "subContentId": "d9c8da00-5b2c-440a-9ca6-a192d8eb1cc9",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2061,63 +2061,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Jemand beschliesst, nicht mehr schwimmen zu gehen aus Angst vor Haien, raucht aber täglich eine Schachtel Zigaretten. Gemäss dem Video ist dies eine rationale Risikobewertung.</p>",
-                      "correct": "false",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Dies ist ein klares Beispiel für die Überschätzung eines extrem seltenen Schock-Risikos und die Unterschätzung eines sehr gefährlichen, alltäglichen Risikos.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Hier werden die Risiken genau entgegengesetzt zu ihrer statistischen Gefahr bewertet."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "1812ac65-9ebb-4f17-a8a8-b02c43ffbec4",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Die Regel „Beim Überqueren einer Strasse immer zuerst nach links, dann nach rechts und wieder nach links schauen“ ist ein Beispiel für eine Faustregel.</p>",
+                      "question": "<p>Wenn Sie Ihrem Mitschüler bei den Hausaufgaben helfen, weil er den Stoff nicht versteht, ist das eine Form von Solidarität.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
@@ -2126,8 +2070,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Es ist eine einfache, erlernte Strategie, um ein alltägliches Risiko sicher zu bewältigen.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Dies ist eine klassische, einfache und effektive Faustregel für eine potenziell gefährliche Situation."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist korrekt. Dies ist ein direktes Beispiel für gegenseitige Unterstützung, was ein Kernelement von Solidarität ist.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist korrekt. Gegenseitige Hilfe ist eine der grundlegendsten Formen von Solidarität."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2160,7 +2104,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "50ab33a4-2f5f-40c2-88b4-e80e33ff4d12",
+                    "subContentId": "9989f04d-f720-4b51-b7b8-d0454f4ff0f2",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2173,7 +2117,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Wenn ein Risiko, wie z.B. von einem Meteoriten getroffen zu werden, extrem unwahrscheinlich ist, bedeutet das, dass es keine Gefahr darstellt.</p>",
+                      "question": "<p>Wenn Sie monatlich Geld auf Ihr persönliches Sparkonto legen, um sich später ein Auto zu kaufen, ist dies ein Akt der organisierten Solidarität.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -2182,8 +2126,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Die Gefahr (Tod) wäre extrem hoch. Das Risiko ist die Kombination aus der (sehr geringen) Wahrscheinlichkeit und der (sehr hohen) Gefahr.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video definiert Risiko als Gefahr UND Wahrscheinlichkeit. Auch bei geringer Wahrscheinlichkeit kann die Gefahr bestehen."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Solidarität bedeutet, sich für andere oder eine Gemeinschaft einzusetzen. Für sich selbst zu sparen, ist das Gegenteil davon.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist tatsächlich falsch. Das ist persönliches Sparen und hat nichts mit Solidarität zu tun."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2216,7 +2160,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "455820be-5c30-4a0b-9922-463108b6b214",
+                    "subContentId": "65b6d108-a1ac-486f-9bf4-d92f86f99749",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2229,7 +2173,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Wenn die Infektionszahlen einer Krankheit täglich stark schwanken, ist es laut Video am besten, stündlich die neusten Statistiken zu studieren, um gute Entscheidungen zu treffen.</p>",
+                      "question": "<p>Ein Unternehmen spendet einen grossen Betrag an eine gemeinnützige Stiftung. Dies ist ein Beispiel für gesetzlich vorgeschriebene Solidarität.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -2238,8 +2182,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video empfiehlt in genau so einer unübersichtlichen Situation die Anwendung von einfachen Faustregeln wie „zwei Meter Abstand halten“.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video schlägt für diesen Fall Faustregeln vor, da die Zahlen allein das Vorstellungsvermögen übersteigen können (2:27-2:44)."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Eine Spende eines Unternehmens ist in der Regel eine Form der <strong>freiwilligen</strong> Solidarität.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist tatsächlich falsch. Solche Spenden sind freiwillig. Verpflichtend wären z.B. Steuern oder AHV-Beiträge."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2272,7 +2216,63 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "eb9ac220-6ff8-40c0-876d-ec7a58cf8d9c",
+                    "subContentId": "b08dbece-57b5-4db0-9ffb-74a54d2d50d4",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Die Unterstützung der Eltern, die ihr krankes Kind pflegen, ist ein Beispiel für eine Solidarität, die man sich nicht aussuchen kann, da sie gesetzlich vorgeschrieben ist.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Obwohl es eine moralische und rechtliche Fürsorgepflicht gibt, wird dies im Video als herzliches Beispiel für freiwillige, familiäre Solidarität dargestellt, nicht als erzwungener Akt.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist tatsächlich falsch. Das Video präsentiert dies als Beispiel für persönliche, freiwillige Solidarität innerhalb der Familie."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "2d10c3ba-7733-48ca-9160-d9522cd82a3d",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2342,14 +2342,14 @@
                 "changes": [],
                 "extraTitle": "Verständnisfragen Quiz"
               },
-              "subContentId": "a08cde05-df79-43b6-a238-c47c487068fb"
+              "subContentId": "04e10d12-0e44-4f10-bca4-0cc9a5f3f366"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "f0e11078-9298-4939-9eaf-7023527c94e6",
+      "subContentId": "e8a580ac-e621-4f52-ba91-adda00445fa2",
       "metadata": {
         "contentType": "Column",
         "license": "U",
