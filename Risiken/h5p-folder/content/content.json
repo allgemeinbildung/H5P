@@ -1,0 +1,2405 @@
+{
+  "showCoverPage": true,
+  "bookCover": {
+    "coverDescription": "<h1 style=\"text-align:center\">Risikokompetenz</h1><h3 style=\"text-align:center\">Wie wir lernen, mit Risiken richtig umzugehen</h3>",
+    "coverMedium": {
+      "params": {
+        "decorative": false,
+        "contentName": "Bild",
+        "expandImage": "Bild vergrößern",
+        "minimizeImage": "Bild verkleinern",
+        "file": {
+          "mime": "image/png",
+          "copyright": {
+            "license": "U"
+          },
+          "width": 52,
+          "height": 52,
+          "path": "images/img_1.png"
+        }
+      },
+      "library": "H5P.Image 1.1",
+      "metadata": {
+        "contentType": "Image",
+        "license": "U",
+        "title": "Cover Bild",
+        "authors": [],
+        "changes": []
+      },
+      "subContentId": "575b42b5-1d8a-4b82-bd03-3dd0bd47f5c9"
+    }
+  },
+  "chapters": [
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Grundlagen des Risikomanagements</h2><p>Dieses Video erklärt, was <strong>Risiken</strong> sind und wie wir lernen können, besser mit ihnen umzugehen. Sie erfahren, wie sich ein Risiko aus <strong>Gefahr</strong> und <strong>Wahrscheinlichkeit</strong> zusammensetzt, warum unsere Gefühle uns bei der Einschätzung von <strong>Schock-Risiken</strong> täuschen und wie uns <strong>Fakten</strong> und einfache <strong>Faustregeln</strong> helfen, in einer unsicheren Welt kluge Entscheidungen zu treffen.</p><ul><li>Sie können <strong>erklären</strong>, wie ein <strong>Risiko</strong> aus den Komponenten <strong>Gefahr</strong> und <strong>Wahrscheinlichkeit</strong> entsteht.</li><li>Sie <strong>verstehen</strong>, warum Gefühle unsere Wahrnehmung von Risiken, insbesondere bei sogenannten <strong>Schock-Risiken</strong>, verzerren können.</li><li>Sie lernen, wie die Konzentration auf <strong>Fakten</strong> und <strong>absolute Zahlen</strong> hilft, Wahrscheinlichkeiten korrekt zu <strong>interpretieren</strong>.</li><li>Sie erkennen den Nutzen von <strong>Faustregeln</strong>, um in komplexen Situationen wie einer Pandemie <strong>bessere Entscheidungen</strong> zu treffen.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Einleitungstext",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "4b23c4a3-19e5-4d6a-8260-9f9a66d9b2ed"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "panels": [
+                  {
+                    "title": "Risiko",
+                    "content": {
+                      "params": {
+                        "text": "<p>Das Zusammentreffen von <strong>Gefahr</strong> und <strong>Wahrscheinlichkeit</strong>, das je nach Ausprägung zu einem größeren oder kleineren Risiko führt.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "26a3fae2-1be1-4cf7-8377-48397847c999",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Risiko",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Schock-Risiko",
+                    "content": {
+                      "params": {
+                        "text": "<p>Ein Ereignis, das sehr <strong>unwahrscheinlich</strong> ist, bei dem aber <strong>viele Menschen</strong> auf einmal sterben, wie bei einem Terroranschlag.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "76a6378f-dcac-4e0b-bac2-b8d1a7e4cd0c",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Schock-Risiko",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Alltägliche Risiken",
+                    "content": {
+                      "params": {
+                        "text": "<p>Gefahren, die über die Zeit zu mehr Todesfällen führen, aber von uns aufgrund ihrer <strong>Gewöhnlichkeit</strong> als <strong>weniger ernst</strong> wahrgenommen werden.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "b00fd52d-5ce0-4237-b527-d987e705ff6c",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Alltägliche Risiken",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Absolute Zahlen",
+                    "content": {
+                      "params": {
+                        "text": "<p>Die konkreten Zahlen hinter Prozentangaben, die helfen, die tatsächliche <strong>Bedeutung</strong> einer <strong>Wahrscheinlichkeit</strong> besser zu verstehen.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "f1eec012-663d-4451-baaa-363ee2d705c3",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Absolute Zahlen",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  },
+                  {
+                    "title": "Faustregeln",
+                    "content": {
+                      "params": {
+                        "text": "<p>Einfache Strategien, die auch in <strong>schwierigen Risikosituationen</strong> zu <strong>guten Entscheidungen</strong> führen können.</p>"
+                      },
+                      "library": "H5P.AdvancedText 1.1",
+                      "subContentId": "417af79b-3537-4db5-ae5f-8a3e489e91b6",
+                      "metadata": {
+                        "contentType": "Text",
+                        "license": "U",
+                        "title": "Definition: Faustregeln",
+                        "authors": [],
+                        "changes": []
+                      }
+                    }
+                  }
+                ],
+                "hTag": "h2"
+              },
+              "library": "H5P.Accordion 1.0",
+              "metadata": {
+                "contentType": "Accordion",
+                "license": "U",
+                "title": "Wichtige Begriffe",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Wichtige Begriffe"
+              },
+              "subContentId": "99432e77-ac2c-45f4-8b90-e9d883946d26"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "50490365-31cb-4054-9ad6-fe50add945bc",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Einleitung",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Einleitung"
+      }
+    },
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Video: Risiko verstehen und bewerten</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu prüfen.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Videoeinleitung",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "d18677af-4a84-4911-b68c-c9cae3b21303"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "interactiveVideo": {
+                  "video": {
+                    "startScreenOptions": {
+                      "title": "Interaktives Video",
+                      "hideStartTitle": false
+                    },
+                    "textTracks": {
+                      "videoTrack": [
+                        {
+                          "label": "Untertitel",
+                          "kind": "subtitles",
+                          "srcLang": "en"
+                        }
+                      ]
+                    },
+                    "files": [
+                      {
+                        "path": "https://www.youtube.com/watch?v=YB_04Lu25Ko",
+                        "mime": "video/YouTube",
+                        "copyright": {
+                          "license": "U"
+                        },
+                        "aspectRatio": "16:9"
+                      }
+                    ]
+                  },
+                  "assets": {
+                    "interactions": [
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 77,
+                          "to": 78
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Ein Risiko ist das Zusammentreffen von Gefahr und Wahrscheinlichkeit.",
+                                  "Ein Risiko ist nur von der Höhe der potenziellen Gefahr abhängig.",
+                                  "Die Wahrscheinlichkeit eines Ereignisses ist das alleinige Kriterium für ein Risiko."
+                                ],
+                                "subContentId": "25344766-b806-4f59-8d9b-c904bbb61a1c",
+                                "tip": "Achten Sie auf die Definition von Risiko ganz am Anfang des Videos (0:20-0:23)."
+                              },
+                              {
+                                "summary": [
+                                  "Bei Risikoentscheidungen verlässt sich unser Gehirn gerne auf Gefühle.",
+                                  "Menschen treffen Entscheidungen bei Risiken immer auf Basis rationaler Fakten.",
+                                  "Das Gehirn analysiert bei Risiken immer alle Fakten sehr langsam und gründlich."
+                                ],
+                                "subContentId": "33987ff3-1e5b-49e0-9811-f74d6c7c7711",
+                                "tip": "Wie geht unser Gehirn laut Video bevorzugt mit Entscheidungen unter Risiko um (0:52-1:06)?"
+                              },
+                              {
+                                "summary": [
+                                  "Sich auf Gefühle zu verlassen, erspart dem Gehirn anstrengendes Nachdenken.",
+                                  "Emotionale Entscheidungen sind laut Video immer genauer als faktenbasierte.",
+                                  "Das Gehirn nutzt Gefühle zur Entscheidung nur dann, wenn keinerlei Fakten verfügbar sind."
+                                ],
+                                "subContentId": "df5a7040-fb47-4c18-a321-a419332f3026",
+                                "tip": "Welchen \"Vorteil\" hat es für das Gehirn, sich auf Gefühle zu verlassen, anstatt Fakten zu analysieren (1:09-1:11)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "38c92cd0-c338-4eb3-af84-f8dd6ecfa64c",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Grundlagen der Risikobewertung",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Grundlagen der Risikobewertung"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 119,
+                          "to": 120
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Schock-Risiken sind Ereignisse, die zwar schlimm, aber sehr unwahrscheinlich sind.",
+                                  "Schock-Risiken passieren sehr häufig und führen konstant zu vielen Todesfällen.",
+                                  "Ein Schock-Risiko ist ein Ereignis, das zwar wahrscheinlich ist, aber kaum Schaden verursacht."
+                                ],
+                                "subContentId": "4a1ff2e7-1835-49f5-a66e-daf3bc84b062",
+                                "tip": "Was ist das Hauptmerkmal eines Schock-Risikos bezüglich seiner Eintrittswahrscheinlichkeit (1:21-1:26)?"
+                              },
+                              {
+                                "summary": [
+                                  "Menschen neigen dazu, das Risiko von Schock-Risiken wie Terroranschlägen zu überschätzen.",
+                                  "Die Angst vor Terroranschlägen entspricht laut Video exakt der statistischen Wahrscheinlichkeit.",
+                                  "Das Risiko von Ereignissen, bei denen viele Menschen auf einmal sterben, wird systematisch unterschätzt."
+                                ],
+                                "subContentId": "84344429-823a-4af5-9518-a84058bc2e59",
+                                "tip": "Wie schätzen wir die Gefahr von Schock-Risiken aus Angst tendenziell ein (1:33)?"
+                              },
+                              {
+                                "summary": [
+                                  "Alltägliche Risiken führen über längere Zeit betrachtet zu mehr Todesfällen.",
+                                  "Alltägliche Risiken sind im Vergleich zu Schock-Risiken harmlos und fordern kaum Opfer.",
+                                  "Die Gefahr von alltäglichen Risiken ist immer sofort sichtbar und wird daher ernster genommen."
+                                ],
+                                "subContentId": "b43f0956-bca9-4e29-93a5-f9408ad77f0c",
+                                "tip": "Vergleichen Sie die langfristigen Folgen von alltäglichen Risiken mit denen von Schock-Risiken (1:45-1:48)."
+                              }
+                            ]
+                          },
+                          "subContentId": "1cec4d94-b322-46c0-bc38-62e35c868931",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Verzerrte Risikowahrnehmung",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Verzerrte Risikowahrnehmung"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      },
+                      {
+                        "x": 3.149,
+                        "y": 5.594,
+                        "width": 37.5,
+                        "height": 20,
+                        "duration": {
+                          "from": 173,
+                          "to": 174
+                        },
+                        "libraryTitle": "Statements",
+                        "action": {
+                          "library": "H5P.Summary 1.10",
+                          "params": {
+                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
+                            "overallFeedback": [
+                              {
+                                "from": 0,
+                                "to": 100
+                              }
+                            ],
+                            "solvedLabel": "Fortschritt:",
+                            "scoreLabel": "Falsche Antworten:",
+                            "resultLabel": "Dein Ergebnis",
+                            "labelCorrect": "Richtig.",
+                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                            "alternativeIncorrectLabel": "Falsch",
+                            "labelCorrectAnswers": "Richtige Antwort(en).",
+                            "tipButtonLabel": "Tipp anzeigen",
+                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                            "progressText": "Fortschritt :num von :total",
+                            "summaries": [
+                              {
+                                "summary": [
+                                  "Um Risiken besser einzuschätzen, sollten wir uns auf die Fakten konzentrieren.",
+                                  "Eine rein emotionale Einschätzung ist der beste Weg, um Risiken objektiv zu bewerten.",
+                                  "Fakten sind bei der Risikobewertung laut Video meistens irreführend und sollten ignoriert werden."
+                                ],
+                                "subContentId": "36211221-11d2-4a66-958b-ee1d50f97a0f",
+                                "tip": "Was empfiehlt das Video als Strategie für eine bessere Einschätzung von Risiken (1:53-1:56)?"
+                              },
+                              {
+                                "summary": [
+                                  "Absolute Zahlen helfen dabei, prozentuale Angaben richtig zu interpretieren.",
+                                  "Prozentuale Angaben sind immer aussagekräftiger als die dahinterstehenden absoluten Zahlen.",
+                                  "Eine um 100 Prozent gestiegene Wahrscheinlichkeit bedeutet immer eine extreme Gefahr."
+                                ],
+                                "subContentId": "a46e5c83-3f25-430e-b57d-3bc926d0f634",
+                                "tip": "Welchen Nutzen hat es, nach den absoluten Zahlen hinter Prozenten zu fragen (2:06-2:09)?"
+                              },
+                              {
+                                "summary": [
+                                  "Faustregeln sind einfache Strategien, die zu guten Entscheidungen führen können.",
+                                  "Faustregeln sind komplexe mathematische Formeln zur exakten Risikoberechnung.",
+                                  "Faustregeln sind laut Video nur in völlig ungefährlichen Situationen eine sinnvolle Hilfe."
+                                ],
+                                "subContentId": "250c1dd0-ed92-4a6e-8e80-0506299d2a9a",
+                                "tip": "Welchen Zweck erfüllen Faustregeln im Umgang mit schwierigen Risikosituationen (2:38-2:44)?"
+                              }
+                            ]
+                          },
+                          "subContentId": "6ad8fa64-ffc8-4e86-9a78-f83f58fe314f",
+                          "metadata": {
+                            "contentType": "Summary",
+                            "license": "U",
+                            "title": "Rationaler Umgang mit Risiken",
+                            "authors": [],
+                            "changes": [],
+                            "extraTitle": "Rationaler Umgang mit Risiken"
+                          }
+                        },
+                        "pause": true,
+                        "displayType": "poster",
+                        "buttonOnMobile": false,
+                        "adaptivity": {
+                          "correct": {
+                            "allowOptOut": false,
+                            "message": ""
+                          },
+                          "wrong": {
+                            "allowOptOut": false,
+                            "message": ""
+                          }
+                        },
+                        "label": ""
+                      }
+                    ],
+                    "bookmarks": [],
+                    "endscreens": [
+                      {
+                        "time": 0,
+                        "label": "0:00 Antwortübermittlung"
+                      },
+                      {
+                        "time": 432,
+                        "label": "7:12 Antwortübermittlung"
+                      }
+                    ]
+                  },
+                  "summary": {
+                    "task": {
+                      "library": "H5P.Summary 1.10",
+                      "params": {
+                        "intro": "Wähle die korrekte Aussage.",
+                        "overallFeedback": [
+                          {
+                            "from": 0,
+                            "to": 100
+                          }
+                        ],
+                        "solvedLabel": "Fortschritt:",
+                        "scoreLabel": "Falsche Antworten:",
+                        "resultLabel": "Dein Ergebnis",
+                        "labelCorrect": "Richtig.",
+                        "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
+                        "alternativeIncorrectLabel": "Falsch",
+                        "labelCorrectAnswers": "Richtige Antwort(en).",
+                        "tipButtonLabel": "Tipp anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "progressText": "Fortschritt :num von :total",
+                        "summaries": [
+                          {
+                            "subContentId": "f8612043-3ab4-42d5-9b1a-40af44015a6a",
+                            "tip": ""
+                          }
+                        ]
+                      },
+                      "subContentId": "1f0686b9-5cf9-4a75-9ed9-001f52a115b0",
+                      "metadata": {
+                        "contentType": "Summary",
+                        "license": "U",
+                        "title": "Video End-Summary"
+                      }
+                    },
+                    "displayAt": 3
+                  }
+                },
+                "override": {
+                  "autoplay": false,
+                  "loop": false,
+                  "showBookmarksmenuOnLoad": false,
+                  "showRewind10": true,
+                  "preventSkippingMode": "none",
+                  "deactivateSound": false,
+                  "showSolutionButton": "off",
+                  "retryButton": "off"
+                },
+                "l10n": {
+                  "interaction": "Interaktion",
+                  "play": "Abspielen",
+                  "pause": "Pause",
+                  "mute": "Stummschalten, derzeit nicht laut geschaltet",
+                  "unmute": "Laut schalten, derzeit stumm geschaltet",
+                  "quality": "Videoqualität",
+                  "captions": "Untertitel",
+                  "close": "Schließen",
+                  "fullscreen": "Vollbild",
+                  "exitFullscreen": "Vollbild beenden",
+                  "summary": "Zusammenfassung öffnen",
+                  "bookmarks": "Lesezeichen",
+                  "endscreen": "Einsendebildschirm",
+                  "defaultAdaptivitySeekLabel": "Fortfahren",
+                  "continueWithVideo": "Video fortsetzen",
+                  "more": "Mehr Abspieloptionen",
+                  "playbackRate": "Abspielgeschwindigkeit",
+                  "rewind10": "10 Sekunden zurückspulen",
+                  "navDisabled": "Vor- und Zurückspulen ist deaktiviert",
+                  "navForwardDisabled": "Navigation vorwärts ist deaktiviert",
+                  "sndDisabled": "Ton ist deaktiviert",
+                  "requiresCompletionWarning": "Es müssen alle Fragen richtig beantwortet werden, um weitermachen zu können.",
+                  "back": "Zurück",
+                  "hours": "Stunden",
+                  "minutes": "Minuten",
+                  "seconds": "Sekunden",
+                  "currentTime": "Aktuelle Zeit:",
+                  "totalTime": "Gesamtzeit:",
+                  "singleInteractionAnnouncement": "Interaktion ist erschienen:",
+                  "multipleInteractionsAnnouncement": "Mehrere Interaktionen sind erschienen.",
+                  "videoPausedAnnouncement": "Video ist angehalten",
+                  "content": "Inhalt",
+                  "answered": "@answered beantwortet",
+                  "endcardTitle": "@answered Frage(n) beantwortet",
+                  "endcardInformation": "Du hast @answered Fragen beantwortet.",
+                  "endcardInformationOnSubmitButtonDisabled": "Du hast @answered Fragen beantwortet. Klicke unten, um deine Ergebnisse abzusenden.",
+                  "endcardInformationNoAnswers": "Du hast noch keine Fragen beantwortet.",
+                  "endcardInformationMustHaveAnswer": "Du musst mindestens eine Frage beantworten, um deine Antworten absenden zu können.",
+                  "endcardSubmitButton": "Antworten absenden",
+                  "endcardSubmitMessage": "Deine Antworten wurden abgeschickt!",
+                  "endcardTableRowAnswered": "Beantwortete Fragen",
+                  "endcardTableRowScore": "Punkte",
+                  "endcardAnsweredScore": "beantwortet",
+                  "endCardTableRowSummaryWithScore": "Du hast @score von @total Punkten für die @question erhalten, die bei @minutes Minuten und @seconds Sekunden erschienen ist.",
+                  "endCardTableRowSummaryWithoutScore": "Du hast die @question beantwortet, die bei @minutes Minuten und @seconds Sekunden erschienen ist.",
+                  "videoProgressBar": "Video-Fortschritt",
+                  "howToCreateInteractions": "Spiele das Video ab, um mit dem Erstellen von Interaktionen zu beginnen"
+                }
+              },
+              "library": "H5P.InteractiveVideo 1.27",
+              "metadata": {
+                "contentType": "Interactive Video",
+                "license": "U",
+                "title": "Interaktives Video: Wie gehen wir mit Risiken um?",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Interaktives Video: Wie gehen wir mit Risiken um?"
+              },
+              "subContentId": "12e6d2e1-c1b3-4c22-b8fb-6db4661cc608"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "16681e46-9940-4c9b-9a24-132bc779e86e",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Video",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Video"
+      }
+    },
+    {
+      "params": {
+        "content": [
+          {
+            "content": {
+              "params": {
+                "text": "<h2>Verständnisfragen</h2><p>Beantworten Sie zum Schluss die folgenden Fragen zum Inhalt des Videos, um Ihr Wissen zu festigen.</p>"
+              },
+              "library": "H5P.AdvancedText 1.1",
+              "metadata": {
+                "contentType": "Text",
+                "license": "U",
+                "title": "Fragen Einleitung",
+                "authors": [],
+                "changes": []
+              },
+              "subContentId": "34f4b1f8-0731-4364-9c5e-ae6fc1401aff"
+            },
+            "useSeparator": "auto"
+          },
+          {
+            "content": {
+              "params": {
+                "introPage": {
+                  "showIntroPage": true,
+                  "startButtonText": "Quiz starten",
+                  "title": "Verständnisfragen Quiz",
+                  "introduction": ""
+                },
+                "progressType": "dots",
+                "passPercentage": 50,
+                "disableBackwardsNavigation": false,
+                "randomQuestions": true,
+                "poolSize": 10,
+                "questions": [
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Woraus setzt sich ein Risiko laut dem Video zusammen?</p>",
+                      "answers": [
+                        {
+                          "text": "Aus Gefahr und Wahrscheinlichkeit.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Ein Risiko ist das Zusammentreffen von Gefahr und Wahrscheinlichkeit (0:20).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Aus Angst und Fakten.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Angst und Fakten beeinflussen unsere Entscheidungen, definieren aber nicht das Risiko selbst.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Nur aus der Wahrscheinlichkeit, dass etwas passiert.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Die Gefahr bzw. der mögliche Schaden ist die zweite, ebenso wichtige Komponente.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "3cfe6f97-ad11-48d0-931b-a6ec97c11e22",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Was ist die Definition eines „Schock-Risikos“ im Video?</p>",
+                      "answers": [
+                        {
+                          "text": "Ein unwahrscheinliches Ereignis, bei dem viele Menschen auf einmal sterben.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video definiert es als sehr unwahrscheinlich, aber mit vielen Opfern auf einmal (1:21).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Ein alltägliches Risiko, das oft zu Todesfällen führt.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das beschreibt ein alltägliches Risiko, nicht ein Schock-Risiko.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Ein Risiko, das eine Person persönlich schockiert.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Der Begriff bezieht sich auf die Anzahl der Opfer, nicht auf das individuelle Gefühl.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "924d515b-59da-4bc1-ba77-7785ca1db8ca",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Was sind „Faustregeln“ laut der Erklärung im Video?</p>",
+                      "answers": [
+                        {
+                          "text": "Einfache Strategien, die zu guten Entscheidungen führen.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Sie helfen, auch in schwierigen Situationen gute Entscheidungen zu treffen (2:38).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Komplexe Formeln zur exakten Berechnung von Risiken.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Merkmal von Faustregeln ist ihre Einfachheit, nicht Komplexität.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Gesetze, die den Umgang mit Risiken vorschreiben.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Es sind persönliche oder gesellschaftliche Strategien, keine Gesetze.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "1320b10c-035e-4a7a-90ce-3ea7c4d7c347",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Auf welchen beiden Dingen basieren unsere Entscheidungen immer?</p>",
+                      "answers": [
+                        {
+                          "text": "Auf Gefühlen und Fakten.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video stellt klar, dass Entscheidungen immer auf Gefühlen und Fakten basieren (0:47).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Nur auf Fakten.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Gefühle spielen eine entscheidende Rolle, wie das Video erklärt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Auf den Meinungen anderer.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Obwohl Meinungen anderer uns beeinflussen können, nennt das Video Gefühle und Fakten als die Basis.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "8bb98574-1948-49f2-bb39-bc4781661dab",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Warum führt unser Gehirn uns oft zu einer falschen Einschätzung von Risiken?</p>",
+                      "answers": [
+                        {
+                          "text": "Weil es den einfachen Weg wählt und sich auf Gefühle verlässt statt auf Fakten.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Gehirn möchte Energie sparen und verlässt sich daher lieber auf schnelle, emotionale Impulse (0:56-1:06).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil das Gehirn nicht in der Lage ist, Wahrscheinlichkeiten zu verstehen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Gehirn kann es, aber es ist anstrengend, weshalb es oft vermieden wird.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil die verfügbaren Fakten über Risiken grundsätzlich immer falsch sind.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Problem liegt in der Verarbeitung der Fakten, nicht in den Fakten selbst.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "985bfce9-230c-450b-85fb-61813b733bd3",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Weshalb ist es nützlich, nach den „absoluten Zahlen“ hinter Prozentangaben zu fragen?</p>",
+                      "answers": [
+                        {
+                          "text": "Weil sie eine prozentuale Veränderung in den richtigen Kontext setzen.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Ein Anstieg von 100% klingt dramatisch, ist aber bei einer Basis von 1 auf 2 Angriffe pro Jahr nicht so schlimm (2:09).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil absolute Zahlen immer einfacher zu verstehen sind als Prozente.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Beide Angaben haben ihre Berechtigung; es geht um das Zusammenspiel.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil absolute Zahlen die emotionalere Wirkung auf uns haben.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Im Gegenteil, sie helfen, die oft emotionale Wirkung von Prozenten zu rationalisieren.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "03f32059-6032-439a-8130-e6340adba489",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Warum überschätzen wir „Schock-Risiken“ wie Terroranschläge so stark?</p>",
+                      "answers": [
+                        {
+                          "text": "Weil die Angst vor dem plötzlichen Verlust der Gruppe tief in uns verankert ist.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt dies mit einem evolutionären Überbleibsel (1:36-1:41).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil die Medien ausschliesslich über Terroranschläge berichten.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Medienberichterstattung spielt eine Rolle, aber das Video nennt die evolutionäre Angst als Grund.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil Terroranschläge statistisch die häufigste Todesursache sind.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Genau das Gegenteil ist der Fall; sie sind sehr unwahrscheinlich.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "e603036c-4b82-449a-8761-2da34fd7c145",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Warum werden alltägliche Risiken, die über die Zeit zu mehr Todesfällen führen, weniger ernst genommen?</p>",
+                      "answers": [
+                        {
+                          "text": "Weil sie uns vertraut sind und keine unmittelbare Schockwirkung haben.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erklärt, dass wir alltägliche Risiken weniger ernst nehmen, obwohl sie gefährlicher sind (1:42-1:48).",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil diese Risiken keine echten Gefahren darstellen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Sie führen über die Zeit sogar zu mehr Todesfällen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Weil es für alltägliche Risiken keine Fakten oder Statistiken gibt.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Es gibt meist sehr gute Statistiken, aber wir neigen dazu, sie zu ignorieren.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "36f75e22-b9e3-45ff-9b92-ed558a806419",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Eine Person hat mehr Angst vor einer Flugreise als vor der täglichen Autofahrt zur Arbeit. Welches im Video beschriebene Phänomen liegt hier vor?</p>",
+                      "answers": [
+                        {
+                          "text": "Die Überschätzung eines Schock-Risikos (Flugzeugabsturz) und Unterschätzung eines alltäglichen Risikos (Autounfall).",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist ein klassisches Beispiel für die im Video erklärte verzerrte Risikowahrnehmung.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Die korrekte Anwendung einer Faustregel zur Risikovermeidung.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Es ist das Gegenteil: eine emotionale Fehlbewertung statt einer rationalen Strategie.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Eine Entscheidung, die rein auf Fakten und Statistiken basiert.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Statistisch gesehen ist Fliegen deutlich sicherer als Autofahren.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "c74b24ef-a5d5-4e7c-878d-dde7e386d51a",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Eine Zeitung meldet: „Diebstähle in Quartier X um 50% gestiegen!“ Im letzten Jahr gab es 2 Diebstähle, dieses Jahr sind es 3. Wie sollten Sie diese Information gemäss dem Video bewerten?</p>",
+                      "answers": [
+                        {
+                          "text": "Man sollte die absoluten Zahlen betrachten und erkennen, dass der Anstieg gering ist.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist genau das im Video gezeigte Beispiel, wie absolute Zahlen (von 2 auf 3) helfen, Prozentangaben (50%) einzuordnen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Man sollte in Panik geraten, da eine 50%-Steigerung immer extrem gefährlich ist.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Video rät dazu, genau diese Art von emotionaler Reaktion durch Fakten zu hinterfragen.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Man sollte annehmen, dass die absoluten Zahlen noch viel schlimmer sein müssen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Man sollte nach den Zahlen fragen, statt eine Annahme zu treffen. Hier zeigen sie, dass die Lage weniger dramatisch ist.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "164fbc52-5e72-4ef2-8126-fe261f271eac",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welche der folgenden Handlungen ist ein Beispiel für die Anwendung einer „Faustregel“ im Sinne des Videos?</p>",
+                      "answers": [
+                        {
+                          "text": "Beim Ertönen eines Rauchmelders sofort das Gebäude verlassen, ohne nachzudenken.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist eine einfache, effektive Strategie („Wenn Rauchmelder, dann raus“), die in einer komplexen Risikosituation zu einer guten Entscheidung führt.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Vor jeder Autofahrt eine detaillierte statistische Analyse aller möglichen Unfallursachen durchführen.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Dies ist das Gegenteil einer einfachen Faustregel; es ist eine komplizierte Analyse.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Sich ausschliesslich auf das Bauchgefühl verlassen, ob eine Investition sicher ist oder nicht.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Das Video rät von reinem Verlassen auf Gefühle ab; eine Faustregel ist eine bewusste, einfache Strategie.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "57a6fcd3-ca5d-495a-b9f4-ee846c88f823",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.MultiChoice 1.16",
+                    "params": {
+                      "question": "<p>Welches der folgenden Risiken ist ein „alltägliches Risiko“, das statistisch gefährlicher ist als das „Schock-Risiko“ eines Hai-Angriffs?</p>",
+                      "answers": [
+                        {
+                          "text": "Herz-Kreislauf-Erkrankungen durch ungesunde Ernährung.",
+                          "correct": true,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist ein typisches alltägliches Risiko, das über die Zeit zu viel mehr Todesfällen führt als extrem seltene Ereignisse.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Ein Vulkanausbruch in der Schweiz.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Dies wäre ebenfalls ein (extrem unwahrscheinliches) Schock-Risiko.",
+                            "notChosenFeedback": ""
+                          }
+                        },
+                        {
+                          "text": "Von einem Blitz getroffen zu werden.",
+                          "correct": false,
+                          "tipsAndFeedback": {
+                            "tip": "",
+                            "chosenFeedback": "❌ <strong>Falsch.</strong> Dies ist auch ein sehr seltenes Ereignis und fällt eher in die Kategorie der überschätzten Risiken.",
+                            "notChosenFeedback": ""
+                          }
+                        }
+                      ],
+                      "behaviour": {
+                        "singleAnswer": true,
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "type": "auto",
+                        "singlePoint": false,
+                        "randomAnswers": true,
+                        "showSolutionsRequiresInput": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "passPercentage": 100,
+                        "showScorePoints": true
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "overallFeedback": [
+                        {
+                          "from": 0,
+                          "to": 100
+                        }
+                      ],
+                      "UI": {
+                        "checkAnswerButton": "Überprüfen",
+                        "submitAnswerButton": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgainButton": "Wiederholen",
+                        "tipsLabel": "Hinweis anzeigen",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "tipAvailable": "Hinweis verfügbar",
+                        "feedbackAvailable": "Rückmeldung verfügbar",
+                        "readFeedback": "Rückmeldung vorlesen",
+                        "wrongAnswer": "Falsche Antwort",
+                        "correctAnswer": "Richtige Antwort",
+                        "shouldCheck": "Hätte gewählt werden müssen",
+                        "shouldNotCheck": "Hätte nicht gewählt werden sollen",
+                        "noInput": "Bitte antworte, bevor du die Lösung ansiehst",
+                        "a11yCheck": "Die Antworten überprüfen. Die Auswahlen werden als richtig, falsch oder fehlend markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtigen Lösungen werden in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "3bc2c49d-f947-4d9f-a002-29224f347e6e",
+                    "metadata": {
+                      "contentType": "Multiple Choice",
+                      "license": "U",
+                      "title": "Multiple Choice",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Multiple Choice"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Das Video argumentiert, dass wir uns vor Schock-Risiken mehr fürchten sollten als vor alltäglichen Risiken, da sie gefährlicher sind.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video erklärt, dass alltägliche Risiken über die Zeit zu mehr Todesfällen führen und wir sie unterschätzen.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video zeigt auf, dass wir Schock-Risiken über- und alltägliche Risiken unterschätzen, obwohl letztere langfristig gefährlicher sind."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "70c9a154-863a-474b-8e55-65b3f8371db5",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Unser Gehirn bevorzugt schnelle, energiesparende und oft emotionale Entscheidungen, anstatt Fakten lange zu analysieren.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Video beschreibt genau dieses bequeme und energiesparende Vorgehen des Gehirns (0:56-1:01).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Das Video betont, dass das Gehirn es gerne bequem hat und den anstrengenden Denkprozess meidet."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "605472ee-af43-4349-8426-46d97494d3a6",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Eine um 100% gestiegene Wahrscheinlichkeit bedeutet immer, dass sich die Gefahr katastrophal erhöht hat.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video nutzt das Beispiel eines Anstiegs von 1 auf 2 Angriffe, um zu zeigen, dass die absolute Veränderung gering sein kann.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Der Kontext der absoluten Zahlen ist entscheidend, wie das Beispiel im Video (2:09-2:23) zeigt."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "cdfc612d-0c5b-42f4-b3a6-efb8976512f7",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Faustregeln sind vor allem dann nützlich, wenn sich eine Situation, wie bei einer Pandemie, schnell und unvorhersehbar ändert.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Video nennt die Pandemie als passendes Beispiel, in dem einfache Faustregeln (z.B. Abstand halten) Sicherheit geben (2:46-2:54).",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Genau für solche Situationen werden Faustregeln im Video als hilfreiche Strategie vorgestellt."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "530c3a78-7ab8-4ee9-a498-44d43e2764c1",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Jemand beschliesst, nicht mehr schwimmen zu gehen aus Angst vor Haien, raucht aber täglich eine Schachtel Zigaretten. Gemäss dem Video ist dies eine rationale Risikobewertung.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Dies ist ein klares Beispiel für die Überschätzung eines extrem seltenen Schock-Risikos und die Unterschätzung eines sehr gefährlichen, alltäglichen Risikos.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Hier werden die Risiken genau entgegengesetzt zu ihrer statistischen Gefahr bewertet."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "1812ac65-9ebb-4f17-a8a8-b02c43ffbec4",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Die Regel „Beim Überqueren einer Strasse immer zuerst nach links, dann nach rechts und wieder nach links schauen“ ist ein Beispiel für eine Faustregel.</p>",
+                      "correct": "true",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Es ist eine einfache, erlernte Strategie, um ein alltägliches Risiko sicher zu bewältigen.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Dies ist eine klassische, einfache und effektive Faustregel für eine potenziell gefährliche Situation."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "50ab33a4-2f5f-40c2-88b4-e80e33ff4d12",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Wenn ein Risiko, wie z.B. von einem Meteoriten getroffen zu werden, extrem unwahrscheinlich ist, bedeutet das, dass es keine Gefahr darstellt.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Die Gefahr (Tod) wäre extrem hoch. Das Risiko ist die Kombination aus der (sehr geringen) Wahrscheinlichkeit und der (sehr hohen) Gefahr.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video definiert Risiko als Gefahr UND Wahrscheinlichkeit. Auch bei geringer Wahrscheinlichkeit kann die Gefahr bestehen."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "455820be-5c30-4a0b-9922-463108b6b214",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Wenn die Infektionszahlen einer Krankheit täglich stark schwanken, ist es laut Video am besten, stündlich die neusten Statistiken zu studieren, um gute Entscheidungen zu treffen.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video empfiehlt in genau so einer unübersichtlichen Situation die Anwendung von einfachen Faustregeln wie „zwei Meter Abstand halten“.",
+                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Das Video schlägt für diesen Fall Faustregeln vor, da die Zahlen allein das Vorstellungsvermögen übersteigen können (2:27-2:44)."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "eb9ac220-6ff8-40c0-876d-ec7a58cf8d9c",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  }
+                ],
+                "backgroundImage": {
+                  "mime": "image/png",
+                  "copyright": {
+                    "license": "U"
+                  },
+                  "width": 52,
+                  "height": 52,
+                  "path": "images/img_2.png"
+                },
+                "endGame": {
+                  "showResultPage": true,
+                  "showSolutionButton": true,
+                  "showRetryButton": true,
+                  "noResultMessage": "Quiz beendet",
+                  "message": "Dein Ergebnis:",
+                  "scoreBarLabel": "Du hast @score von @total Punkten erreicht.",
+                  "overallFeedback": [
+                    {
+                      "from": 0,
+                      "to": 100
+                    }
+                  ],
+                  "solutionButtonText": "Lösung anzeigen",
+                  "retryButtonText": "Wiederholen",
+                  "finishButtonText": "Beenden",
+                  "submitButtonText": "Absenden",
+                  "showAnimations": false,
+                  "skippable": false,
+                  "skipButtonText": "Video überspringen"
+                },
+                "texts": {
+                  "prevButton": "Zurück",
+                  "nextButton": "Weiter",
+                  "finishButton": "Beenden",
+                  "submitButton": "Absenden",
+                  "textualProgress": "Aktuelle Frage: @current von @total Fragen",
+                  "jumpToQuestion": "Frage %d von %total",
+                  "questionLabel": "Frage",
+                  "readSpeakerProgress": "Frage @current von @total",
+                  "unansweredText": "Unbeantwortet",
+                  "answeredText": "Beantwortet",
+                  "currentQuestionText": "Aktuelle Frage",
+                  "navigationLabel": "Fragen"
+                },
+                "override": {
+                  "checkButton": true,
+                  "showSolutionButton": "off",
+                  "retryButton": "off"
+                }
+              },
+              "library": "H5P.QuestionSet 1.20",
+              "metadata": {
+                "contentType": "Question Set",
+                "license": "U",
+                "title": "Verständnisfragen Quiz",
+                "authors": [],
+                "changes": [],
+                "extraTitle": "Verständnisfragen Quiz"
+              },
+              "subContentId": "a08cde05-df79-43b6-a238-c47c487068fb"
+            },
+            "useSeparator": "auto"
+          }
+        ]
+      },
+      "library": "H5P.Column 1.18",
+      "subContentId": "f0e11078-9298-4939-9eaf-7023527c94e6",
+      "metadata": {
+        "contentType": "Column",
+        "license": "U",
+        "title": "Verständnisfragen",
+        "authors": [],
+        "changes": [],
+        "extraTitle": "Verständnisfragen"
+      }
+    }
+  ],
+  "behaviour": {
+    "baseColor": "#1768c4",
+    "defaultTableOfContents": true,
+    "progressIndicators": true,
+    "progressAuto": true,
+    "displaySummary": true,
+    "enableRetry": true
+  },
+  "read": "Öffnen",
+  "displayTOC": "Inhaltsverzeichnis anzeigen",
+  "hideTOC": "Inhaltsverzeichnis ausblenden",
+  "nextPage": "Nächste Seite",
+  "previousPage": "Vorherige Seite",
+  "chapterCompleted": "Seite abgeschlossen!",
+  "partCompleted": "@pages von @total Seiten abgeschlossen",
+  "incompleteChapter": "Unvollständige Seite",
+  "navigateToTop": "Nach oben springen",
+  "markAsFinished": "Ich habe diese Seite abgeschlossen",
+  "fullscreen": "Vollbild",
+  "exitFullscreen": "Vollbild beenden",
+  "bookProgressSubtext": "@count von @total Seiten",
+  "interactionsProgressSubtext": "@count von @total Interaktionen",
+  "submitReport": "Report absenden",
+  "restartLabel": "Neustart",
+  "summaryHeader": "Zusammenfassung",
+  "allInteractions": "Alle Interaktionen",
+  "unansweredInteractions": "Unbeantwortete Interaktionen",
+  "scoreText": "@score / @maxscore",
+  "leftOutOfTotalCompleted": "@left von @max Interaktionen abgeschlossen",
+  "noInteractions": "Keine Interaktionen",
+  "score": "Punkte",
+  "summaryAndSubmit": "Zusammenfassung und Einsenden",
+  "noChapterInteractionBoldText": "Du hast noch keine Seiten bearbeitet.",
+  "noChapterInteractionText": "Du musst wenigstens eine Seite bearbeiten, um die Zusammenfassung zu sehen.",
+  "yourAnswersAreSubmittedForReview": "Deine Antworten wurden zur Begutachtung versendet!",
+  "bookProgress": "Buchfortschritt",
+  "interactionsProgress": "Interaktionsfortschritt",
+  "totalScoreLabel": "Gesamtpunktzahl",
+  "a11y": {
+    "progress": "Seite @page von @total.",
+    "menu": "Inhaltsverzeichnis ein- bzw. ausschalten"
+  }
+}
