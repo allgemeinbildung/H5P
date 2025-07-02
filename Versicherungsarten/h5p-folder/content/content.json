@@ -1,7 +1,7 @@
 {
   "showCoverPage": true,
   "bookCover": {
-    "coverDescription": "<h1 style=\"text-align:center\">Kaskoversicherungen in der Schweiz</h1><h3 style=\"text-align:center\">Teilkasko und Vollkasko einfach erklärt</h3>",
+    "coverDescription": "<h1 style=\"text-align:center\">Grundlagen der Versicherungen</h1><h3 style=\"text-align:center\">Die drei Versicherungsarten und das Prinzip des Moral Hazard einfach erklärt</h3>",
     "coverMedium": {
       "params": {
         "decorative": false,
@@ -26,7 +26,7 @@
         "authors": [],
         "changes": []
       },
-      "subContentId": "fdd9aa41-e4de-424d-9324-76557ba9cb4a"
+      "subContentId": "57c0a702-466a-4f8e-ac52-d39ef3459091"
     }
   },
   "chapters": [
@@ -36,7 +36,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Grundlagen der Kaskoversicherungen</h2><p>Dieses Video erklärt Ihnen die Grundlagen der <strong>Kaskoversicherungen</strong>. Sie lernen den Unterschied zwischen der <strong>Teilkasko</strong>- und der <strong>Vollkaskoversicherung</strong> kennen, erfahren, welche Schäden gedeckt sind und für welche Fahrzeuge sich die jeweilige Versicherung am besten eignet.</p><ul><li>Sie können den grundlegenden Zweck einer <strong>Kaskoversicherung</strong> im Gegensatz zur Haftpflichtversicherung <strong>erklären</strong>.</li><li>Sie sind in der Lage, die verschiedenen Schadensarten zu <strong>identifizieren</strong>, die von der <strong>Teilkaskoversicherung</strong> abgedeckt werden.</li><li>Sie verstehen, welche zusätzlichen Risiken die <strong>Vollkaskoversicherung</strong> abdeckt, insbesondere bei <strong>eigenem Verschulden</strong>.</li><li>Sie können <strong>beurteilen</strong>, wann eine Vollkasko- oder eine Teilkaskoversicherung für ein Fahrzeug <strong>sinnvoll</strong> ist.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
+                "text": "<h2>Was Sie in diesem Video lernen</h2><p>Dieses Video bietet eine Einführung in die Welt der Versicherungen. Sie lernen die <strong>drei Hauptarten</strong> von Versicherungen kennen: <strong>Personen-, Sach- und Vermögensversicherungen</strong>. Zudem wird das grundlegende Funktionsprinzip der <strong>kollektiven Risikoübernahme</strong> erklärt und das Konzept des <strong>Moral Hazard</strong> sowie Gegenmassnahmen wie die <strong>Selbstbeteiligung</strong> werden anhand von Beispielen veranschaulicht.</p><ul><li>Sie können die <strong>drei Hauptarten</strong> von Versicherungen (Personen-, Sach- und Vermögensversicherungen) <strong>unterscheiden</strong> und Beispiele dafür <strong>nennen</strong>.</li><li>Sie <strong>verstehen</strong> das Prinzip der <strong>kollektiven Risikoübernahme</strong> und können die Begriffe <strong>Versicherungsprämie</strong> und <strong>Versicherungspolice erklären</strong>.</li><li>Sie können das Konzept des <strong>Moral Hazard</strong> (moralisches Risiko) <strong>beschreiben</strong> und <strong>erklären</strong>, wie eine <strong>Selbstbeteiligung</strong> diesem entgegenwirkt.</li></ul><hr /><p>Lesen Sie zuerst die Definitionen der Begriffen hier unten. Sie werden im Video weiter vertieft.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -46,7 +46,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "6f9dce0a-a3c2-4e2c-85e8-cab4dffa78a9"
+              "subContentId": "9f5c40de-64ce-4d8a-a955-8b40ee30dc44"
             },
             "useSeparator": "auto"
           },
@@ -55,85 +55,85 @@
               "params": {
                 "panels": [
                   {
-                    "title": "Kaskoversicherung",
+                    "title": "Personenversicherung",
                     "content": {
                       "params": {
-                        "text": "<p>Eine Versicherung, die im Allgemeinen den entstandenen <strong>finanziellen Schaden</strong> am <strong>persönlichen Gegenstand</strong>, wie beispielsweise einem Fahrzeug, deckt.</p>"
+                        "text": "<p>Deckt Risiken ab, die sich direkt auf die <strong>eigene Person</strong> beziehen, wie zum Beispiel Krankheit, Unfall oder Alter.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "9b3548ac-9f45-45f2-91b9-628a1171a130",
+                      "subContentId": "e7d97fdf-ae0d-4557-bd8c-5c287b33edcf",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Kaskoversicherung",
+                        "title": "Definition: Personenversicherung",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Teilkaskoversicherung",
+                    "title": "Sachversicherung",
                     "content": {
                       "params": {
-                        "text": "<p>Deckt spezifische Schäden am Fahrzeug, wie <strong>Elementarereignisse</strong> (z.B. Hagel, Sturm), <strong>Tierschäden</strong>, <strong>Diebstahl</strong>, <strong>Vandalismus</strong> und <strong>Glasschäden</strong>.</p>"
+                        "text": "<p>Bezieht sich auf die Versicherung von <strong>beweglichen oder unbeweglichen Sachen</strong> gegen Schäden wie Diebstahl oder Zerstörung.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "d053f965-a674-481a-b83e-76225c3672aa",
+                      "subContentId": "1af16dea-46f2-4132-96c6-96f4026fde11",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Teilkaskoversicherung",
+                        "title": "Definition: Sachversicherung",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Vollkaskoversicherung",
+                    "title": "Vermögensversicherung",
                     "content": {
                       "params": {
-                        "text": "<p>Umfasst alle Leistungen der Teilkasko und deckt zusätzlich selbstverschuldete <strong>Kollisionsschäden</strong> am eigenen Fahrzeug.</p>"
+                        "text": "<p>Schützt das <strong>eigene Vermögen</strong> vor finanziellen Ansprüchen, die durch Schäden bei <strong>Drittpersonen</strong> entstehen.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "68ac0c8d-ab70-46ec-b63a-3a399b9ca896",
+                      "subContentId": "085dde94-7b2f-4af0-a33c-8ed1da348ed3",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Vollkaskoversicherung",
+                        "title": "Definition: Vermögensversicherung",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Elementarereignisse",
+                    "title": "Moral Hazard (Moralisches Risiko)",
                     "content": {
                       "params": {
-                        "text": "<p>Naturereignisse wie beispielsweise <strong>Hagel</strong>, <strong>Sturm</strong> oder <strong>Hochwasser</strong>, die zu Schäden am Fahrzeug führen können.</p>"
+                        "text": "<p>Beschreibt die Gefahr, dass eine versicherte Person <strong>weniger vorsichtig</strong> handelt, da ein möglicher Schaden von der <strong>Versicherung bezahlt</strong> wird.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "b0242540-2316-417a-acbd-def5da759b13",
+                      "subContentId": "963cd54e-af18-4d91-bd0d-049a328be4e8",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Elementarereignisse",
+                        "title": "Definition: Moral Hazard (Moralisches Risiko)",
                         "authors": [],
                         "changes": []
                       }
                     }
                   },
                   {
-                    "title": "Motorfahrzeug-Haftpflichtversicherung",
+                    "title": "Selbstbeteiligung",
                     "content": {
                       "params": {
-                        "text": "<p>Die <strong>obligatorische Versicherung</strong> in der Schweiz, die Schäden deckt, die man mit dem eigenen Fahrzeug an Dritten verursacht.</p>"
+                        "text": "<p>Der Anteil eines Schadens, den die <strong>versicherte Person</strong> selbst tragen muss, bevor die Versicherung eine Leistung erbringt.</p>"
                       },
                       "library": "H5P.AdvancedText 1.1",
-                      "subContentId": "3d3ab0b7-e323-41a7-a6b0-8bfbd1b52510",
+                      "subContentId": "4519c447-9c2b-425e-a9af-666d7a1011a3",
                       "metadata": {
                         "contentType": "Text",
                         "license": "U",
-                        "title": "Definition: Motorfahrzeug-Haftpflichtversicherung",
+                        "title": "Definition: Selbstbeteiligung",
                         "authors": [],
                         "changes": []
                       }
@@ -151,14 +151,14 @@
                 "changes": [],
                 "extraTitle": "Wichtige Begriffe"
               },
-              "subContentId": "9b84088f-1e04-400a-ad64-f57887c4ca7f"
+              "subContentId": "df72b6e9-d0eb-4f3f-b82a-9471202ae7ad"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "68b99886-dcde-45ba-8d58-2a8affbedf7f",
+      "subContentId": "c7dee158-7ac2-4bf7-ac13-42671514541b",
       "metadata": {
         "contentType": "Column",
         "license": "U",
@@ -174,7 +174,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Interaktives Video: Kaskoversicherungen</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu überprüfen.</p>"
+                "text": "<h2>Video: Versicherungen einfach erklärt</h2><p>Schauen Sie das Video und beantworten Sie die eingebetteten Fragen, um Ihr Verständnis zu prüfen.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -184,7 +184,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "462f9c6d-315b-4b92-9332-24e930289e70"
+              "subContentId": "40d84e9a-4460-4a5e-a3c1-4df818155f9c"
             },
             "useSeparator": "auto"
           },
@@ -208,7 +208,7 @@
                     },
                     "files": [
                       {
-                        "path": "https://www.youtube.com/watch?v=4pVeH9Vzhl8",
+                        "path": "https://www.youtube.com/watch?v=29KmBbo4_0M",
                         "mime": "video/YouTube",
                         "copyright": {
                           "license": "U"
@@ -225,8 +225,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 59,
-                          "to": 60
+                          "from": 110,
+                          "to": 111
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -252,41 +252,41 @@
                             "summaries": [
                               {
                                 "summary": [
-                                  "Die Kaskoversicherung deckt finanzielle Schäden am eigenen, persönlichen Gegenstand.",
-                                  "Die Kaskoversicherung ist für alle Fahrzeughalter in der Schweiz obligatorisch.",
-                                  "Die Haftpflichtversicherung bezahlt Schäden am eigenen Auto bei Eigenverschulden."
+                                  "Personenversicherungen decken Risiken ab, die die eigene Person betreffen.",
+                                  "Die Krankenversicherung ist ein typisches Beispiel für eine Sachversicherung.",
+                                  "Personenversicherungen schützen vor Schäden am eigenen Hausrat."
                                 ],
-                                "subContentId": "2f0a5636-7820-4c44-8664-893b2b13055a",
-                                "tip": "Achten Sie auf die grundlegende Definition der Kaskoversicherung zu Beginn des Videos (0:13-0:19)."
+                                "subContentId": "2de72ec1-b3d3-4bd0-a33a-8fae8b50ae07",
+                                "tip": "Achten Sie auf die Definition der Personenversicherung im Video (0:20-0:37)."
                               },
                               {
                                 "summary": [
-                                  "Man kann eine Kaskoversicherung auch für Gegenstände im Haushalt abschliessen.",
-                                  "Kaskoversicherungen gibt es ausschliesslich für Autos, nicht für Motorräder.",
-                                  "Die sogenannte Hausrat-Kasko deckt immer auch Schäden am Auto in der Garage ab."
+                                  "Vermögensversicherungen schützen bei Schäden gegenüber Drittpersonen.",
+                                  "Sachversicherungen decken ausschliesslich unbewegliche Dinge wie Gebäude ab.",
+                                  "Die private Haftpflichtversicherung gehört zu den Sachversicherungen."
                                 ],
-                                "subContentId": "eab40409-9d5a-4d02-8874-5a715826608a",
-                                "tip": "Hören Sie genau hin, für welche Bereiche neben dem Fahrzeug eine Kasko erwähnt wird (0:30-0:38)."
+                                "subContentId": "bded1e62-774d-4b80-9362-e834b7845bf7",
+                                "tip": "Wofür dient die Vermögensversicherung laut Video (1:06-1:16)?"
                               },
                               {
                                 "summary": [
-                                  "Kaskoversicherungen werden in Teilkasko und Vollkasko unterteilt.",
-                                  "Dieses Video konzentriert sich hauptsächlich auf die Hausrat-Kasko.",
-                                  "Teilkasko und Vollkasko bieten exakt die gleichen Versicherungsleistungen."
+                                  "Alle Versicherungsarten schützen immer nur vor einem finanziellen Schaden.",
+                                  "Eine Personenversicherung kann garantieren, dass man sich nie ein Bein bricht.",
+                                  "Nur Sachversicherungen dienen dem Schutz vor finanziellen Verlusten."
                                 ],
-                                "subContentId": "840204db-198a-4582-9d5e-7c9090d665c7",
-                                "tip": "Wie werden Kaskoversicherungen laut Video unterteilt (0:49-0:54)?"
+                                "subContentId": "92497cd2-39fb-4f23-b353-5b54eaaae892",
+                                "tip": "Was ist der gemeinsame und grundlegende Zweck aller drei Versicherungsarten (1:28-1:32)?"
                               }
                             ]
                           },
-                          "subContentId": "c5cbbd78-b9d4-44fc-8546-6c9d104b23a9",
+                          "subContentId": "e8151366-4981-4b46-9462-8f8b618e4760",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Grundlagen der Kaskoversicherung",
+                            "title": "Die drei Versicherungsarten",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Grundlagen der Kaskoversicherung"
+                            "extraTitle": "Die drei Versicherungsarten"
                           }
                         },
                         "pause": true,
@@ -310,8 +310,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 128,
-                          "to": 129
+                          "from": 165,
+                          "to": 166
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -337,41 +337,32 @@
                             "summaries": [
                               {
                                 "summary": [
-                                  "Die Teilkasko deckt Schäden durch Elementarereignisse wie Hagel oder Sturm.",
-                                  "Ein Motorschaden durch Verschleiss ist ein Fall für die Teilkaskoversicherung.",
-                                  "Schäden durch Hochwasser sind von der Teilkasko grundsätzlich ausgeschlossen."
+                                  "Die Versicherungsprämie ist der Betrag, den der Versicherte an die Gesellschaft zahlt.",
+                                  "Die Versicherungspolice ist der Betrag, den man monatlich an die Versicherung zahlt.",
+                                  "Die Versicherungsprämie wird nur im Schadensfall fällig, um die Kosten zu decken."
                                 ],
-                                "subContentId": "65cedc26-6142-458d-84ff-5365bf551603",
-                                "tip": "Welche Beispiele für Elementarereignisse werden im Video genannt (1:02-1:05)?"
+                                "subContentId": "7c68a6f2-573e-4ca1-bf50-cb8421283986",
+                                "tip": "Achten Sie auf die Erklärung der Begriffe Prämie und Police im Video (2:00-2:12)."
                               },
                               {
                                 "summary": [
-                                  "Schäden durch Vandalismus, wie ein abgebrochener Seitenspiegel, sind gedeckt.",
-                                  "Die Kollision mit einem Tier auf der Fahrbahn ist in der Teilkasko nicht versichert.",
-                                  "Diebstahl des gesamten Fahrzeugs wird nur von der Vollkasko übernommen."
+                                  "Das Prinzip der Versicherung ist, dass viele den Schaden von wenigen Einzelnen decken.",
+                                  "Die kollektive Risikoübernahme bedeutet, dass jeder seinen eigenen Schaden trägt.",
+                                  "Nach dem Prinzip der Versicherung erleidet jeder Versicherte früher oder später einen Schaden."
                                 ],
-                                "subContentId": "2a6b094b-7f80-4afb-ab10-451346d099a0",
-                                "tip": "Achten Sie auf die Beispiele für Vandalismus und Tierschäden (1:10-1:20)."
-                              },
-                              {
-                                "summary": [
-                                  "Ein Steinschlag in der Windschutzscheibe ist durch die Teilkasko gedeckt.",
-                                  "Glasschäden an den Scheinwerfern sind nur in der Vollkasko versichert.",
-                                  "Jegliche Art von Kratzer am Auto gilt als Glasschaden."
-                                ],
-                                "subContentId": "b82792de-4765-498c-ac0e-27c418ed8552",
-                                "tip": "Welches konkrete Beispiel wird für Glasschäden genannt (1:23)?"
+                                "subContentId": "f357e977-b47e-4a2c-89f4-e84f9b5a6ba2",
+                                "tip": "Wie wird das Prinzip der 'kollektiven Risikoübernahme' im Video erklärt (2:28-2:37)?"
                               }
                             ]
                           },
-                          "subContentId": "db638200-b378-48e5-b58a-55f48456ba69",
+                          "subContentId": "1ca0f63f-0b9c-4876-a83d-fcd8eb5fa918",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Leistungen der Teilkasko",
+                            "title": "Funktionsweise von Versicherungen",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Leistungen der Teilkasko"
+                            "extraTitle": "Funktionsweise von Versicherungen"
                           }
                         },
                         "pause": true,
@@ -395,8 +386,8 @@
                         "width": 37.5,
                         "height": 20,
                         "duration": {
-                          "from": 146,
-                          "to": 147
+                          "from": 271,
+                          "to": 272
                         },
                         "libraryTitle": "Statements",
                         "action": {
@@ -422,126 +413,41 @@
                             "summaries": [
                               {
                                 "summary": [
-                                  "Die Vollkasko deckt zusätzlich Kollisionsschäden bei eigenem Verschulden.",
-                                  "Die Vollkasko deckt nur Schäden, die von anderen Verkehrsteilnehmern verursacht wurden.",
-                                  "Ein Totalschaden ist ausschliesslich in der Teilkasko versichert."
+                                  "Moral Hazard bedeutet, dass Versicherte weniger Sorge zu ihrem Eigentum tragen.",
+                                  "Moral Hazard ist ein anderes Wort für Versicherungsbetrug.",
+                                  "Moral Hazard führt dazu, dass die Versicherungsprämien für alle sinken."
                                 ],
-                                "subContentId": "a6d412aa-bfaf-43b4-b0f9-9c54926c8847",
-                                "tip": "Was ist der wichtigste zusätzliche Schutz, den die Vollkasko bietet (1:31-1:37)?"
+                                "subContentId": "4ea6aa7f-6331-4c9a-9336-d107b8178c07",
+                                "tip": "Wie verändert Max sein Verhalten, nachdem er eine Versicherung abgeschlossen hat (3:07-3:10)?"
                               },
                               {
                                 "summary": [
-                                  "Ein Totalschaden des Fahrzeugs ist in der Vollkasko gedeckt.",
-                                  "Die Vollkasko ist eine Erweiterung der Haftpflichtversicherung.",
-                                  "Die Leistungen der Teilkasko sind in der Vollkasko nicht enthalten."
+                                  "Wegen Moral Hazard steigen die Schadensfälle und somit die Prämien für alle.",
+                                  "Mehr Schadensfälle führen dazu, dass die Prämien für alle Versicherten sinken.",
+                                  "Versicherungen können das Verhalten von Versicherten nicht beeinflussen."
                                 ],
-                                "subContentId": "72560f7e-3ae3-4599-aad6-d903b4ddc25e",
-                                "tip": "Was sagt das Video über den Fall eines Totalschadens (1:39-1:41)?"
+                                "subContentId": "a0661799-1566-4857-a577-998470620027",
+                                "tip": "Welche Konsequenz hat das veränderte Verhalten vieler Versicherter für die Versicherungsgesellschaft (3:20-3:30)?"
                               },
                               {
                                 "summary": [
-                                  "Die genauen Leistungen sind immer in der Versicherungspolice festgehalten.",
-                                  "Der Begriff 'Vollkasko' bedeutet, dass ausnahmslos alle Schäden versichert sind.",
-                                  "Alle Versicherungsanbieter in der Schweiz bieten identische Vollkasko-Leistungen an."
+                                  "Eine Selbstbeteiligung bedeutet, dass man einen Teil des Schadens selbst bezahlt.",
+                                  "Eine Franchise ist ein Rabatt, den man auf die Versicherungsprämie erhält.",
+                                  "Die Selbstbeteiligung wird von der Versicherung an den Versicherten ausgezahlt."
                                 ],
-                                "subContentId": "ad87a2d9-bd6e-42f2-85cc-314128084cc7",
-                                "tip": "Warum ist es wichtig, die Versicherungspolice genau zu lesen (1:44-1:51)?"
+                                "subContentId": "ea6c602f-e865-4dbf-b80b-640c9c738065",
+                                "tip": "Was versteht man unter dem Begriff 'Selbstbeteiligung' als Gegenmassnahme (3:45-3:51)?"
                               }
                             ]
                           },
-                          "subContentId": "cc4c7736-b518-42a0-b2a0-740388d49d6e",
+                          "subContentId": "25fb55ca-6cc8-4ae6-ab2a-c571614ed195",
                           "metadata": {
                             "contentType": "Summary",
                             "license": "U",
-                            "title": "Leistungen der Vollkasko",
+                            "title": "Moral Hazard und Selbstbeteiligung",
                             "authors": [],
                             "changes": [],
-                            "extraTitle": "Leistungen der Vollkasko"
-                          }
-                        },
-                        "pause": true,
-                        "displayType": "poster",
-                        "buttonOnMobile": false,
-                        "adaptivity": {
-                          "correct": {
-                            "allowOptOut": false,
-                            "message": ""
-                          },
-                          "wrong": {
-                            "allowOptOut": false,
-                            "message": ""
-                          }
-                        },
-                        "label": ""
-                      },
-                      {
-                        "x": 3.149,
-                        "y": 5.594,
-                        "width": 37.5,
-                        "height": 20,
-                        "duration": {
-                          "from": 196,
-                          "to": 197
-                        },
-                        "libraryTitle": "Statements",
-                        "action": {
-                          "library": "H5P.Summary 1.10",
-                          "params": {
-                            "intro": "<p>Wählen Sie die korrekten Aussagen für die folgenden Aufgaben.</p>",
-                            "overallFeedback": [
-                              {
-                                "from": 0,
-                                "to": 100
-                              }
-                            ],
-                            "solvedLabel": "Fortschritt:",
-                            "scoreLabel": "Falsche Antworten:",
-                            "resultLabel": "Dein Ergebnis",
-                            "labelCorrect": "Richtig.",
-                            "labelIncorrect": "Falsch! Bitte versuche es noch einmal.",
-                            "alternativeIncorrectLabel": "Falsch",
-                            "labelCorrectAnswers": "Richtige Antwort(en).",
-                            "tipButtonLabel": "Tipp anzeigen",
-                            "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                            "progressText": "Fortschritt :num von :total",
-                            "summaries": [
-                              {
-                                "summary": [
-                                  "Eine Vollkaskoversicherung ist oft deutlich teurer als eine Teilkasko.",
-                                  "Eine Vollkasko lohnt sich vor allem bei günstigen Fahrzeugen mit geringem Wert.",
-                                  "Der Preisunterschied zwischen Teil- und Vollkasko ist gesetzlich geregelt und minimal."
-                                ],
-                                "subContentId": "fc7ca26e-6633-4208-b4f8-99db9eeddfc7",
-                                "tip": "Wie wird der Kostenunterschied zwischen den beiden Versicherungsarten beschrieben (2:31-2:34)?"
-                              },
-                              {
-                                "summary": [
-                                  "Eine Teilkasko eignet sich für Fahrzeuge, die relativ günstig ersetzt werden können.",
-                                  "Für sehr teure Fahrzeuge wird allgemein eine Teilkaskoversicherung empfohlen.",
-                                  "Die Wahl der Kasko hängt nur vom Alter des Fahrzeugs ab, nicht vom Wert."
-                                ],
-                                "subContentId": "a100bbf5-8a2c-45ea-afbf-4693c67b86c5",
-                                "tip": "Für welche Art von Fahrzeugen wird eine Teilkasko empfohlen (2:50-2:58)?"
-                              },
-                              {
-                                "summary": [
-                                  "Die Motorfahrzeug-Haftpflichtversicherung ist im Gegensatz zur Kasko obligatorisch.",
-                                  "Sowohl die Teilkasko- als auch die Vollkaskoversicherung sind in der Schweiz obligatorisch.",
-                                  "Man muss gesetzlich entweder eine Teil- oder eine Vollkaskoversicherung abschliessen."
-                                ],
-                                "subContentId": "80a54712-edac-4fa7-bdb8-89507390dcf5",
-                                "tip": "Welche Versicherung ist laut Video gesetzlich vorgeschrieben und welche nicht (3:07-3:17)?"
-                              }
-                            ]
-                          },
-                          "subContentId": "168de7d6-5216-429b-af7a-aa5e14a81eea",
-                          "metadata": {
-                            "contentType": "Summary",
-                            "license": "U",
-                            "title": "Empfehlungen und Abschluss",
-                            "authors": [],
-                            "changes": [],
-                            "extraTitle": "Empfehlungen und Abschluss"
+                            "extraTitle": "Moral Hazard und Selbstbeteiligung"
                           }
                         },
                         "pause": true,
@@ -595,12 +501,12 @@
                         "progressText": "Fortschritt :num von :total",
                         "summaries": [
                           {
-                            "subContentId": "520f71c9-af78-4093-8430-591992380ee5",
+                            "subContentId": "56145acb-7581-4033-aa06-f12e5fabf00e",
                             "tip": ""
                           }
                         ]
                       },
-                      "subContentId": "d27321ff-95e6-4cfb-a293-b07aba4a90dd",
+                      "subContentId": "74dd9cfc-9c9e-4d0b-b731-2dad329dd22b",
                       "metadata": {
                         "contentType": "Summary",
                         "license": "U",
@@ -674,19 +580,19 @@
               "metadata": {
                 "contentType": "Interactive Video",
                 "license": "U",
-                "title": "Video: Teilkasko & Vollkasko erklärt",
+                "title": "Interaktives Video: Einführung in das Versicherungswesen",
                 "authors": [],
                 "changes": [],
-                "extraTitle": "Video: Teilkasko & Vollkasko erklärt"
+                "extraTitle": "Interaktives Video: Einführung in das Versicherungswesen"
               },
-              "subContentId": "9e1e72e6-4a97-4793-a466-df43ba5448f1"
+              "subContentId": "69b63c16-d5a1-4b5f-9d4f-7b0dbfc45fa2"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "953cc56a-6134-4780-abe3-8659159ff577",
+      "subContentId": "d1338d34-b13d-4b7f-a6a0-0982cf9b03a6",
       "metadata": {
         "contentType": "Column",
         "license": "U",
@@ -702,7 +608,7 @@
           {
             "content": {
               "params": {
-                "text": "<h2>Verständnisfragen</h2><p>Beantworten Sie zum Schluss die folgenden Fragen zum Inhalt des Videos, um Ihr Wissen zu festigen.</p>"
+                "text": "<h2>Verständnisfragen</h2><p>Beantworten Sie zum Schluss die folgenden Fragen zum Inhalt des Videos.</p>"
               },
               "library": "H5P.AdvancedText 1.1",
               "metadata": {
@@ -712,7 +618,7 @@
                 "authors": [],
                 "changes": []
               },
-              "subContentId": "ff6bc44e-f328-429a-bf9f-cdb680d7753a"
+              "subContentId": "6ef946bc-feba-421d-837a-b2989d4c3a86"
             },
             "useSeparator": "auto"
           },
@@ -734,32 +640,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welcher Schaden ist laut Video typischerweise durch eine Teilkaskoversicherung gedeckt?</p>",
+                      "question": "<p>Welche der folgenden ist laut Video ein Beispiel für eine Personenversicherung?</p>",
                       "answers": [
                         {
-                          "text": "Schäden durch einen Marder",
+                          "text": "Krankenversicherung",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Schäden durch Tiere wie Marder werden explizit als Teilkasko-Leistung genannt.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Krankenversicherung bezieht sich direkt auf die Person.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Schäden durch eigenes Verschulden",
+                          "text": "Hausratversicherung",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dies ist die Kernleistung der Vollkasko, nicht der Teilkasko.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Hausratversicherung ist eine Sachversicherung.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Schäden durch Parkieren",
+                          "text": "Haftpflichtversicherung",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Parkschäden werden als mögliche Zusatzversicherung erwähnt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Haftpflichtversicherung ist eine Vermögensversicherung.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -820,7 +726,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "b773dffe-7e35-47cd-9b11-a37ac669d82e",
+                    "subContentId": "cf6f2d0b-fbc1-4d1a-9ad3-22192224b6ce",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -833,32 +739,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welche Leistung kommt bei der Vollkasko hauptsächlich zu den Teilkasko-Leistungen hinzu?</p>",
+                      "question": "<p>Wie nennt man den Betrag, den ein Versicherter an die Versicherungsgesellschaft zahlen muss?</p>",
                       "answers": [
                         {
-                          "text": "Die Deckung von Kollisionsschäden",
+                          "text": "Versicherungsprämie",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Vollkasko erweitert die Teilkasko vor allem um selbstverschuldete Kollisionsschäden.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist der korrekte Begriff für die Zahlung an die Versicherung.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Deckung von Diebstahl",
+                          "text": "Versicherungspolice",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diebstahl ist bereits in der Teilkaskoversicherung enthalten.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Police ist der Vertrag, der die Leistungen festhält.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Deckung von Hagelschäden",
+                          "text": "Selbstbeteiligung",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Hagel ist als Elementarereignis bereits Teil der Teilkasko.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Selbstbeteiligung ist der Anteil, den man im Schadensfall selbst zahlt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -919,7 +825,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "daeaaa48-1f77-4520-b849-1aa4b22e48de",
+                    "subContentId": "4abe7ba6-3a7c-4ae3-89b7-774b4731ae35",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -932,32 +838,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Für welche Art von Fahrzeugen wird laut Video allgemein eine Vollkaskoversicherung empfohlen?</p>",
+                      "question": "<p>Welcher Begriff beschreibt das Grundprinzip, dass viele Versicherte den Schaden von wenigen decken?</p>",
                       "answers": [
                         {
-                          "text": "Für teurere Fahrzeuge",
+                          "text": "Kollektive Risikoübernahme",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Da bei teuren Fahrzeugen ein Schaden ein höheres finanzielles Ausmass erreicht.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Genau das beschreibt das Solidaritätsprinzip der Versicherungen.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Für Fahrzeuge mit geringem Wert",
+                          "text": "Moralisches Risiko (Moral Hazard)",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Für diese wird eher eine Teilkasko oder nur die Haftpflicht empfohlen.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Moral Hazard beschreibt sorgloses Verhalten aufgrund des Versicherungsschutzes.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Für alle Fahrzeuge über 5 Jahre",
+                          "text": "Pauschale Selbstbeteiligung",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video nennt den Wert, nicht das Alter als primäres Kriterium.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Dies ist eine spezifische Form der Kostenbeteiligung im Schadensfall.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1018,7 +924,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "159cf299-8d91-4236-9714-de158aa358af",
+                    "subContentId": "65a1533c-1ba2-4e91-bc82-8e424ed79b47",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1031,32 +937,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Welche Versicherung ist für Fahrzeughalter in der Schweiz gesetzlich vorgeschrieben (obligatorisch)?</p>",
+                      "question": "<p>Welche der drei Versicherungsarten schützt das Vermögen bei Schäden gegenüber Drittpersonen?</p>",
                       "answers": [
                         {
-                          "text": "Die Motorfahrzeug-Haftpflichtversicherung",
+                          "text": "Vermögensversicherung",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video stellt am Ende klar, dass nur die Haftpflichtversicherung obligatorisch ist.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Haftpflichtversicherung ist das typische Beispiel dafür.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Teilkaskoversicherung",
+                          "text": "Personenversicherung",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Kaskoversicherungen sind freiwillig.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese schützt die Person selbst (z.B. bei Krankheit).",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Vollkaskoversicherung",
+                          "text": "Sachversicherung",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Kaskoversicherungen sind freiwillig.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese schützt die eigenen Gegenstände (z.B. das Auto).",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1117,7 +1023,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "6015e6d0-3a1b-41ce-b241-cb5dac650e15",
+                    "subContentId": "dbf44626-baf6-4d61-869d-dce8b0c7e433",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1130,32 +1036,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Was ist der wesentliche Unterschied zwischen einer Kasko- und einer Haftpflichtversicherung?</p>",
+                      "question": "<p>Warum führen Versicherungen eine Selbstbeteiligung ein?</p>",
                       "answers": [
                         {
-                          "text": "Kasko deckt Schäden am eigenen Fahrzeug, Haftpflicht Schäden an fremdem Eigentum.",
+                          "text": "Um dem 'Moral Hazard' entgegenzuwirken.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das ist die zentrale Abgrenzung, die im Video erklärt wird.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Wenn man selbst einen Teil zahlen muss, ist man tendenziell vorsichtiger.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Kasko ist für Unfälle, Haftpflicht für Diebstahl zuständig.",
+                          "text": "Um die Verwaltungskosten zu senken.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Diese Zuordnung ist nicht korrekt. Diebstahl wird von der Kaskoversicherung gedeckt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Der Hauptgrund ist die Beeinflussung des Verhaltens, nicht die Verwaltung.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Kasko ist freiwillig, Haftpflicht ist für teure Autos empfohlen.",
+                          "text": "Um die Prämien für alle zu erhöhen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Haftpflicht ist für alle Autos obligatorisch, nicht nur eine Empfehlung.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Gegenteil ist das Ziel: Die Prämien sollen dadurch stabil gehalten werden.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1216,7 +1122,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "e590e752-6a1e-446d-9e93-8e750457e3e7",
+                    "subContentId": "57d241a2-c3b9-46cc-8697-ddaaa15317a8",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1229,32 +1135,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Warum lohnt sich eine Vollkasko laut Video bei teureren Fahrzeugen mehr?</p>",
+                      "question": "<p>Was ist die direkte Folge von 'Moral Hazard' für die Versichertengemeinschaft?</p>",
                       "answers": [
                         {
-                          "text": "Weil der finanzielle Verlust bei einem selbstverschuldeten Totalschaden grösser ist.",
+                          "text": "Die Versicherungsprämien müssen erhöht werden.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Vollkasko sichert das höhere finanzielle Risiko eines teuren Fahrzeugs bei Kollisionen ab.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Mehr Schäden durch Leichtsinnigkeit führen zu höheren Kosten für alle.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil nur teure Autos von Vandalismus betroffen sind.",
+                          "text": "Die Anzahl der Schadensfälle sinkt deutlich.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Vandalismus ist bereits in der Teilkasko gedeckt und betrifft nicht nur teure Autos.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Gegenteil ist der Fall, die Anzahl der Schadensfälle steigt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil die Prämie für teure Autos bei der Vollkasko günstiger ist.",
+                          "text": "Die Versicherungen machen einen höheren Gewinn.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Gegenteil ist der Fall; die Vollkasko ist teurer.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Höhere Auszahlungen für Schäden schmälern den Gewinn.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1315,7 +1221,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "ae6e62e4-1672-47e1-a4c8-f16779b3830a",
+                    "subContentId": "9be7e2ec-ffae-4254-a5f7-b09a7819b8ce",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1328,32 +1234,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Was bedeutet die Aussage, dass die genauen Leistungen in der 'Versicherungspolice festgehalten' sind?</p>",
+                      "question": "<p>Inwiefern schützt eine Versicherung laut Video nur vor einem 'finanziellen' Schaden?</p>",
                       "answers": [
                         {
-                          "text": "Dass man den Vertrag genau lesen muss, weil nicht alles standardmässig gedeckt ist.",
+                          "text": "Sie kann den eigentlichen Schaden nicht verhindern, aber die Kosten ersetzen.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Es gibt Unterschiede zwischen den Anbietern und Tarifen, die im Vertrag (Police) definiert sind.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Eine Versicherung kann einen Beinbruch nicht verhindern, aber die Behandlungskosten übernehmen.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Dass die Polizei im Schadensfall die Leistungen festlegt.",
+                          "text": "Sie zahlt nur bei Schäden, die ausschliesslich Geld betreffen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die 'Police' ist der Versicherungsvertrag, nicht die Polizei.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Sie deckt auch Personen- und Sachschäden, aber eben deren finanziellen Wert.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Dass alle Versicherungen in der Schweiz gesetzlich zu denselben Leistungen verpflichtet sind.",
+                          "text": "Sie ist nur für Personen mit einem grossen Vermögen gedacht.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video weist darauf hin, dass es eben Unterschiede gibt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Versicherungen sind für alle da, um finanzielle Notlagen zu vermeiden.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1414,7 +1320,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "9d472493-86f0-44cb-9ea3-741d08f62c75",
+                    "subContentId": "460094d5-33d0-4282-af63-19b4f0bfe33a",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1427,32 +1333,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Warum kann eine Kaskoversicherung auch als 'Hausrat-Kasko' bezeichnet werden?</p>",
+                      "question": "<p>Was ist der Unterschied zwischen einer Franchise und einer prozentualen Selbstbeteiligung?</p>",
                       "answers": [
                         {
-                          "text": "Weil das Kasko-Prinzip (Schutz eigener Gegenstände) auch auf den Hausrat angewendet werden kann.",
+                          "text": "Die Franchise ist ein Fixbetrag, den man zuerst selbst zahlen muss.",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Video erwähnt, dass die Versicherung auch für Gegenstände im Privathaushalt abgeschlossen werden kann.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Bei einer Franchise zahlt man alle Kosten bis zu einem bestimmten Betrag (z.B. 300 CHF) selbst.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil die Auto-Kaskoversicherung automatisch immer den gesamten Hausrat mitversichert.",
+                          "text": "Die Franchise gilt nur für Sachversicherungen.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Es handelt sich um separate Versicherungen nach dem gleichen Prinzip.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das Video nennt die Krankenkasse als Beispiel für eine Franchise.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Weil Autos rechtlich zum Hausrat gezählt werden.",
+                          "text": "Eine Franchise ist immer höher als eine Selbstbeteiligung.",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist rechtlich nicht korrekt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das sind zwei verschiedene Modelle der Kostenbeteiligung.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1513,7 +1419,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "a7323713-279e-432c-bfd2-542ee656aea4",
+                    "subContentId": "f77578bc-3fe4-4aff-b603-c00a5a15956b",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1526,32 +1432,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Tom verursacht beim Ausparken einen Kratzer an seinem eigenen Auto. Welche Versicherung deckt diesen Schaden?</p>",
+                      "question": "<p>Max lässt sein neues Smartphone öfter fallen, seit er eine Versicherung gegen Glasbruch hat. Wie nennt man dieses Verhalten?</p>",
                       "answers": [
                         {
-                          "text": "Die Vollkaskoversicherung.",
+                          "text": "Moral Hazard",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Dies ist ein selbstverschuldeter Kollisions- bzw. Parkschaden, ein klassischer Fall für die Vollkasko.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das ist das exakte Beispiel, das im Video für Moral Hazard verwendet wird.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Teilkaskoversicherung.",
+                          "text": "Kollektive Risikoübernahme",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Teilkasko deckt keine selbstverschuldeten Kollisions- oder Parkschäden.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das beschreibt das Solidaritätsprinzip, nicht das Verhalten von Max.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Haftpflichtversicherung.",
+                          "text": "Selbstbeteiligung",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Haftpflicht würde nur den Schaden an einem fremden Fahrzeug decken.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist eine Massnahme gegen sein Verhalten, nicht das Verhalten selbst.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1612,7 +1518,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "84cf9343-a42e-4b8b-b199-62ab48c95b6f",
+                    "subContentId": "afb968a4-2589-4c26-971c-8cd7a8fc01a2",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1625,32 +1531,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Ein heftiger Hagelsturm beschädigt das Dach von Lisas Auto. Sie hat eine Teilkaskoversicherung. Was trifft zu?</p>",
+                      "question": "<p>Ein Hagelsturm beschädigt das Auto von Sarah. Welche Art von Versicherung ist hier zuständig?</p>",
                       "answers": [
                         {
-                          "text": "Der Schaden ist gedeckt, da Hagel ein Elementarereignis ist.",
+                          "text": "Eine Sachversicherung (Kaskoversicherung)",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Hagel gehört zu den Elementarereignissen, die von der Teilkasko abgedeckt werden.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Das Auto ist eine Sache, und die Kaskoversicherung ist eine Sachversicherung.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Der Schaden ist nicht gedeckt, weil sie keine Vollkasko hat.",
+                          "text": "Eine Personenversicherung",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Für Elementarschäden ist die Teilkasko ausreichend.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Es wurde keine Person direkt geschädigt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Der Schaden ist nicht gedeckt, weil sie den Sturm nicht verhindern konnte.",
+                          "text": "Eine Vermögensversicherung",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Genau für solche nicht abwendbaren Ereignisse ist die Teilkasko da.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Es wurde keine Drittperson geschädigt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1711,7 +1617,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "a146cf77-4c27-44c7-be6d-184a5ede6c30",
+                    "subContentId": "649c626f-6879-4745-b760-d271e392d944",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1724,32 +1630,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Ein Freund rät Ihnen, für Ihr 15 Jahre altes Auto mit einem Wert von 1'500 CHF eine Vollkasko abzuschliessen. Was würden Sie basierend auf dem Video entgegnen?</p>",
+                      "question": "<p>Tom verursacht beim Fussballspielen eine Fensterscheibe beim Nachbarn. Welche Versicherung deckt diesen Schaden?</p>",
                       "answers": [
                         {
-                          "text": "Dass sich die teure Prämie für die Vollkasko bei diesem geringen Fahrzeugwert nicht mehr lohnt.",
+                          "text": "Seine Vermögensversicherung (Haftpflicht)",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Gemäss der Empfehlung im Video wäre bei einem so geringen Wert eine Teilkasko oder nur die Haftpflicht sinnvoller.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Er hat einer Drittperson (dem Nachbarn) einen Schaden zugefügt.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Dass eine Vollkasko für alte Autos gesetzlich verboten ist.",
+                          "text": "Seine Sachversicherung (Hausrat)",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Es ist nicht verboten, aber wirtschaftlich meist unklug.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Seine Hausratversicherung deckt nur Schäden an seinen eigenen Sachen.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Dass die Vollkasko eine gute Idee ist, um den Wert des Autos zu erhalten.",
+                          "text": "Seine Personenversicherung (Unfall)",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Eine Versicherung erhält den Wert nicht, sie sichert nur den Verlust ab, was sich bei geringem Wert nicht rechnet.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Es sei denn, Tom hätte sich dabei selbst verletzt.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1810,7 +1716,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "0e6a23f1-d0ee-495a-9b5f-ac454aa39148",
+                    "subContentId": "467b4218-1770-488f-8377-280f85e2c521",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1823,32 +1729,32 @@
                   {
                     "library": "H5P.MultiChoice 1.16",
                     "params": {
-                      "question": "<p>Sie fahren auf einer Landstrasse und ein Reh springt vors Auto. Es kommt zur Kollision. Welche Versicherung deckt den Schaden an Ihrem Fahrzeug?</p>",
+                      "question": "<p>Mias Smartphone-Display bricht. Die Reparatur kostet 200 CHF. Ihre Versicherung hat eine pauschale Selbstbeteiligung von 50 CHF. Wie viel zahlt die Versicherung?</p>",
                       "answers": [
                         {
-                          "text": "Die Teilkaskoversicherung.",
+                          "text": "150 CHF",
                           "correct": true,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "✅ <strong>Richtig!</strong> Eine Kollision mit Tieren auf der Fahrbahn wird als Tierschaden von der Teilkasko gedeckt.",
+                            "chosenFeedback": "✅ <strong>Richtig!</strong> Die Kosten von 200 CHF minus die Selbstbeteiligung von 50 CHF ergeben 150 CHF.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Die Insassenversicherung.",
+                          "text": "200 CHF",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Die Insassenversicherung deckt Verletzungen der Passagiere, nicht den Schaden am Fahrzeug.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Mia muss zuerst ihren Anteil, die Selbstbeteiligung, bezahlen.",
                             "notChosenFeedback": ""
                           }
                         },
                         {
-                          "text": "Nur die Vollkasko, da es eine Kollision war.",
+                          "text": "50 CHF",
                           "correct": false,
                           "tipsAndFeedback": {
                             "tip": "",
-                            "chosenFeedback": "❌ <strong>Falsch!</strong> Obwohl es eine Kollision ist, wird der Spezialfall 'Kollision mit Tier' bereits von der Teilkasko abgedeckt.",
+                            "chosenFeedback": "❌ <strong>Falsch!</strong> Das ist der Betrag, den Mia selbst zahlt, nicht die Versicherung.",
                             "notChosenFeedback": ""
                           }
                         }
@@ -1909,7 +1815,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "eb112443-058d-47d5-ba8d-cba929effaaf",
+                    "subContentId": "09ca636f-26e7-4085-95cb-d7260467eae8",
                     "metadata": {
                       "contentType": "Multiple Choice",
                       "license": "U",
@@ -1922,7 +1828,63 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Die Vollkaskoversicherung kann als ein Paket verstanden werden, das alle Leistungen der Teilkasko bereits beinhaltet.</p>",
+                      "question": "<p>Das Hauptziel einer Versicherung ist es, zu verhindern, dass ein Schaden überhaupt eintritt.</p>",
+                      "correct": "false",
+                      "behaviour": {
+                        "enableRetry": false,
+                        "enableSolutionsButton": false,
+                        "enableCheckButton": true,
+                        "confirmCheckDialog": false,
+                        "confirmRetryDialog": false,
+                        "autoCheck": false,
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Eine Versicherung kann den Schaden nicht verhindern (z.B. einen Unfall), sondern nur den <strong>finanziellen</strong> Schaden danach ausgleichen.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist tatsächlich falsch. Das Video betont, dass Versicherungen nur vor dem <strong>finanziellen</strong> Schaden schützen, ihn aber nicht verhindern können."
+                      },
+                      "media": {
+                        "disableImageZooming": false
+                      },
+                      "l10n": {
+                        "trueText": "Wahr",
+                        "falseText": "Falsch",
+                        "score": "Du hast @score von @total Punkten erreicht.",
+                        "checkAnswer": "Überprüfen",
+                        "submitAnswer": "Absenden",
+                        "showSolutionButton": "Lösung anzeigen",
+                        "tryAgain": "Wiederholen",
+                        "wrongAnswerMessage": "Falsche Antwort",
+                        "correctAnswerMessage": "Richtige Antwort",
+                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
+                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
+                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
+                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
+                      },
+                      "confirmCheck": {
+                        "header": "Beenden?",
+                        "body": "Ganz sicher beenden?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Beenden"
+                      },
+                      "confirmRetry": {
+                        "header": "Wiederholen?",
+                        "body": "Ganz sicher wiederholen?",
+                        "cancelLabel": "Abbrechen",
+                        "confirmLabel": "Bestätigen"
+                      }
+                    },
+                    "subContentId": "cf38e780-1f6b-4591-8a55-eaf25df43ace",
+                    "metadata": {
+                      "contentType": "True/False Question",
+                      "license": "U",
+                      "title": "Richtig Falsch",
+                      "authors": [],
+                      "changes": [],
+                      "extraTitle": "Richtig Falsch"
+                    }
+                  },
+                  {
+                    "library": "H5P.TrueFalse 1.8",
+                    "params": {
+                      "question": "<p>Wenn es mehr Schadensfälle gibt, muss eine Versicherung die Prämien erhöhen, um weiterhin alle Schäden decken zu können.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
@@ -1931,8 +1893,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Video erklärt, dass die Vollkasko sämtliche Schäden der Teilkasko deckt und diese um die Kollisionsdeckung erweitert.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Die Vollkasko ist eine Erweiterung der Teilkasko, keine separate Versicherung."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist korrekt. Das ist die logische Konsequenz, die im Video im Kontext von Moral Hazard erklärt wird.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist korrekt. Steigende Kosten (durch mehr Schäden) müssen durch höhere Einnahmen (Prämien) gedeckt werden."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -1965,7 +1927,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "182119f3-096a-4331-9238-031e160db9cb",
+                    "subContentId": "32a412fa-4959-44ce-bbbf-7d96e07cbdce",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -1978,7 +1940,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Laut Video ist es nicht notwendig, die Versicherungspolice zu prüfen, da 'Vollkasko' immer bedeutet, dass alle denkbaren Schäden am Fahrzeug versichert sind.</p>",
+                      "question": "<p>Die 'kollektive Risikoübernahme' funktioniert auch, wenn nur wenige Leute eine Versicherung abschliessen.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -1987,8 +1949,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video betont, dass 'Vollkasko' nicht zwingend 'vollständig' heisst und man Zusatzversicherungen für bestimmte Schäden wie Parkschäden benötigen könnte.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Es wird explizit darauf hingewiesen, dass man die Police prüfen sollte."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Das Prinzip funktioniert nur, weil <strong>viele</strong> Leute einzahlen und nur <strong>wenige</strong> einen Schaden erleiden. Bei wenigen Einzahlern würde das System zusammenbrechen.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist tatsächlich falsch. Das Video betont, dass es 'viele weitere' Versicherte braucht, damit das Prinzip aufgeht."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2021,7 +1983,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "4941bca3-6714-48bc-995f-2f76b2f45a0a",
+                    "subContentId": "58dc37f8-be9f-4eef-bf6f-8e41af8083e2",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2034,7 +1996,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Die Entscheidung für eine Teil- oder Vollkaskoversicherung hängt gemäss Video ausschliesslich vom Alter des Fahrzeugs ab.</p>",
+                      "question": "<p>Eine Versicherungspolice listet die Beträge auf, die alle Versicherten zusammen pro Jahr einzahlen.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -2043,8 +2005,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video nennt explizit den finanziellen Wert ('teurere Fahrzeuge' vs. 'geringeren finanziellen Wert') als entscheidendes Kriterium.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Der finanzielle Wert ist laut Video der wichtigere Faktor für die Entscheidung."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Die Versicherungspolice ist der <strong>persönliche Vertrag</strong>, der die Leistungen festhält, die man im Schadensfall erhält.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist tatsächlich falsch. Die Police ist der individuelle Vertrag mit den Leistungsdetails."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2077,7 +2039,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "41c6eb9d-6442-4fa9-8d37-4cc82aab8dc8",
+                    "subContentId": "0929102b-dff8-4c99-9d57-df377ee21537",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2090,7 +2052,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Die im Video erwähnte Assistance-Versicherung ist ein anderer Name für die Vollkaskoversicherung.</p>",
+                      "question": "<p>Jemand, der eine Rechtsschutzversicherung hat, muss bei einem teuren Gerichtsverfahren keine Kosten selbst tragen.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -2099,8 +2061,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Die Assistance wird als eine von mehreren möglichen Zusatzversicherungen genannt, die nicht standardmässig in der Kasko enthalten ist.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Assistance ist eine separate Zusatzleistung, z.B. für Pannenhilfe."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist wahrscheinlich falsch. Auch bei Rechtsschutzversicherungen gibt es oft Deckungslimiten oder eine Selbstbeteiligung, wie bei anderen Versicherungen auch.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist mit grosser Wahrscheinlichkeit falsch. Das Prinzip der Selbstbeteiligung zur Eindämmung der Kosten gilt auch hier oft."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2133,7 +2095,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "24e2305e-cf3f-4dad-9986-7bcb7ad36f6d",
+                    "subContentId": "5e081623-92b3-460b-b983-42b92db622ba",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2146,7 +2108,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Wenn Sie Ihr Auto ohne Kaskoversicherung fahren und es gestohlen wird, deckt die obligatorische Haftpflichtversicherung den Verlust des Fahrzeugs.</p>",
+                      "question": "<p>Wenn Lea eine Krankenkassen-Franchise von 300 CHF hat, bedeutet das, dass ihre Arztbesuche ab dem ersten Franken von der Kasse bezahlt werden.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -2155,8 +2117,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Die Haftpflichtversicherung deckt nur Schäden an Dritten. Der Diebstahl des eigenen Fahrzeugs wäre ein Fall für die Teilkasko gewesen.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Ohne Kasko gibt es keine Deckung für den Diebstahl des eigenen Autos."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Das Video erklärt, dass sie bei einer Franchise von 300 CHF die ersten 300 CHF an Kosten <strong>selbst begleichen</strong> muss.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist tatsächlich falsch. Die Franchise ist der Betrag, den man zuerst komplett selbst bezahlen muss."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2189,7 +2151,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "2b34476a-2976-486f-b665-adcd8b5860f0",
+                    "subContentId": "efa1f14d-c249-41ec-9f8b-4a5883c754a9",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2202,7 +2164,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Ein umgestürzter Baum blockiert die Strasse, Sie können nicht ausweichen und fahren dagegen. Für den Schaden an Ihrem Auto benötigen Sie eine Vollkaskoversicherung.</p>",
+                      "question": "<p>Die Diebstahlversicherung für ein Fahrrad ist ein Beispiel für eine Sachversicherung.</p>",
                       "correct": "true",
                       "behaviour": {
                         "enableRetry": false,
@@ -2211,8 +2173,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Obwohl ein Baum beteiligt ist, handelt es sich hier nicht um ein Elementarereignis (wie Sturm), sondern um eine Kollision mit einem Hindernis. Dies erfordert eine Vollkasko.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Eine Kollision mit einem bereits am Boden liegenden Gegenstand ist kein Elementarschaden und fällt daher unter die Kollisionsdeckung der Vollkasko."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist korrekt. Das Fahrrad ist eine bewegliche Sache, und der Diebstahl ist ein Schaden an dieser Sache.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist korrekt. Das Video nennt die Diebstahlversicherung als klares Beispiel für eine Sachversicherung."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2245,7 +2207,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "3a91037f-beb5-4998-b4bf-cfeab1d4ff01",
+                    "subContentId": "4cfc6817-5dcf-4517-853e-82539a9bffce",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2258,63 +2220,7 @@
                   {
                     "library": "H5P.TrueFalse 1.8",
                     "params": {
-                      "question": "<p>Sie haben eine Teilkaskoversicherung. Jemand bricht Ihren Seitenspiegel ab. Laut Video ist dieser Vandalismusschaden gedeckt.</p>",
-                      "correct": "true",
-                      "behaviour": {
-                        "enableRetry": false,
-                        "enableSolutionsButton": false,
-                        "enableCheckButton": true,
-                        "confirmCheckDialog": false,
-                        "confirmRetryDialog": false,
-                        "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist korrekt. Das Abbrechen eines Seitenspiegels wird explizit als Beispiel für Vandalismus genannt, der von der Teilkasko gedeckt wird.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist korrekt. Das Video listet dies als Beispiel für einen von der Teilkasko gedeckten Vandalismusschaden auf (1:14-1:20)."
-                      },
-                      "media": {
-                        "disableImageZooming": false
-                      },
-                      "l10n": {
-                        "trueText": "Wahr",
-                        "falseText": "Falsch",
-                        "score": "Du hast @score von @total Punkten erreicht.",
-                        "checkAnswer": "Überprüfen",
-                        "submitAnswer": "Absenden",
-                        "showSolutionButton": "Lösung anzeigen",
-                        "tryAgain": "Wiederholen",
-                        "wrongAnswerMessage": "Falsche Antwort",
-                        "correctAnswerMessage": "Richtige Antwort",
-                        "scoreBarLabel": "Du hast :num von :total Punkten erreicht.",
-                        "a11yCheck": "Die Antworten überprüfen. Die Antwort wird als richtig, falsch oder unbeantwortet markiert.",
-                        "a11yShowSolution": "Die Lösung anzeigen. Die richtige Lösung wird in der Aufgabe angezeigt.",
-                        "a11yRetry": "Die Aufgabe wiederholen. Alle Versuche werden zurückgesetzt, und die Aufgabe wird erneut gestartet."
-                      },
-                      "confirmCheck": {
-                        "header": "Beenden?",
-                        "body": "Ganz sicher beenden?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Beenden"
-                      },
-                      "confirmRetry": {
-                        "header": "Wiederholen?",
-                        "body": "Ganz sicher wiederholen?",
-                        "cancelLabel": "Abbrechen",
-                        "confirmLabel": "Bestätigen"
-                      }
-                    },
-                    "subContentId": "a1b8ce43-7f22-46c8-9138-dadb4b9bee73",
-                    "metadata": {
-                      "contentType": "True/False Question",
-                      "license": "U",
-                      "title": "Richtig Falsch",
-                      "authors": [],
-                      "changes": [],
-                      "extraTitle": "Richtig Falsch"
-                    }
-                  },
-                  {
-                    "library": "H5P.TrueFalse 1.8",
-                    "params": {
-                      "question": "<p>Sie schliessen eine Vollkaskoversicherung ab. Damit haben Sie automatisch auch eine Fahrzeug-Rechtsschutzversicherung.</p>",
+                      "question": "<p>Eine Alters- und Hinterlassenenversicherung (AHV) ist eine Form der Vermögensversicherung.</p>",
                       "correct": "false",
                       "behaviour": {
                         "enableRetry": false,
@@ -2323,8 +2229,8 @@
                         "confirmCheckDialog": false,
                         "confirmRetryDialog": false,
                         "autoCheck": false,
-                        "feedbackOnCorrect": "✅ Richtig! Die Aussage ist falsch. Das Video listet den Fahrzeug-Rechtsschutz als eine mögliche Zusatzleistung auf, die extra versichert werden muss.",
-                        "feedbackOnWrong": "❌ Falsch. Die Aussage ist tatsächlich falsch. Der Rechtsschutz ist eine separate, zusätzliche Versicherung."
+                        "feedbackOnCorrect": "✅ Richtig, die Aussage ist falsch. Die AHV ist laut Video-Beispiel eine <strong>Personenversicherung</strong>, da sie direkt die Risiken Alter und Tod der Person absichert.",
+                        "feedbackOnWrong": "❌ Falsch, die Aussage ist tatsächlich falsch. Im Video wird die AHV explizit als Beispiel für eine Personenversicherung genannt."
                       },
                       "media": {
                         "disableImageZooming": false
@@ -2357,7 +2263,7 @@
                         "confirmLabel": "Bestätigen"
                       }
                     },
-                    "subContentId": "afbce999-9cea-44a6-b308-07a1c8981a97",
+                    "subContentId": "e7ff5a80-f7ea-40b9-86d2-eb15ac7e1d8b",
                     "metadata": {
                       "contentType": "True/False Question",
                       "license": "U",
@@ -2427,14 +2333,14 @@
                 "changes": [],
                 "extraTitle": "Verständnisfragen Quiz"
               },
-              "subContentId": "db3c28bf-c8aa-45aa-b5ca-b945f9c5871f"
+              "subContentId": "a9ac9f9c-cfd2-440b-80dd-0c271c8f3f7f"
             },
             "useSeparator": "auto"
           }
         ]
       },
       "library": "H5P.Column 1.18",
-      "subContentId": "fb76305f-4e81-41a6-88bd-cbe9b00db22c",
+      "subContentId": "ff55596e-5f12-4ba0-bef0-5bffb5d3f300",
       "metadata": {
         "contentType": "Column",
         "license": "U",

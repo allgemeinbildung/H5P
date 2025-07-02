@@ -5,8 +5,8 @@
   "language": "en",
   "defaultLanguage": "de",
   "license": "U",
-  "extraTitle": "Kaskoversicherungen in der Schweiz",
-  "title": "Kaskoversicherungen in der Schweiz",
+  "extraTitle": "Einführung in das Versicherungswesen",
+  "title": "Einführung in das Versicherungswesen",
   "mainLibrary": "H5P.InteractiveBook",
   "preloadedDependencies": [
     {
